@@ -1,0 +1,751 @@
+q_id,section_index,paper,subject_label,q_no,content_page,page_end,original_page,orig_page_end
+S01|Physics|Q001,1,2nd September 2020 - Shift 1,Physics,1,1,1,2,2
+S01|Physics|Q002,1,2nd September 2020 - Shift 1,Physics,2,1,2,2,3
+S01|Physics|Q003,1,2nd September 2020 - Shift 1,Physics,3,2,3,3,4
+S01|Physics|Q004,1,2nd September 2020 - Shift 1,Physics,4,3,4,4,5
+S01|Physics|Q005,1,2nd September 2020 - Shift 1,Physics,5,4,5,5,6
+S01|Physics|Q006,1,2nd September 2020 - Shift 1,Physics,6,5,7,6,8
+S01|Physics|Q007,1,2nd September 2020 - Shift 1,Physics,7,7,7,8,8
+S01|Physics|Q008,1,2nd September 2020 - Shift 1,Physics,8,7,8,8,9
+S01|Physics|Q009,1,2nd September 2020 - Shift 1,Physics,9,8,9,9,10
+S01|Physics|Q010,1,2nd September 2020 - Shift 1,Physics,10,9,9,10,10
+S01|Physics|Q011,1,2nd September 2020 - Shift 1,Physics,11,9,10,10,11
+S01|Physics|Q012,1,2nd September 2020 - Shift 1,Physics,12,10,11,11,12
+S01|Physics|Q013,1,2nd September 2020 - Shift 1,Physics,13,11,11,12,12
+S01|Physics|Q014,1,2nd September 2020 - Shift 1,Physics,14,11,13,12,14
+S01|Physics|Q015,1,2nd September 2020 - Shift 1,Physics,15,13,14,14,15
+S01|Physics|Q016,1,2nd September 2020 - Shift 1,Physics,16,14,15,15,16
+S01|Physics|Q017,1,2nd September 2020 - Shift 1,Physics,17,15,16,16,17
+S01|Physics|Q018,1,2nd September 2020 - Shift 1,Physics,18,16,17,17,18
+S01|Physics|Q019,1,2nd September 2020 - Shift 1,Physics,19,17,19,18,20
+S01|Physics|Q020,1,2nd September 2020 - Shift 1,Physics,20,19,21,20,22
+S01|Physics|Q021,1,2nd September 2020 - Shift 1,Physics,21,21,22,22,23
+S01|Physics|Q022,1,2nd September 2020 - Shift 1,Physics,22,22,23,23,24
+S01|Physics|Q023,1,2nd September 2020 - Shift 1,Physics,23,23,24,24,25
+S01|Physics|Q024,1,2nd September 2020 - Shift 1,Physics,24,24,25,25,26
+S01|Physics|Q025,1,2nd September 2020 - Shift 1,Physics,25,25,26,26,27
+S02|Chemistry|Q001,2,2nd September 2020 - Shift 1,Chemistry,1,26,27,27,28
+S02|Chemistry|Q002,2,2nd September 2020 - Shift 1,Chemistry,2,27,28,28,29
+S02|Chemistry|Q003,2,2nd September 2020 - Shift 1,Chemistry,3,28,29,29,30
+S02|Chemistry|Q004,2,2nd September 2020 - Shift 1,Chemistry,4,29,30,30,31
+S02|Chemistry|Q005,2,2nd September 2020 - Shift 1,Chemistry,5,30,31,31,32
+S02|Chemistry|Q006,2,2nd September 2020 - Shift 1,Chemistry,6,31,33,32,34
+S02|Chemistry|Q007,2,2nd September 2020 - Shift 1,Chemistry,7,33,35,34,36
+S02|Chemistry|Q008,2,2nd September 2020 - Shift 1,Chemistry,8,35,35,36,36
+S02|Chemistry|Q009,2,2nd September 2020 - Shift 1,Chemistry,9,35,36,36,37
+S02|Chemistry|Q010,2,2nd September 2020 - Shift 1,Chemistry,10,36,37,37,38
+S02|Chemistry|Q011,2,2nd September 2020 - Shift 1,Chemistry,11,37,38,38,39
+S02|Chemistry|Q012,2,2nd September 2020 - Shift 1,Chemistry,12,38,38,39,39
+S02|Chemistry|Q013,2,2nd September 2020 - Shift 1,Chemistry,13,38,39,39,40
+S02|Chemistry|Q014,2,2nd September 2020 - Shift 1,Chemistry,14,39,40,40,41
+S02|Chemistry|Q015,2,2nd September 2020 - Shift 1,Chemistry,15,40,40,41,41
+S02|Chemistry|Q016,2,2nd September 2020 - Shift 1,Chemistry,16,40,41,41,42
+S02|Chemistry|Q017,2,2nd September 2020 - Shift 1,Chemistry,17,41,43,42,44
+S02|Chemistry|Q018,2,2nd September 2020 - Shift 1,Chemistry,18,43,44,44,45
+S02|Chemistry|Q019,2,2nd September 2020 - Shift 1,Chemistry,19,44,45,45,46
+S02|Chemistry|Q020,2,2nd September 2020 - Shift 1,Chemistry,20,45,46,46,47
+S02|Chemistry|Q021,2,2nd September 2020 - Shift 1,Chemistry,21,46,46,47,47
+S02|Chemistry|Q022,2,2nd September 2020 - Shift 1,Chemistry,22,46,47,47,48
+S02|Chemistry|Q023,2,2nd September 2020 - Shift 1,Chemistry,23,47,48,48,49
+S02|Chemistry|Q024,2,2nd September 2020 - Shift 1,Chemistry,24,48,48,49,49
+S02|Chemistry|Q025,2,2nd September 2020 - Shift 1,Chemistry,25,48,49,49,50
+S03|Mathematics|Q001,3,2nd September 2020 - Shift 1,Mathematics,1,49,50,50,51
+S03|Mathematics|Q002,3,2nd September 2020 - Shift 1,Mathematics,2,50,50,51,51
+S03|Mathematics|Q003,3,2nd September 2020 - Shift 1,Mathematics,3,50,51,51,52
+S03|Mathematics|Q004,3,2nd September 2020 - Shift 1,Mathematics,4,51,52,52,53
+S03|Mathematics|Q005,3,2nd September 2020 - Shift 1,Mathematics,5,52,53,53,54
+S03|Mathematics|Q006,3,2nd September 2020 - Shift 1,Mathematics,6,53,54,54,55
+S03|Mathematics|Q007,3,2nd September 2020 - Shift 1,Mathematics,7,54,55,55,56
+S03|Mathematics|Q008,3,2nd September 2020 - Shift 1,Mathematics,8,55,56,56,57
+S03|Mathematics|Q009,3,2nd September 2020 - Shift 1,Mathematics,9,56,57,57,58
+S03|Mathematics|Q010,3,2nd September 2020 - Shift 1,Mathematics,10,57,58,58,59
+S03|Mathematics|Q011,3,2nd September 2020 - Shift 1,Mathematics,11,58,59,59,60
+S03|Mathematics|Q012,3,2nd September 2020 - Shift 1,Mathematics,12,59,60,60,61
+S03|Mathematics|Q013,3,2nd September 2020 - Shift 1,Mathematics,13,60,61,61,62
+S03|Mathematics|Q014,3,2nd September 2020 - Shift 1,Mathematics,14,61,62,62,63
+S03|Mathematics|Q015,3,2nd September 2020 - Shift 1,Mathematics,15,62,63,63,64
+S03|Mathematics|Q016,3,2nd September 2020 - Shift 1,Mathematics,16,63,63,64,64
+S03|Mathematics|Q017,3,2nd September 2020 - Shift 1,Mathematics,17,63,65,64,66
+S03|Mathematics|Q018,3,2nd September 2020 - Shift 1,Mathematics,18,65,66,66,67
+S03|Mathematics|Q019,3,2nd September 2020 - Shift 1,Mathematics,19,66,66,67,67
+S03|Mathematics|Q020,3,2nd September 2020 - Shift 1,Mathematics,20,66,67,67,68
+S03|Mathematics|Q021,3,2nd September 2020 - Shift 1,Mathematics,21,67,68,68,69
+S03|Mathematics|Q022,3,2nd September 2020 - Shift 1,Mathematics,22,68,68,69,69
+S03|Mathematics|Q023,3,2nd September 2020 - Shift 1,Mathematics,23,68,69,69,70
+S03|Mathematics|Q024,3,2nd September 2020 - Shift 1,Mathematics,24,69,69,70,70
+S03|Mathematics|Q025,3,2nd September 2020 - Shift 1,Mathematics,25,69,71,70,72
+S04|Physics|Q001,4,2nd September Shift-2,Physics,1,71,72,72,73
+S04|Physics|Q002,4,2nd September Shift-2,Physics,2,72,73,73,74
+S04|Physics|Q003,4,2nd September Shift-2,Physics,3,73,74,74,75
+S04|Physics|Q004,4,2nd September Shift-2,Physics,4,74,75,75,76
+S04|Physics|Q005,4,2nd September Shift-2,Physics,5,75,76,76,77
+S04|Physics|Q006,4,2nd September Shift-2,Physics,6,76,76,77,77
+S04|Physics|Q007,4,2nd September Shift-2,Physics,7,76,77,77,78
+S04|Physics|Q008,4,2nd September Shift-2,Physics,8,77,78,78,79
+S04|Physics|Q009,4,2nd September Shift-2,Physics,9,78,79,79,80
+S04|Physics|Q010,4,2nd September Shift-2,Physics,10,79,80,80,81
+S04|Physics|Q011,4,2nd September Shift-2,Physics,11,80,81,81,82
+S04|Physics|Q012,4,2nd September Shift-2,Physics,12,81,82,82,83
+S04|Physics|Q013,4,2nd September Shift-2,Physics,13,82,83,83,84
+S04|Physics|Q014,4,2nd September Shift-2,Physics,14,83,84,84,85
+S04|Physics|Q015,4,2nd September Shift-2,Physics,15,84,85,85,86
+S04|Physics|Q016,4,2nd September Shift-2,Physics,16,85,86,86,87
+S04|Physics|Q017,4,2nd September Shift-2,Physics,17,86,86,87,87
+S04|Physics|Q018,4,2nd September Shift-2,Physics,18,86,87,87,88
+S04|Physics|Q019,4,2nd September Shift-2,Physics,19,87,88,88,89
+S04|Physics|Q020,4,2nd September Shift-2,Physics,20,88,89,89,90
+S04|Physics|Q021,4,2nd September Shift-2,Physics,21,89,90,90,91
+S04|Physics|Q022,4,2nd September Shift-2,Physics,22,90,91,91,92
+S04|Physics|Q023,4,2nd September Shift-2,Physics,23,91,93,92,94
+S04|Physics|Q024,4,2nd September Shift-2,Physics,24,93,94,94,95
+S04|Physics|Q025,4,2nd September Shift-2,Physics,25,94,95,95,96
+S05|Chemistry|Q001,5,2nd September Shift-2,Chemistry,1,95,96,96,97
+S05|Chemistry|Q002,5,2nd September Shift-2,Chemistry,2,96,97,97,98
+S05|Chemistry|Q003,5,2nd September Shift-2,Chemistry,3,97,97,98,98
+S05|Chemistry|Q004,5,2nd September Shift-2,Chemistry,4,97,98,98,99
+S05|Chemistry|Q005,5,2nd September Shift-2,Chemistry,5,98,99,99,100
+S05|Chemistry|Q006,5,2nd September Shift-2,Chemistry,6,99,99,100,100
+S05|Chemistry|Q007,5,2nd September Shift-2,Chemistry,7,99,100,100,101
+S05|Chemistry|Q008,5,2nd September Shift-2,Chemistry,8,100,101,101,102
+S05|Chemistry|Q009,5,2nd September Shift-2,Chemistry,9,101,102,102,103
+S05|Chemistry|Q010,5,2nd September Shift-2,Chemistry,10,102,103,103,104
+S05|Chemistry|Q011,5,2nd September Shift-2,Chemistry,11,103,103,104,104
+S05|Chemistry|Q012,5,2nd September Shift-2,Chemistry,12,103,104,104,105
+S05|Chemistry|Q013,5,2nd September Shift-2,Chemistry,13,104,105,105,106
+S05|Chemistry|Q014,5,2nd September Shift-2,Chemistry,14,105,105,106,106
+S05|Chemistry|Q015,5,2nd September Shift-2,Chemistry,15,105,106,106,107
+S05|Chemistry|Q016,5,2nd September Shift-2,Chemistry,16,106,108,107,109
+S05|Chemistry|Q017,5,2nd September Shift-2,Chemistry,17,108,109,109,110
+S05|Chemistry|Q018,5,2nd September Shift-2,Chemistry,18,109,110,110,111
+S05|Chemistry|Q019,5,2nd September Shift-2,Chemistry,19,110,111,111,112
+S05|Chemistry|Q020,5,2nd September Shift-2,Chemistry,20,111,112,112,113
+S05|Chemistry|Q021,5,2nd September Shift-2,Chemistry,21,112,113,113,114
+S05|Chemistry|Q022,5,2nd September Shift-2,Chemistry,22,113,113,114,114
+S05|Chemistry|Q023,5,2nd September Shift-2,Chemistry,23,113,114,114,115
+S05|Chemistry|Q024,5,2nd September Shift-2,Chemistry,24,114,114,115,115
+S05|Chemistry|Q025,5,2nd September Shift-2,Chemistry,25,114,115,115,116
+S06|Mathematics|Q001,6,2nd September Shift-2,Mathematics,1,115,116,116,117
+S06|Mathematics|Q002,6,2nd September Shift-2,Mathematics,2,116,117,117,118
+S06|Mathematics|Q003,6,2nd September Shift-2,Mathematics,3,117,118,118,119
+S06|Mathematics|Q004,6,2nd September Shift-2,Mathematics,4,118,119,119,120
+S06|Mathematics|Q005,6,2nd September Shift-2,Mathematics,5,119,120,120,121
+S06|Mathematics|Q006,6,2nd September Shift-2,Mathematics,6,120,120,121,121
+S06|Mathematics|Q007,6,2nd September Shift-2,Mathematics,7,120,121,121,122
+S06|Mathematics|Q008,6,2nd September Shift-2,Mathematics,8,121,122,122,123
+S06|Mathematics|Q009,6,2nd September Shift-2,Mathematics,9,122,123,123,124
+S06|Mathematics|Q010,6,2nd September Shift-2,Mathematics,10,123,124,124,125
+S06|Mathematics|Q011,6,2nd September Shift-2,Mathematics,11,124,125,125,126
+S06|Mathematics|Q012,6,2nd September Shift-2,Mathematics,12,125,126,126,127
+S06|Mathematics|Q013,6,2nd September Shift-2,Mathematics,13,126,127,127,128
+S06|Mathematics|Q014,6,2nd September Shift-2,Mathematics,14,127,128,128,129
+S06|Mathematics|Q015,6,2nd September Shift-2,Mathematics,15,128,129,129,130
+S06|Mathematics|Q016,6,2nd September Shift-2,Mathematics,16,129,130,130,131
+S06|Mathematics|Q017,6,2nd September Shift-2,Mathematics,17,130,131,131,132
+S06|Mathematics|Q018,6,2nd September Shift-2,Mathematics,18,131,132,132,133
+S06|Mathematics|Q019,6,2nd September Shift-2,Mathematics,19,132,132,133,133
+S06|Mathematics|Q020,6,2nd September Shift-2,Mathematics,20,132,133,133,134
+S06|Mathematics|Q021,6,2nd September Shift-2,Mathematics,21,133,134,134,135
+S06|Mathematics|Q022,6,2nd September Shift-2,Mathematics,22,134,134,135,135
+S06|Mathematics|Q023,6,2nd September Shift-2,Mathematics,23,134,135,135,136
+S06|Mathematics|Q024,6,2nd September Shift-2,Mathematics,24,135,136,136,137
+S06|Mathematics|Q025,6,2nd September Shift-2,Mathematics,25,136,138,137,139
+S07|Physics|Q001,7,3rd September Shift 1,Physics,1,138,139,139,140
+S07|Physics|Q002,7,3rd September Shift 1,Physics,2,139,140,140,141
+S07|Physics|Q003,7,3rd September Shift 1,Physics,3,140,141,141,142
+S07|Physics|Q004,7,3rd September Shift 1,Physics,4,141,142,142,143
+S07|Physics|Q005,7,3rd September Shift 1,Physics,5,142,143,143,144
+S07|Physics|Q006,7,3rd September Shift 1,Physics,6,143,144,144,145
+S07|Physics|Q007,7,3rd September Shift 1,Physics,7,144,145,145,146
+S07|Physics|Q008,7,3rd September Shift 1,Physics,8,145,145,146,146
+S07|Physics|Q009,7,3rd September Shift 1,Physics,9,145,146,146,147
+S07|Physics|Q010,7,3rd September Shift 1,Physics,10,146,147,147,148
+S07|Physics|Q011,7,3rd September Shift 1,Physics,11,147,148,148,149
+S07|Physics|Q012,7,3rd September Shift 1,Physics,12,148,149,149,150
+S07|Physics|Q013,7,3rd September Shift 1,Physics,13,149,150,150,151
+S07|Physics|Q014,7,3rd September Shift 1,Physics,14,150,151,151,152
+S07|Physics|Q015,7,3rd September Shift 1,Physics,15,151,151,152,152
+S07|Physics|Q016,7,3rd September Shift 1,Physics,16,151,153,152,154
+S07|Physics|Q017,7,3rd September Shift 1,Physics,17,153,153,154,154
+S07|Physics|Q018,7,3rd September Shift 1,Physics,18,153,154,154,155
+S07|Physics|Q019,7,3rd September Shift 1,Physics,19,154,155,155,156
+S07|Physics|Q020,7,3rd September Shift 1,Physics,20,155,156,156,157
+S07|Physics|Q021,7,3rd September Shift 1,Physics,21,156,157,157,158
+S07|Physics|Q022,7,3rd September Shift 1,Physics,22,157,158,158,159
+S07|Physics|Q023,7,3rd September Shift 1,Physics,23,158,159,159,160
+S07|Physics|Q024,7,3rd September Shift 1,Physics,24,159,160,160,161
+S07|Physics|Q025,7,3rd September Shift 1,Physics,25,160,161,161,162
+S08|Chemistry|Q001,8,3rd September Shift 1,Chemistry,1,161,162,162,163
+S08|Chemistry|Q002,8,3rd September Shift 1,Chemistry,2,162,162,163,163
+S08|Chemistry|Q003,8,3rd September Shift 1,Chemistry,3,162,163,163,164
+S08|Chemistry|Q004,8,3rd September Shift 1,Chemistry,4,163,164,164,165
+S08|Chemistry|Q005,8,3rd September Shift 1,Chemistry,5,164,165,165,166
+S08|Chemistry|Q006,8,3rd September Shift 1,Chemistry,6,165,166,166,167
+S08|Chemistry|Q007,8,3rd September Shift 1,Chemistry,7,166,167,167,168
+S08|Chemistry|Q008,8,3rd September Shift 1,Chemistry,8,167,167,168,168
+S08|Chemistry|Q009,8,3rd September Shift 1,Chemistry,9,167,168,168,169
+S08|Chemistry|Q010,8,3rd September Shift 1,Chemistry,10,168,169,169,170
+S08|Chemistry|Q011,8,3rd September Shift 1,Chemistry,11,169,169,170,170
+S08|Chemistry|Q012,8,3rd September Shift 1,Chemistry,12,169,170,170,171
+S08|Chemistry|Q013,8,3rd September Shift 1,Chemistry,13,170,171,171,172
+S08|Chemistry|Q014,8,3rd September Shift 1,Chemistry,14,171,172,172,173
+S08|Chemistry|Q015,8,3rd September Shift 1,Chemistry,15,172,173,173,174
+S08|Chemistry|Q016,8,3rd September Shift 1,Chemistry,16,173,174,174,175
+S08|Chemistry|Q017,8,3rd September Shift 1,Chemistry,17,174,175,175,176
+S08|Chemistry|Q018,8,3rd September Shift 1,Chemistry,18,175,176,176,177
+S08|Chemistry|Q019,8,3rd September Shift 1,Chemistry,19,176,177,177,178
+S08|Chemistry|Q020,8,3rd September Shift 1,Chemistry,20,177,177,178,178
+S08|Chemistry|Q021,8,3rd September Shift 1,Chemistry,21,177,178,178,179
+S08|Chemistry|Q022,8,3rd September Shift 1,Chemistry,22,178,179,179,180
+S08|Chemistry|Q023,8,3rd September Shift 1,Chemistry,23,179,180,180,181
+S08|Chemistry|Q024,8,3rd September Shift 1,Chemistry,24,180,180,181,181
+S08|Chemistry|Q025,8,3rd September Shift 1,Chemistry,25,180,181,181,182
+S09|Mathematics|Q001,9,3rd September Shift 1,Mathematics,1,181,182,182,183
+S09|Mathematics|Q002,9,3rd September Shift 1,Mathematics,2,182,183,183,184
+S09|Mathematics|Q003,9,3rd September Shift 1,Mathematics,3,183,184,184,185
+S09|Mathematics|Q004,9,3rd September Shift 1,Mathematics,4,184,185,185,186
+S09|Mathematics|Q005,9,3rd September Shift 1,Mathematics,5,185,185,186,186
+S09|Mathematics|Q006,9,3rd September Shift 1,Mathematics,6,185,186,186,187
+S09|Mathematics|Q007,9,3rd September Shift 1,Mathematics,7,186,187,187,188
+S09|Mathematics|Q008,9,3rd September Shift 1,Mathematics,8,187,188,188,189
+S09|Mathematics|Q009,9,3rd September Shift 1,Mathematics,9,188,189,189,190
+S09|Mathematics|Q010,9,3rd September Shift 1,Mathematics,10,189,190,190,191
+S09|Mathematics|Q011,9,3rd September Shift 1,Mathematics,11,190,191,191,192
+S09|Mathematics|Q012,9,3rd September Shift 1,Mathematics,12,191,192,192,193
+S09|Mathematics|Q013,9,3rd September Shift 1,Mathematics,13,192,193,193,194
+S09|Mathematics|Q014,9,3rd September Shift 1,Mathematics,14,193,194,194,195
+S09|Mathematics|Q015,9,3rd September Shift 1,Mathematics,15,194,194,195,195
+S09|Mathematics|Q016,9,3rd September Shift 1,Mathematics,16,194,195,195,196
+S09|Mathematics|Q017,9,3rd September Shift 1,Mathematics,17,195,196,196,197
+S09|Mathematics|Q018,9,3rd September Shift 1,Mathematics,18,196,197,197,198
+S09|Mathematics|Q019,9,3rd September Shift 1,Mathematics,19,197,197,198,198
+S09|Mathematics|Q020,9,3rd September Shift 1,Mathematics,20,197,198,198,199
+S09|Mathematics|Q021,9,3rd September Shift 1,Mathematics,21,198,199,199,200
+S09|Mathematics|Q022,9,3rd September Shift 1,Mathematics,22,199,200,200,201
+S09|Mathematics|Q023,9,3rd September Shift 1,Mathematics,23,200,200,201,201
+S09|Mathematics|Q024,9,3rd September Shift 1,Mathematics,24,200,201,201,202
+S09|Mathematics|Q025,9,3rd September Shift 1,Mathematics,25,201,203,202,204
+S10|Physics|Q001,10,3rd September Shift 2,Physics,1,203,204,204,205
+S10|Physics|Q002,10,3rd September Shift 2,Physics,2,204,205,205,206
+S10|Physics|Q003,10,3rd September Shift 2,Physics,3,205,205,206,206
+S10|Physics|Q004,10,3rd September Shift 2,Physics,4,205,208,206,209
+S10|Physics|Q005,10,3rd September Shift 2,Physics,5,208,208,209,209
+S10|Physics|Q006,10,3rd September Shift 2,Physics,6,208,210,209,211
+S10|Physics|Q007,10,3rd September Shift 2,Physics,7,210,211,211,212
+S10|Physics|Q008,10,3rd September Shift 2,Physics,8,211,211,212,212
+S10|Physics|Q009,10,3rd September Shift 2,Physics,9,211,212,212,213
+S10|Physics|Q010,10,3rd September Shift 2,Physics,10,212,213,213,214
+S10|Physics|Q011,10,3rd September Shift 2,Physics,11,213,214,214,215
+S10|Physics|Q012,10,3rd September Shift 2,Physics,12,214,214,215,215
+S10|Physics|Q013,10,3rd September Shift 2,Physics,13,214,215,215,216
+S10|Physics|Q014,10,3rd September Shift 2,Physics,14,215,216,216,217
+S10|Physics|Q015,10,3rd September Shift 2,Physics,15,216,217,217,218
+S10|Physics|Q016,10,3rd September Shift 2,Physics,16,217,218,218,219
+S10|Physics|Q017,10,3rd September Shift 2,Physics,17,218,218,219,219
+S10|Physics|Q018,10,3rd September Shift 2,Physics,18,218,219,219,220
+S10|Physics|Q019,10,3rd September Shift 2,Physics,19,219,220,220,221
+S10|Physics|Q020,10,3rd September Shift 2,Physics,20,220,221,221,222
+S10|Physics|Q021,10,3rd September Shift 2,Physics,21,221,222,222,223
+S10|Physics|Q022,10,3rd September Shift 2,Physics,22,222,223,223,224
+S10|Physics|Q023,10,3rd September Shift 2,Physics,23,223,225,224,226
+S10|Physics|Q024,10,3rd September Shift 2,Physics,24,225,226,226,227
+S10|Physics|Q025,10,3rd September Shift 2,Physics,25,226,227,227,228
+S11|Chemistry|Q001,11,3rd September Shift 2,Chemistry,1,227,227,228,228
+S11|Chemistry|Q002,11,3rd September Shift 2,Chemistry,2,227,228,228,229
+S11|Chemistry|Q003,11,3rd September Shift 2,Chemistry,3,228,229,229,230
+S11|Chemistry|Q004,11,3rd September Shift 2,Chemistry,4,229,230,230,231
+S11|Chemistry|Q005,11,3rd September Shift 2,Chemistry,5,230,231,231,232
+S11|Chemistry|Q006,11,3rd September Shift 2,Chemistry,6,231,233,232,234
+S11|Chemistry|Q007,11,3rd September Shift 2,Chemistry,7,233,234,234,235
+S11|Chemistry|Q008,11,3rd September Shift 2,Chemistry,8,234,235,235,236
+S11|Chemistry|Q009,11,3rd September Shift 2,Chemistry,9,235,237,236,238
+S11|Chemistry|Q010,11,3rd September Shift 2,Chemistry,10,237,237,238,238
+S11|Chemistry|Q011,11,3rd September Shift 2,Chemistry,11,237,239,238,240
+S11|Chemistry|Q012,11,3rd September Shift 2,Chemistry,12,239,240,240,241
+S11|Chemistry|Q013,11,3rd September Shift 2,Chemistry,13,240,241,241,242
+S11|Chemistry|Q014,11,3rd September Shift 2,Chemistry,14,241,242,242,243
+S11|Chemistry|Q015,11,3rd September Shift 2,Chemistry,15,242,242,243,243
+S11|Chemistry|Q016,11,3rd September Shift 2,Chemistry,16,242,243,243,244
+S11|Chemistry|Q017,11,3rd September Shift 2,Chemistry,17,243,244,244,245
+S11|Chemistry|Q018,11,3rd September Shift 2,Chemistry,18,244,246,245,247
+S11|Chemistry|Q019,11,3rd September Shift 2,Chemistry,19,246,247,247,248
+S11|Chemistry|Q020,11,3rd September Shift 2,Chemistry,20,247,248,248,249
+S11|Chemistry|Q021,11,3rd September Shift 2,Chemistry,21,248,249,249,250
+S11|Chemistry|Q022,11,3rd September Shift 2,Chemistry,22,249,249,250,250
+S11|Chemistry|Q023,11,3rd September Shift 2,Chemistry,23,249,250,250,251
+S11|Chemistry|Q024,11,3rd September Shift 2,Chemistry,24,250,250,251,251
+S11|Chemistry|Q025,11,3rd September Shift 2,Chemistry,25,250,251,251,252
+S12|Mathematics|Q001,12,3rd September Shift 2,Mathematics,1,251,252,252,253
+S12|Mathematics|Q002,12,3rd September Shift 2,Mathematics,2,252,253,253,254
+S12|Mathematics|Q003,12,3rd September Shift 2,Mathematics,3,253,254,254,255
+S12|Mathematics|Q004,12,3rd September Shift 2,Mathematics,4,254,254,255,255
+S12|Mathematics|Q005,12,3rd September Shift 2,Mathematics,5,254,255,255,256
+S12|Mathematics|Q006,12,3rd September Shift 2,Mathematics,6,255,256,256,257
+S12|Mathematics|Q007,12,3rd September Shift 2,Mathematics,7,256,257,257,258
+S12|Mathematics|Q008,12,3rd September Shift 2,Mathematics,8,257,258,258,259
+S12|Mathematics|Q009,12,3rd September Shift 2,Mathematics,9,258,259,259,260
+S12|Mathematics|Q010,12,3rd September Shift 2,Mathematics,10,259,260,260,261
+S12|Mathematics|Q011,12,3rd September Shift 2,Mathematics,11,260,261,261,262
+S12|Mathematics|Q012,12,3rd September Shift 2,Mathematics,12,261,262,262,263
+S12|Mathematics|Q013,12,3rd September Shift 2,Mathematics,13,262,263,263,264
+S12|Mathematics|Q014,12,3rd September Shift 2,Mathematics,14,263,263,264,264
+S12|Mathematics|Q015,12,3rd September Shift 2,Mathematics,15,263,264,264,265
+S12|Mathematics|Q016,12,3rd September Shift 2,Mathematics,16,264,265,265,266
+S12|Mathematics|Q017,12,3rd September Shift 2,Mathematics,17,265,266,266,267
+S12|Mathematics|Q018,12,3rd September Shift 2,Mathematics,18,266,267,267,268
+S12|Mathematics|Q019,12,3rd September Shift 2,Mathematics,19,267,268,268,269
+S12|Mathematics|Q020,12,3rd September Shift 2,Mathematics,20,268,268,269,269
+S12|Mathematics|Q021,12,3rd September Shift 2,Mathematics,21,268,269,269,270
+S12|Mathematics|Q022,12,3rd September Shift 2,Mathematics,22,269,269,270,270
+S12|Mathematics|Q023,12,3rd September Shift 2,Mathematics,23,269,270,270,271
+S12|Mathematics|Q024,12,3rd September Shift 2,Mathematics,24,270,272,271,273
+S12|Mathematics|Q025,12,3rd September Shift 2,Mathematics,25,272,274,273,275
+S13|Physics|Q001,13,4th September Shift 1,Physics,1,274,275,275,276
+S13|Physics|Q002,13,4th September Shift 1,Physics,2,275,276,276,277
+S13|Physics|Q003,13,4th September Shift 1,Physics,3,276,277,277,278
+S13|Physics|Q004,13,4th September Shift 1,Physics,4,277,278,278,279
+S13|Physics|Q005,13,4th September Shift 1,Physics,5,278,279,279,280
+S13|Physics|Q006,13,4th September Shift 1,Physics,6,279,280,280,281
+S13|Physics|Q007,13,4th September Shift 1,Physics,7,280,281,281,282
+S13|Physics|Q008,13,4th September Shift 1,Physics,8,281,282,282,283
+S13|Physics|Q009,13,4th September Shift 1,Physics,9,282,283,283,284
+S13|Physics|Q010,13,4th September Shift 1,Physics,10,283,284,284,285
+S13|Physics|Q011,13,4th September Shift 1,Physics,11,284,285,285,286
+S13|Physics|Q012,13,4th September Shift 1,Physics,12,285,286,286,287
+S13|Physics|Q013,13,4th September Shift 1,Physics,13,286,288,287,289
+S13|Physics|Q014,13,4th September Shift 1,Physics,14,288,289,289,290
+S13|Physics|Q015,13,4th September Shift 1,Physics,15,289,289,290,290
+S13|Physics|Q016,13,4th September Shift 1,Physics,16,289,290,290,291
+S13|Physics|Q017,13,4th September Shift 1,Physics,17,290,291,291,292
+S13|Physics|Q018,13,4th September Shift 1,Physics,18,291,292,292,293
+S13|Physics|Q019,13,4th September Shift 1,Physics,19,292,292,293,293
+S13|Physics|Q020,13,4th September Shift 1,Physics,20,292,293,293,294
+S13|Physics|Q021,13,4th September Shift 1,Physics,21,293,294,294,295
+S13|Physics|Q022,13,4th September Shift 1,Physics,22,294,295,295,296
+S13|Physics|Q023,13,4th September Shift 1,Physics,23,295,297,296,298
+S13|Physics|Q024,13,4th September Shift 1,Physics,24,297,298,298,299
+S13|Physics|Q025,13,4th September Shift 1,Physics,25,298,299,299,300
+S14|Chemistry|Q001,14,4th September Shift 1,Chemistry,1,299,300,300,301
+S14|Chemistry|Q002,14,4th September Shift 1,Chemistry,2,300,300,301,301
+S14|Chemistry|Q003,14,4th September Shift 1,Chemistry,3,300,301,301,302
+S14|Chemistry|Q004,14,4th September Shift 1,Chemistry,4,301,302,302,303
+S14|Chemistry|Q005,14,4th September Shift 1,Chemistry,5,302,303,303,304
+S14|Chemistry|Q006,14,4th September Shift 1,Chemistry,6,303,303,304,304
+S14|Chemistry|Q007,14,4th September Shift 1,Chemistry,7,303,304,304,305
+S14|Chemistry|Q008,14,4th September Shift 1,Chemistry,8,304,305,305,306
+S14|Chemistry|Q009,14,4th September Shift 1,Chemistry,9,305,305,306,306
+S14|Chemistry|Q010,14,4th September Shift 1,Chemistry,10,305,307,306,308
+S14|Chemistry|Q011,14,4th September Shift 1,Chemistry,11,307,308,308,309
+S14|Chemistry|Q012,14,4th September Shift 1,Chemistry,12,308,309,309,310
+S14|Chemistry|Q013,14,4th September Shift 1,Chemistry,13,309,310,310,311
+S14|Chemistry|Q014,14,4th September Shift 1,Chemistry,14,310,311,311,312
+S14|Chemistry|Q015,14,4th September Shift 1,Chemistry,15,311,313,312,314
+S14|Chemistry|Q016,14,4th September Shift 1,Chemistry,16,313,314,314,315
+S14|Chemistry|Q017,14,4th September Shift 1,Chemistry,17,314,315,315,316
+S14|Chemistry|Q018,14,4th September Shift 1,Chemistry,18,315,316,316,317
+S14|Chemistry|Q019,14,4th September Shift 1,Chemistry,19,316,317,317,318
+S14|Chemistry|Q020,14,4th September Shift 1,Chemistry,20,317,318,318,319
+S14|Chemistry|Q021,14,4th September Shift 1,Chemistry,21,318,319,319,320
+S14|Chemistry|Q022,14,4th September Shift 1,Chemistry,22,319,319,320,320
+S14|Chemistry|Q023,14,4th September Shift 1,Chemistry,23,319,320,320,321
+S14|Chemistry|Q024,14,4th September Shift 1,Chemistry,24,320,321,321,322
+S14|Chemistry|Q025,14,4th September Shift 1,Chemistry,25,321,322,322,323
+S15|Mathematics|Q001,15,4th September Shift 1,Mathematics,1,322,323,323,324
+S15|Mathematics|Q002,15,4th September Shift 1,Mathematics,2,323,324,324,325
+S15|Mathematics|Q003,15,4th September Shift 1,Mathematics,3,324,325,325,326
+S15|Mathematics|Q004,15,4th September Shift 1,Mathematics,4,325,326,326,327
+S15|Mathematics|Q005,15,4th September Shift 1,Mathematics,5,326,327,327,328
+S15|Mathematics|Q006,15,4th September Shift 1,Mathematics,6,327,327,328,328
+S15|Mathematics|Q007,15,4th September Shift 1,Mathematics,7,327,328,328,329
+S15|Mathematics|Q008,15,4th September Shift 1,Mathematics,8,328,328,329,329
+S15|Mathematics|Q009,15,4th September Shift 1,Mathematics,9,328,329,329,330
+S15|Mathematics|Q010,15,4th September Shift 1,Mathematics,10,329,330,330,331
+S15|Mathematics|Q011,15,4th September Shift 1,Mathematics,11,330,331,331,332
+S15|Mathematics|Q012,15,4th September Shift 1,Mathematics,12,331,331,332,332
+S15|Mathematics|Q013,15,4th September Shift 1,Mathematics,13,331,332,332,333
+S15|Mathematics|Q014,15,4th September Shift 1,Mathematics,14,332,333,333,334
+S15|Mathematics|Q015,15,4th September Shift 1,Mathematics,15,333,334,334,335
+S15|Mathematics|Q016,15,4th September Shift 1,Mathematics,16,334,334,335,335
+S15|Mathematics|Q017,15,4th September Shift 1,Mathematics,17,334,335,335,336
+S15|Mathematics|Q018,15,4th September Shift 1,Mathematics,18,335,336,336,337
+S15|Mathematics|Q019,15,4th September Shift 1,Mathematics,19,336,337,337,338
+S15|Mathematics|Q020,15,4th September Shift 1,Mathematics,20,337,338,338,339
+S15|Mathematics|Q021,15,4th September Shift 1,Mathematics,21,338,338,339,339
+S15|Mathematics|Q022,15,4th September Shift 1,Mathematics,22,338,339,339,340
+S15|Mathematics|Q023,15,4th September Shift 1,Mathematics,23,339,339,340,340
+S15|Mathematics|Q024,15,4th September Shift 1,Mathematics,24,339,339,340,340
+S15|Mathematics|Q025,15,4th September Shift 1,Mathematics,25,339,341,340,342
+S16|Physics|Q001,16,4th September Shift 2,Physics,1,341,342,342,343
+S16|Physics|Q002,16,4th September Shift 2,Physics,2,342,342,343,343
+S16|Physics|Q003,16,4th September Shift 2,Physics,3,342,343,343,344
+S16|Physics|Q004,16,4th September Shift 2,Physics,4,343,344,344,345
+S16|Physics|Q005,16,4th September Shift 2,Physics,5,344,345,345,346
+S16|Physics|Q006,16,4th September Shift 2,Physics,6,345,345,346,346
+S16|Physics|Q007,16,4th September Shift 2,Physics,7,345,346,346,347
+S16|Physics|Q008,16,4th September Shift 2,Physics,8,346,347,347,348
+S16|Physics|Q009,16,4th September Shift 2,Physics,9,347,348,348,349
+S16|Physics|Q010,16,4th September Shift 2,Physics,10,348,349,349,350
+S16|Physics|Q011,16,4th September Shift 2,Physics,11,349,350,350,351
+S16|Physics|Q012,16,4th September Shift 2,Physics,12,350,351,351,352
+S16|Physics|Q013,16,4th September Shift 2,Physics,13,351,352,352,353
+S16|Physics|Q014,16,4th September Shift 2,Physics,14,352,352,353,353
+S16|Physics|Q015,16,4th September Shift 2,Physics,15,352,353,353,354
+S16|Physics|Q016,16,4th September Shift 2,Physics,16,353,354,354,355
+S16|Physics|Q017,16,4th September Shift 2,Physics,17,354,355,355,356
+S16|Physics|Q018,16,4th September Shift 2,Physics,18,355,356,356,357
+S16|Physics|Q019,16,4th September Shift 2,Physics,19,356,357,357,358
+S16|Physics|Q020,16,4th September Shift 2,Physics,20,357,358,358,359
+S16|Physics|Q021,16,4th September Shift 2,Physics,21,358,359,359,360
+S16|Physics|Q022,16,4th September Shift 2,Physics,22,359,359,360,360
+S16|Physics|Q023,16,4th September Shift 2,Physics,23,359,360,360,361
+S16|Physics|Q024,16,4th September Shift 2,Physics,24,360,361,361,362
+S16|Physics|Q025,16,4th September Shift 2,Physics,25,361,361,362,362
+S17|Chemistry|Q001,17,4th September Shift 2,Chemistry,1,361,362,362,363
+S17|Chemistry|Q002,17,4th September Shift 2,Chemistry,2,362,363,363,364
+S17|Chemistry|Q003,17,4th September Shift 2,Chemistry,3,363,364,364,365
+S17|Chemistry|Q004,17,4th September Shift 2,Chemistry,4,364,364,365,365
+S17|Chemistry|Q005,17,4th September Shift 2,Chemistry,5,364,366,365,367
+S17|Chemistry|Q006,17,4th September Shift 2,Chemistry,6,366,367,367,368
+S17|Chemistry|Q007,17,4th September Shift 2,Chemistry,7,367,368,368,369
+S17|Chemistry|Q008,17,4th September Shift 2,Chemistry,8,368,369,369,370
+S17|Chemistry|Q009,17,4th September Shift 2,Chemistry,9,369,370,370,371
+S17|Chemistry|Q010,17,4th September Shift 2,Chemistry,10,370,370,371,371
+S17|Chemistry|Q011,17,4th September Shift 2,Chemistry,11,370,371,371,372
+S17|Chemistry|Q012,17,4th September Shift 2,Chemistry,12,371,372,372,373
+S17|Chemistry|Q013,17,4th September Shift 2,Chemistry,13,372,373,373,374
+S17|Chemistry|Q014,17,4th September Shift 2,Chemistry,14,373,374,374,375
+S17|Chemistry|Q015,17,4th September Shift 2,Chemistry,15,374,374,375,375
+S17|Chemistry|Q016,17,4th September Shift 2,Chemistry,16,374,375,375,376
+S17|Chemistry|Q017,17,4th September Shift 2,Chemistry,17,375,376,376,377
+S17|Chemistry|Q018,17,4th September Shift 2,Chemistry,18,376,377,377,378
+S17|Chemistry|Q019,17,4th September Shift 2,Chemistry,19,377,378,378,379
+S17|Chemistry|Q020,17,4th September Shift 2,Chemistry,20,378,379,379,380
+S17|Chemistry|Q021,17,4th September Shift 2,Chemistry,21,379,381,380,382
+S17|Chemistry|Q022,17,4th September Shift 2,Chemistry,22,381,381,382,382
+S17|Chemistry|Q023,17,4th September Shift 2,Chemistry,23,381,382,382,383
+S17|Chemistry|Q024,17,4th September Shift 2,Chemistry,24,382,383,383,384
+S17|Chemistry|Q025,17,4th September Shift 2,Chemistry,25,383,383,384,384
+S18|Mathematics|Q001,18,4th September Shift 2,Mathematics,1,383,384,384,385
+S18|Mathematics|Q002,18,4th September Shift 2,Mathematics,2,384,385,385,386
+S18|Mathematics|Q003,18,4th September Shift 2,Mathematics,3,385,385,386,386
+S18|Mathematics|Q004,18,4th September Shift 2,Mathematics,4,385,386,386,387
+S18|Mathematics|Q005,18,4th September Shift 2,Mathematics,5,386,387,387,388
+S18|Mathematics|Q006,18,4th September Shift 2,Mathematics,6,387,388,388,389
+S18|Mathematics|Q007,18,4th September Shift 2,Mathematics,7,388,389,389,390
+S18|Mathematics|Q008,18,4th September Shift 2,Mathematics,8,389,390,390,391
+S18|Mathematics|Q009,18,4th September Shift 2,Mathematics,9,390,391,391,392
+S18|Mathematics|Q010,18,4th September Shift 2,Mathematics,10,391,391,392,392
+S18|Mathematics|Q011,18,4th September Shift 2,Mathematics,11,391,392,392,393
+S18|Mathematics|Q012,18,4th September Shift 2,Mathematics,12,392,393,393,394
+S18|Mathematics|Q013,18,4th September Shift 2,Mathematics,13,393,394,394,395
+S18|Mathematics|Q014,18,4th September Shift 2,Mathematics,14,394,395,395,396
+S18|Mathematics|Q015,18,4th September Shift 2,Mathematics,15,395,396,396,397
+S18|Mathematics|Q016,18,4th September Shift 2,Mathematics,16,396,396,397,397
+S18|Mathematics|Q017,18,4th September Shift 2,Mathematics,17,396,397,397,398
+S18|Mathematics|Q018,18,4th September Shift 2,Mathematics,18,397,398,398,399
+S18|Mathematics|Q019,18,4th September Shift 2,Mathematics,19,398,399,399,400
+S18|Mathematics|Q020,18,4th September Shift 2,Mathematics,20,399,399,400,400
+S18|Mathematics|Q021,18,4th September Shift 2,Mathematics,21,399,400,400,401
+S18|Mathematics|Q022,18,4th September Shift 2,Mathematics,22,400,400,401,401
+S18|Mathematics|Q023,18,4th September Shift 2,Mathematics,23,400,401,401,402
+S18|Mathematics|Q024,18,4th September Shift 2,Mathematics,24,401,401,402,402
+S18|Mathematics|Q025,18,4th September Shift 2,Mathematics,25,401,403,402,404
+S19|Physics|Q001,19,5th September Shift 1,Physics,1,403,404,404,405
+S19|Physics|Q002,19,5th September Shift 1,Physics,2,404,405,405,406
+S19|Physics|Q003,19,5th September Shift 1,Physics,3,405,406,406,407
+S19|Physics|Q004,19,5th September Shift 1,Physics,4,406,407,407,408
+S19|Physics|Q005,19,5th September Shift 1,Physics,5,407,408,408,409
+S19|Physics|Q006,19,5th September Shift 1,Physics,6,408,409,409,410
+S19|Physics|Q007,19,5th September Shift 1,Physics,7,409,410,410,411
+S19|Physics|Q008,19,5th September Shift 1,Physics,8,410,411,411,412
+S19|Physics|Q009,19,5th September Shift 1,Physics,9,411,412,412,413
+S19|Physics|Q010,19,5th September Shift 1,Physics,10,412,413,413,414
+S19|Physics|Q011,19,5th September Shift 1,Physics,11,413,413,414,414
+S19|Physics|Q012,19,5th September Shift 1,Physics,12,413,415,414,416
+S19|Physics|Q013,19,5th September Shift 1,Physics,13,415,416,416,417
+S19|Physics|Q014,19,5th September Shift 1,Physics,14,416,416,417,417
+S19|Physics|Q015,19,5th September Shift 1,Physics,15,416,417,417,418
+S19|Physics|Q016,19,5th September Shift 1,Physics,16,417,418,418,419
+S19|Physics|Q017,19,5th September Shift 1,Physics,17,418,419,419,420
+S19|Physics|Q018,19,5th September Shift 1,Physics,18,419,420,420,421
+S19|Physics|Q019,19,5th September Shift 1,Physics,19,420,420,421,421
+S19|Physics|Q020,19,5th September Shift 1,Physics,20,420,421,421,422
+S19|Physics|Q021,19,5th September Shift 1,Physics,21,421,421,422,422
+S19|Physics|Q022,19,5th September Shift 1,Physics,22,421,422,422,423
+S19|Physics|Q023,19,5th September Shift 1,Physics,23,422,422,423,423
+S19|Physics|Q024,19,5th September Shift 1,Physics,24,422,423,423,424
+S19|Physics|Q025,19,5th September Shift 1,Physics,25,423,424,424,425
+S20|Chemistry|Q001,20,5th September Shift 1,Chemistry,1,424,425,425,426
+S20|Chemistry|Q002,20,5th September Shift 1,Chemistry,2,425,426,426,427
+S20|Chemistry|Q003,20,5th September Shift 1,Chemistry,3,426,427,427,428
+S20|Chemistry|Q004,20,5th September Shift 1,Chemistry,4,427,427,428,428
+S20|Chemistry|Q005,20,5th September Shift 1,Chemistry,5,427,429,428,430
+S20|Chemistry|Q006,20,5th September Shift 1,Chemistry,6,429,431,430,432
+S20|Chemistry|Q007,20,5th September Shift 1,Chemistry,7,431,432,432,433
+S20|Chemistry|Q008,20,5th September Shift 1,Chemistry,8,432,433,433,434
+S20|Chemistry|Q009,20,5th September Shift 1,Chemistry,9,433,433,434,434
+S20|Chemistry|Q010,20,5th September Shift 1,Chemistry,10,433,434,434,435
+S20|Chemistry|Q011,20,5th September Shift 1,Chemistry,11,434,435,435,436
+S20|Chemistry|Q012,20,5th September Shift 1,Chemistry,12,435,435,436,436
+S20|Chemistry|Q013,20,5th September Shift 1,Chemistry,13,435,436,436,437
+S20|Chemistry|Q014,20,5th September Shift 1,Chemistry,14,436,437,437,438
+S20|Chemistry|Q015,20,5th September Shift 1,Chemistry,15,437,438,438,439
+S20|Chemistry|Q016,20,5th September Shift 1,Chemistry,16,438,439,439,440
+S20|Chemistry|Q017,20,5th September Shift 1,Chemistry,17,439,440,440,441
+S20|Chemistry|Q018,20,5th September Shift 1,Chemistry,18,440,442,441,443
+S20|Chemistry|Q019,20,5th September Shift 1,Chemistry,19,442,443,443,444
+S20|Chemistry|Q020,20,5th September Shift 1,Chemistry,20,443,443,444,444
+S20|Chemistry|Q021,20,5th September Shift 1,Chemistry,21,443,444,444,445
+S20|Chemistry|Q022,20,5th September Shift 1,Chemistry,22,444,444,445,445
+S20|Chemistry|Q023,20,5th September Shift 1,Chemistry,23,444,445,445,446
+S20|Chemistry|Q024,20,5th September Shift 1,Chemistry,24,445,447,446,448
+S20|Chemistry|Q025,20,5th September Shift 1,Chemistry,25,447,447,448,448
+S21|Mathematics|Q001,21,5th September Shift 1,Mathematics,1,447,448,448,449
+S21|Mathematics|Q002,21,5th September Shift 1,Mathematics,2,448,449,449,450
+S21|Mathematics|Q003,21,5th September Shift 1,Mathematics,3,449,449,450,450
+S21|Mathematics|Q004,21,5th September Shift 1,Mathematics,4,449,450,450,451
+S21|Mathematics|Q005,21,5th September Shift 1,Mathematics,5,450,451,451,452
+S21|Mathematics|Q006,21,5th September Shift 1,Mathematics,6,451,452,452,453
+S21|Mathematics|Q007,21,5th September Shift 1,Mathematics,7,452,453,453,454
+S21|Mathematics|Q008,21,5th September Shift 1,Mathematics,8,453,453,454,454
+S21|Mathematics|Q009,21,5th September Shift 1,Mathematics,9,453,454,454,455
+S21|Mathematics|Q010,21,5th September Shift 1,Mathematics,10,454,455,455,456
+S21|Mathematics|Q011,21,5th September Shift 1,Mathematics,11,455,456,456,457
+S21|Mathematics|Q012,21,5th September Shift 1,Mathematics,12,456,457,457,458
+S21|Mathematics|Q013,21,5th September Shift 1,Mathematics,13,457,458,458,459
+S21|Mathematics|Q014,21,5th September Shift 1,Mathematics,14,458,458,459,459
+S21|Mathematics|Q015,21,5th September Shift 1,Mathematics,15,458,459,459,460
+S21|Mathematics|Q016,21,5th September Shift 1,Mathematics,16,459,460,460,461
+S21|Mathematics|Q017,21,5th September Shift 1,Mathematics,17,460,461,461,462
+S21|Mathematics|Q018,21,5th September Shift 1,Mathematics,18,461,462,462,463
+S21|Mathematics|Q019,21,5th September Shift 1,Mathematics,19,462,463,463,464
+S21|Mathematics|Q020,21,5th September Shift 1,Mathematics,20,463,464,464,465
+S21|Mathematics|Q021,21,5th September Shift 1,Mathematics,21,464,464,465,465
+S21|Mathematics|Q022,21,5th September Shift 1,Mathematics,22,464,465,465,466
+S21|Mathematics|Q023,21,5th September Shift 1,Mathematics,23,465,466,466,467
+S21|Mathematics|Q024,21,5th September Shift 1,Mathematics,24,466,466,467,467
+S21|Mathematics|Q025,21,5th September Shift 1,Mathematics,25,466,468,467,469
+S22|Physics|Q001,22,5th September Shift 2,Physics,1,468,469,469,470
+S22|Physics|Q002,22,5th September Shift 2,Physics,2,469,470,470,471
+S22|Physics|Q003,22,5th September Shift 2,Physics,3,470,471,471,472
+S22|Physics|Q004,22,5th September Shift 2,Physics,4,471,472,472,473
+S22|Physics|Q005,22,5th September Shift 2,Physics,5,472,473,473,474
+S22|Physics|Q006,22,5th September Shift 2,Physics,6,473,474,474,475
+S22|Physics|Q007,22,5th September Shift 2,Physics,7,474,475,475,476
+S22|Physics|Q008,22,5th September Shift 2,Physics,8,475,476,476,477
+S22|Physics|Q009,22,5th September Shift 2,Physics,9,476,477,477,478
+S22|Physics|Q010,22,5th September Shift 2,Physics,10,477,478,478,479
+S22|Physics|Q011,22,5th September Shift 2,Physics,11,478,479,479,480
+S22|Physics|Q012,22,5th September Shift 2,Physics,12,479,480,480,481
+S22|Physics|Q013,22,5th September Shift 2,Physics,13,480,481,481,482
+S22|Physics|Q014,22,5th September Shift 2,Physics,14,481,482,482,483
+S22|Physics|Q015,22,5th September Shift 2,Physics,15,482,483,483,484
+S22|Physics|Q016,22,5th September Shift 2,Physics,16,483,483,484,484
+S22|Physics|Q017,22,5th September Shift 2,Physics,17,483,484,484,485
+S22|Physics|Q018,22,5th September Shift 2,Physics,18,484,485,485,486
+S22|Physics|Q019,22,5th September Shift 2,Physics,19,485,486,486,487
+S22|Physics|Q020,22,5th September Shift 2,Physics,20,486,487,487,488
+S22|Physics|Q021,22,5th September Shift 2,Physics,21,487,488,488,489
+S22|Physics|Q022,22,5th September Shift 2,Physics,22,488,488,489,489
+S22|Physics|Q023,22,5th September Shift 2,Physics,23,488,489,489,490
+S22|Physics|Q024,22,5th September Shift 2,Physics,24,489,489,490,490
+S22|Physics|Q025,22,5th September Shift 2,Physics,25,489,490,490,491
+S23|Chemistry|Q001,23,5th September Shift 2,Chemistry,1,490,491,491,492
+S23|Chemistry|Q002,23,5th September Shift 2,Chemistry,2,491,492,492,493
+S23|Chemistry|Q003,23,5th September Shift 2,Chemistry,3,492,492,493,493
+S23|Chemistry|Q004,23,5th September Shift 2,Chemistry,4,492,494,493,495
+S23|Chemistry|Q005,23,5th September Shift 2,Chemistry,5,494,495,495,496
+S23|Chemistry|Q006,23,5th September Shift 2,Chemistry,6,495,495,496,496
+S23|Chemistry|Q007,23,5th September Shift 2,Chemistry,7,495,496,496,497
+S23|Chemistry|Q008,23,5th September Shift 2,Chemistry,8,496,496,497,497
+S23|Chemistry|Q009,23,5th September Shift 2,Chemistry,9,496,497,497,498
+S23|Chemistry|Q010,23,5th September Shift 2,Chemistry,10,497,498,498,499
+S23|Chemistry|Q011,23,5th September Shift 2,Chemistry,11,498,499,499,500
+S23|Chemistry|Q012,23,5th September Shift 2,Chemistry,12,499,499,500,500
+S23|Chemistry|Q013,23,5th September Shift 2,Chemistry,13,499,500,500,501
+S23|Chemistry|Q014,23,5th September Shift 2,Chemistry,14,500,501,501,502
+S23|Chemistry|Q015,23,5th September Shift 2,Chemistry,15,501,501,502,502
+S23|Chemistry|Q016,23,5th September Shift 2,Chemistry,16,501,503,502,504
+S23|Chemistry|Q017,23,5th September Shift 2,Chemistry,17,503,504,504,505
+S23|Chemistry|Q018,23,5th September Shift 2,Chemistry,18,504,505,505,506
+S23|Chemistry|Q019,23,5th September Shift 2,Chemistry,19,505,506,506,507
+S23|Chemistry|Q020,23,5th September Shift 2,Chemistry,20,506,506,507,507
+S23|Chemistry|Q021,23,5th September Shift 2,Chemistry,21,506,507,507,508
+S23|Chemistry|Q022,23,5th September Shift 2,Chemistry,22,507,507,508,508
+S23|Chemistry|Q023,23,5th September Shift 2,Chemistry,23,507,508,508,509
+S23|Chemistry|Q024,23,5th September Shift 2,Chemistry,24,508,508,509,509
+S23|Chemistry|Q025,23,5th September Shift 2,Chemistry,25,508,509,509,510
+S24|Mathematics|Q001,24,5th September Shift 2,Mathematics,1,509,510,510,511
+S24|Mathematics|Q002,24,5th September Shift 2,Mathematics,2,510,510,511,511
+S24|Mathematics|Q003,24,5th September Shift 2,Mathematics,3,510,511,511,512
+S24|Mathematics|Q004,24,5th September Shift 2,Mathematics,4,511,512,512,513
+S24|Mathematics|Q005,24,5th September Shift 2,Mathematics,5,512,513,513,514
+S24|Mathematics|Q006,24,5th September Shift 2,Mathematics,6,513,514,514,515
+S24|Mathematics|Q007,24,5th September Shift 2,Mathematics,7,514,515,515,516
+S24|Mathematics|Q008,24,5th September Shift 2,Mathematics,8,515,516,516,517
+S24|Mathematics|Q009,24,5th September Shift 2,Mathematics,9,516,517,517,518
+S24|Mathematics|Q010,24,5th September Shift 2,Mathematics,10,517,518,518,519
+S24|Mathematics|Q011,24,5th September Shift 2,Mathematics,11,518,519,519,520
+S24|Mathematics|Q012,24,5th September Shift 2,Mathematics,12,519,520,520,521
+S24|Mathematics|Q013,24,5th September Shift 2,Mathematics,13,520,521,521,522
+S24|Mathematics|Q014,24,5th September Shift 2,Mathematics,14,521,522,522,523
+S24|Mathematics|Q015,24,5th September Shift 2,Mathematics,15,522,523,523,524
+S24|Mathematics|Q016,24,5th September Shift 2,Mathematics,16,523,523,524,524
+S24|Mathematics|Q017,24,5th September Shift 2,Mathematics,17,523,525,524,526
+S24|Mathematics|Q018,24,5th September Shift 2,Mathematics,18,525,525,526,526
+S24|Mathematics|Q019,24,5th September Shift 2,Mathematics,19,525,526,526,527
+S24|Mathematics|Q020,24,5th September Shift 2,Mathematics,20,526,527,527,528
+S24|Mathematics|Q021,24,5th September Shift 2,Mathematics,21,527,528,528,529
+S24|Mathematics|Q022,24,5th September Shift 2,Mathematics,22,528,528,529,529
+S24|Mathematics|Q023,24,5th September Shift 2,Mathematics,23,528,529,529,530
+S24|Mathematics|Q024,24,5th September Shift 2,Mathematics,24,529,530,530,531
+S24|Mathematics|Q025,24,5th September Shift 2,Mathematics,25,530,532,531,533
+S25|Physics|Q001,25,6th September Shift 1,Physics,1,532,533,533,534
+S25|Physics|Q002,25,6th September Shift 1,Physics,2,533,534,534,535
+S25|Physics|Q003,25,6th September Shift 1,Physics,3,534,535,535,536
+S25|Physics|Q004,25,6th September Shift 1,Physics,4,535,536,536,537
+S25|Physics|Q005,25,6th September Shift 1,Physics,5,536,537,537,538
+S25|Physics|Q006,25,6th September Shift 1,Physics,6,537,538,538,539
+S25|Physics|Q007,25,6th September Shift 1,Physics,7,538,539,539,540
+S25|Physics|Q008,25,6th September Shift 1,Physics,8,539,540,540,541
+S25|Physics|Q009,25,6th September Shift 1,Physics,9,540,542,541,543
+S25|Physics|Q010,25,6th September Shift 1,Physics,10,542,543,543,544
+S25|Physics|Q011,25,6th September Shift 1,Physics,11,543,544,544,545
+S25|Physics|Q012,25,6th September Shift 1,Physics,12,544,545,545,546
+S25|Physics|Q013,25,6th September Shift 1,Physics,13,545,546,546,547
+S25|Physics|Q014,25,6th September Shift 1,Physics,14,546,547,547,548
+S25|Physics|Q015,25,6th September Shift 1,Physics,15,547,548,548,549
+S25|Physics|Q016,25,6th September Shift 1,Physics,16,548,549,549,550
+S25|Physics|Q017,25,6th September Shift 1,Physics,17,549,550,550,551
+S25|Physics|Q018,25,6th September Shift 1,Physics,18,550,551,551,552
+S25|Physics|Q019,25,6th September Shift 1,Physics,19,551,553,552,554
+S25|Physics|Q020,25,6th September Shift 1,Physics,20,553,554,554,555
+S25|Physics|Q021,25,6th September Shift 1,Physics,21,554,555,555,556
+S25|Physics|Q022,25,6th September Shift 1,Physics,22,555,555,556,556
+S25|Physics|Q023,25,6th September Shift 1,Physics,23,555,556,556,557
+S25|Physics|Q024,25,6th September Shift 1,Physics,24,556,556,557,557
+S25|Physics|Q025,25,6th September Shift 1,Physics,25,556,557,557,558
+S26|Chemistry|Q001,26,6th September Shift 1,Chemistry,1,557,558,558,559
+S26|Chemistry|Q002,26,6th September Shift 1,Chemistry,2,558,559,559,560
+S26|Chemistry|Q003,26,6th September Shift 1,Chemistry,3,559,559,560,560
+S26|Chemistry|Q004,26,6th September Shift 1,Chemistry,4,559,560,560,561
+S26|Chemistry|Q005,26,6th September Shift 1,Chemistry,5,560,561,561,562
+S26|Chemistry|Q006,26,6th September Shift 1,Chemistry,6,561,562,562,563
+S26|Chemistry|Q007,26,6th September Shift 1,Chemistry,7,562,563,563,564
+S26|Chemistry|Q008,26,6th September Shift 1,Chemistry,8,563,563,564,564
+S26|Chemistry|Q009,26,6th September Shift 1,Chemistry,9,563,564,564,565
+S26|Chemistry|Q010,26,6th September Shift 1,Chemistry,10,564,565,565,566
+S26|Chemistry|Q011,26,6th September Shift 1,Chemistry,11,565,566,566,567
+S26|Chemistry|Q012,26,6th September Shift 1,Chemistry,12,566,567,567,568
+S26|Chemistry|Q013,26,6th September Shift 1,Chemistry,13,567,568,568,569
+S26|Chemistry|Q014,26,6th September Shift 1,Chemistry,14,568,568,569,569
+S26|Chemistry|Q015,26,6th September Shift 1,Chemistry,15,568,569,569,570
+S26|Chemistry|Q016,26,6th September Shift 1,Chemistry,16,569,570,570,571
+S26|Chemistry|Q017,26,6th September Shift 1,Chemistry,17,570,571,571,572
+S26|Chemistry|Q018,26,6th September Shift 1,Chemistry,18,571,572,572,573
+S26|Chemistry|Q019,26,6th September Shift 1,Chemistry,19,572,573,573,574
+S26|Chemistry|Q020,26,6th September Shift 1,Chemistry,20,573,574,574,575
+S26|Chemistry|Q021,26,6th September Shift 1,Chemistry,21,574,574,575,575
+S26|Chemistry|Q022,26,6th September Shift 1,Chemistry,22,574,575,575,576
+S26|Chemistry|Q023,26,6th September Shift 1,Chemistry,23,575,576,576,577
+S26|Chemistry|Q024,26,6th September Shift 1,Chemistry,24,576,576,577,577
+S26|Chemistry|Q025,26,6th September Shift 1,Chemistry,25,576,577,577,578
+S27|Mathematics|Q001,27,6th September Shift 1,Mathematics,1,577,577,578,578
+S27|Mathematics|Q002,27,6th September Shift 1,Mathematics,2,577,579,578,580
+S27|Mathematics|Q003,27,6th September Shift 1,Mathematics,3,579,580,580,581
+S27|Mathematics|Q004,27,6th September Shift 1,Mathematics,4,580,581,581,582
+S27|Mathematics|Q005,27,6th September Shift 1,Mathematics,5,581,582,582,583
+S27|Mathematics|Q006,27,6th September Shift 1,Mathematics,6,582,583,583,584
+S27|Mathematics|Q007,27,6th September Shift 1,Mathematics,7,583,584,584,585
+S27|Mathematics|Q008,27,6th September Shift 1,Mathematics,8,584,584,585,585
+S27|Mathematics|Q009,27,6th September Shift 1,Mathematics,9,584,585,585,586
+S27|Mathematics|Q010,27,6th September Shift 1,Mathematics,10,585,586,586,587
+S27|Mathematics|Q011,27,6th September Shift 1,Mathematics,11,586,587,587,588
+S27|Mathematics|Q012,27,6th September Shift 1,Mathematics,12,587,588,588,589
+S27|Mathematics|Q013,27,6th September Shift 1,Mathematics,13,588,589,589,590
+S27|Mathematics|Q014,27,6th September Shift 1,Mathematics,14,589,589,590,590
+S27|Mathematics|Q015,27,6th September Shift 1,Mathematics,15,589,590,590,591
+S27|Mathematics|Q016,27,6th September Shift 1,Mathematics,16,590,591,591,592
+S27|Mathematics|Q017,27,6th September Shift 1,Mathematics,17,591,592,592,593
+S27|Mathematics|Q018,27,6th September Shift 1,Mathematics,18,592,593,593,594
+S27|Mathematics|Q019,27,6th September Shift 1,Mathematics,19,593,593,594,594
+S27|Mathematics|Q020,27,6th September Shift 1,Mathematics,20,593,594,594,595
+S27|Mathematics|Q021,27,6th September Shift 1,Mathematics,21,594,595,595,596
+S27|Mathematics|Q022,27,6th September Shift 1,Mathematics,22,595,596,596,597
+S27|Mathematics|Q023,27,6th September Shift 1,Mathematics,23,596,597,597,598
+S27|Mathematics|Q024,27,6th September Shift 1,Mathematics,24,597,597,598,598
+S27|Mathematics|Q025,27,6th September Shift 1,Mathematics,25,597,599,598,600
+S28|Physics|Q001,28,6th September Shift 2,Physics,1,599,600,600,601
+S28|Physics|Q002,28,6th September Shift 2,Physics,2,600,601,601,602
+S28|Physics|Q003,28,6th September Shift 2,Physics,3,601,602,602,603
+S28|Physics|Q004,28,6th September Shift 2,Physics,4,602,603,603,604
+S28|Physics|Q005,28,6th September Shift 2,Physics,5,603,604,604,605
+S28|Physics|Q006,28,6th September Shift 2,Physics,6,604,605,605,606
+S28|Physics|Q007,28,6th September Shift 2,Physics,7,605,606,606,607
+S28|Physics|Q008,28,6th September Shift 2,Physics,8,606,607,607,608
+S28|Physics|Q009,28,6th September Shift 2,Physics,9,607,608,608,609
+S28|Physics|Q010,28,6th September Shift 2,Physics,10,608,609,609,610
+S28|Physics|Q011,28,6th September Shift 2,Physics,11,609,610,610,611
+S28|Physics|Q012,28,6th September Shift 2,Physics,12,610,611,611,612
+S28|Physics|Q013,28,6th September Shift 2,Physics,13,611,611,612,612
+S28|Physics|Q014,28,6th September Shift 2,Physics,14,611,613,612,614
+S28|Physics|Q015,28,6th September Shift 2,Physics,15,613,614,614,615
+S28|Physics|Q016,28,6th September Shift 2,Physics,16,614,615,615,616
+S28|Physics|Q017,28,6th September Shift 2,Physics,17,615,616,616,617
+S28|Physics|Q018,28,6th September Shift 2,Physics,18,616,617,617,618
+S28|Physics|Q019,28,6th September Shift 2,Physics,19,617,618,618,619
+S28|Physics|Q020,28,6th September Shift 2,Physics,20,618,619,619,620
+S28|Physics|Q021,28,6th September Shift 2,Physics,21,619,620,620,621
+S28|Physics|Q022,28,6th September Shift 2,Physics,22,620,620,621,621
+S28|Physics|Q023,28,6th September Shift 2,Physics,23,620,621,621,622
+S28|Physics|Q024,28,6th September Shift 2,Physics,24,621,622,622,623
+S28|Physics|Q025,28,6th September Shift 2,Physics,25,622,623,623,624
+S29|Chemistry|Q001,29,6th September Shift 2,Chemistry,1,623,624,624,625
+S29|Chemistry|Q002,29,6th September Shift 2,Chemistry,2,624,625,625,626
+S29|Chemistry|Q003,29,6th September Shift 2,Chemistry,3,625,626,626,627
+S29|Chemistry|Q004,29,6th September Shift 2,Chemistry,4,626,626,627,627
+S29|Chemistry|Q005,29,6th September Shift 2,Chemistry,5,626,627,627,628
+S29|Chemistry|Q006,29,6th September Shift 2,Chemistry,6,627,628,628,629
+S29|Chemistry|Q007,29,6th September Shift 2,Chemistry,7,628,629,629,630
+S29|Chemistry|Q008,29,6th September Shift 2,Chemistry,8,629,630,630,631
+S29|Chemistry|Q009,29,6th September Shift 2,Chemistry,9,630,630,631,631
+S29|Chemistry|Q010,29,6th September Shift 2,Chemistry,10,630,632,631,633
+S29|Chemistry|Q011,29,6th September Shift 2,Chemistry,11,632,633,633,634
+S29|Chemistry|Q012,29,6th September Shift 2,Chemistry,12,633,634,634,635
+S29|Chemistry|Q013,29,6th September Shift 2,Chemistry,13,634,635,635,636
+S29|Chemistry|Q014,29,6th September Shift 2,Chemistry,14,635,636,636,637
+S29|Chemistry|Q015,29,6th September Shift 2,Chemistry,15,636,637,637,638
+S29|Chemistry|Q016,29,6th September Shift 2,Chemistry,16,637,638,638,639
+S29|Chemistry|Q017,29,6th September Shift 2,Chemistry,17,638,639,639,640
+S29|Chemistry|Q018,29,6th September Shift 2,Chemistry,18,639,639,640,640
+S29|Chemistry|Q019,29,6th September Shift 2,Chemistry,19,639,640,640,641
+S29|Chemistry|Q020,29,6th September Shift 2,Chemistry,20,640,641,641,642
+S29|Chemistry|Q021,29,6th September Shift 2,Chemistry,21,641,642,642,643
+S29|Chemistry|Q022,29,6th September Shift 2,Chemistry,22,642,642,643,643
+S29|Chemistry|Q023,29,6th September Shift 2,Chemistry,23,642,643,643,644
+S29|Chemistry|Q024,29,6th September Shift 2,Chemistry,24,643,644,644,645
+S29|Chemistry|Q025,29,6th September Shift 2,Chemistry,25,644,644,645,645
+S30|Mathematics|Q001,30,6th September Shift 2,Mathematics,1,644,645,645,646
+S30|Mathematics|Q002,30,6th September Shift 2,Mathematics,2,645,646,646,647
+S30|Mathematics|Q003,30,6th September Shift 2,Mathematics,3,646,647,647,648
+S30|Mathematics|Q004,30,6th September Shift 2,Mathematics,4,647,648,648,649
+S30|Mathematics|Q005,30,6th September Shift 2,Mathematics,5,648,649,649,650
+S30|Mathematics|Q006,30,6th September Shift 2,Mathematics,6,649,650,650,651
+S30|Mathematics|Q007,30,6th September Shift 2,Mathematics,7,650,651,651,652
+S30|Mathematics|Q008,30,6th September Shift 2,Mathematics,8,651,651,652,652
+S30|Mathematics|Q009,30,6th September Shift 2,Mathematics,9,651,652,652,653
+S30|Mathematics|Q010,30,6th September Shift 2,Mathematics,10,652,653,653,654
+S30|Mathematics|Q011,30,6th September Shift 2,Mathematics,11,653,654,654,655
+S30|Mathematics|Q012,30,6th September Shift 2,Mathematics,12,654,655,655,656
+S30|Mathematics|Q013,30,6th September Shift 2,Mathematics,13,655,656,656,657
+S30|Mathematics|Q014,30,6th September Shift 2,Mathematics,14,656,657,657,658
+S30|Mathematics|Q015,30,6th September Shift 2,Mathematics,15,657,658,658,659
+S30|Mathematics|Q016,30,6th September Shift 2,Mathematics,16,658,659,659,660
+S30|Mathematics|Q017,30,6th September Shift 2,Mathematics,17,659,660,660,661
+S30|Mathematics|Q018,30,6th September Shift 2,Mathematics,18,660,661,661,662
+S30|Mathematics|Q019,30,6th September Shift 2,Mathematics,19,661,661,662,662
+S30|Mathematics|Q020,30,6th September Shift 2,Mathematics,20,661,662,662,663
+S30|Mathematics|Q021,30,6th September Shift 2,Mathematics,21,662,663,663,664
+S30|Mathematics|Q022,30,6th September Shift 2,Mathematics,22,663,664,664,665
+S30|Mathematics|Q023,30,6th September Shift 2,Mathematics,23,664,664,665,665
+S30|Mathematics|Q024,30,6th September Shift 2,Mathematics,24,664,665,665,666
+S30|Mathematics|Q025,30,6th September Shift 2,Mathematics,25,665,666,666,667

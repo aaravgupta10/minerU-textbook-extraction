@@ -1,0 +1,879 @@
+page,verdict,ad_score,reason,chars,markers,ad_keywords,links,draw_ops,n_images,img_frac_total,img_frac_largest,colour_frac,has_watermark,fp,fp_cluster_size,in_ad_cluster,outside_question_range,question_nums,subjects,paper,head
+1,AD,4,"no markers; no template watermark, coloured 90.2% (content baseline 0.86%), outside question range (front/back matter)",171,0,0,0,4,1,1.0,1.0,0.9016,False,c9c9446356,1,False,True,,,,"10 sets having 900 questions   | with detailed solutions of Physics,  | Chemistry and Math"
+2,AD,4,"no markers; hyperlink x11, no template watermark, outside question range (front/back matter)",712,0,0,11,11,1,0.4149,0.4149,0.0103,False,d7b98ec6b5,1,False,True,,,25 July - Morning Shift,Contents | 25 July - Morning Shift (Questions with detailed solutions)    | 3 
+3,CONTENT,0,7 content marker(s),297,7,0,0,34,17,0.4484,0.4146,0.0087,True,720ca5a43f,1,False,False,1,Physics,25 July - Morning Shift,25 July - Morning Shift | Physics | Q. 1
+4,CONTENT,0,7 content marker(s),385,7,0,0,29,12,0.4763,0.4146,0.0072,True,c0a3b0593c,1,False,False,2,,,Q. 2 | Which of the following physical quantities have the same dimensions? | Option 1:
+5,CONTENT,0,7 content marker(s),267,7,0,0,29,14,0.4783,0.4146,0.0058,True,ce58f1a574,1,False,False,3,,,Q. 3 | A person moved from  |  on a circular path as shown in figure. If the distance
+6,CONTENT,0,6 content marker(s),266,6,0,0,27,18,0.4762,0.4146,0.0052,True,7c06d2a384,1,False,False,4,,,Q. 4 | A body of mass  |  travels on straight line path with velocity 
+7,CONTENT,0,7 content marker(s),406,7,0,0,29,15,0.4566,0.4146,0.0057,True,71427e0caa,1,False,False,5,,,Correct Answer: | Solution: | Q. 5
+8,CONTENT,0,6 content marker(s),476,6,0,0,27,19,0.4532,0.4146,0.0058,True,2b0bbef664,1,False,False,6,,,Correct Answer: | Solution: | Q. 6
+9,CONTENT,0,3 content marker(s),141,3,0,0,19,16,0.5203,0.4146,0.0057,True,efd4cf6bb6,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+10,CONTENT,0,7 content marker(s),361,7,0,0,29,16,0.4712,0.4146,0.0058,True,00ae7f6578,1,False,False,7,,,Q. 7 | A certain amount of gas of volume  |  temperature and pressure
+11,CONTENT,0,8 content marker(s),671,8,0,0,23,9,0.4453,0.4146,0.0052,True,25f4982afe,1,False,False,8,,,Q. 8 | Following statements are given : | (A) The average kinetic energy of a gas molecule
+12,CONTENT,0,9 content marker(s),675,9,0,0,29,21,0.4824,0.4146,0.0062,True,5b1628a068,1,False,False,9,,,Option 3: | (B) and (D) only | Option 4:
+13,CONTENT,0,4 content marker(s),133,4,0,0,21,12,0.4811,0.4146,0.0058,True,7d113b921a,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+14,CONTENT,0,6 content marker(s),278,6,0,0,29,11,0.5306,0.4146,0.0057,True,ce28d197ea,1,False,False,10,,,Q. 10 | A condenser of  |  capacitance is charged steadily from 
+15,CONTENT,0,8 content marker(s),558,8,0,0,29,16,0.4511,0.4146,0.0058,True,f02b66fa1c,1,False,False,11,,,"Solution: | Q. 11 | Two charged particles, having same kinetic energy, are allowed to pass"
+16,CONTENT,0,7 content marker(s),681,7,0,0,29,10,0.4534,0.4146,0.0076,True,b80e6869a4,1,False,False,12,,,"Q. 12 | To increase the resonant frequency in series LCR circuit, | Option 1:"
+17,CONTENT,0,7 content marker(s),311,7,0,0,29,13,0.486,0.4146,0.0057,True,6b51589694,1,False,False,13,,,Q. 13 | A small square loop of wire of side   is placed inside a large square loop of wire
+18,CONTENT,0,7 content marker(s),384,7,0,0,29,18,0.4686,0.4146,0.0058,True,ebc6d9a9a4,1,False,False,14,,,Q. 14 | The rms value of conduction current in a parallel plate capacitor is  | . The
+19,CONTENT,0,7 content marker(s),833,7,0,0,29,9,0.4277,0.4146,0.0079,True,922f94c8e3,1,False,False,15,,,Q. 15 | Which of the following statement is correct? | Option 1:
+20,CONTENT,0,7 content marker(s),381,7,0,0,29,18,0.4824,0.4146,0.0058,True,af1b5b5498,1,False,False,16,,,Q. 16 | Time taken by light to travel in two different materials  |  of refractive indices
+21,CONTENT,0,7 content marker(s),337,7,0,0,29,18,0.4493,0.4146,0.0057,True,9960814613,1,False,False,17,,,Q. 17 | A metal exposed to light of wavelength  |  and and emits photoelectrons with a
+22,CONTENT,0,no markers but no ad evidence -> solution continuation,123,0,0,0,15,14,0.4675,0.4146,0.0052,True,4643ad962d,1,False,False,,,,"From Einstein's photoelectric equation, | Let, | Work Function "
+23,CONTENT,0,8 content marker(s),381,8,0,0,33,12,0.4361,0.4146,0.0057,True,9de0e4f38d,1,False,False,18 19,,,Q. 18 | The momentum of an electron revolving in  |  orbit is given by : (Symbols have the
+24,CONTENT,0,6 content marker(s),125,6,0,0,25,11,0.4502,0.4146,0.0058,True,11f281c481,1,False,False,,,,Option 1: | Option 2: | Option 3:
+25,CONTENT,0,5 content marker(s),206,5,0,0,27,12,0.4844,0.4146,0.0052,True,8ab2488081,1,False,False,20,,,"Q. 20 | In the circuit, the logical value of  |  when potential at "
+26,CONTENT,0,5 content marker(s),544,5,0,0,24,15,0.4424,0.4146,0.0058,True,b2319cd718,1,False,False,21,,,Correct Answer: | Solution: | Q. 21
+27,CONTENT,0,3 content marker(s),170,3,0,0,22,15,0.5256,0.4146,0.0052,True,2189c21eb7,1,False,False,22,,,Q. 22 | Four forces are acting at a point  |  in equilibrium as shown in figure. The ratio
+28,CONTENT,0,4 content marker(s),781,4,0,0,26,23,0.4875,0.4146,0.0052,True,a41fdf3eed,1,False,False,23 24,,,Q. 23 | A wire of length  |  is clamped rigidly at one end. When the other end of
+29,CONTENT,0,5 content marker(s),477,5,0,0,25,14,0.4547,0.4146,0.0052,True,0b4fbb72cc,1,False,False,25,,,Correct Answer: | 60 | Solution:
+30,CONTENT,0,3 content marker(s),398,3,0,0,22,17,0.4782,0.4146,0.0052,True,00130399de,1,False,False,26,,,Q. 26 | The volume charge density of a sphere of radius  | . The number
+31,CONTENT,0,3 content marker(s),92,3,0,0,22,12,0.5463,0.4146,0.0052,True,38baeb1682,1,False,False,27,,,"Q. 27 | In the given figure, the value of  |  will be_________ "
+32,CONTENT,0,6 content marker(s),544,6,0,0,29,20,0.455,0.4146,0.0052,True,8aac5bc2c0,1,False,False,28 29,,,Q. 28 | Eight copper wire of length  |  and diameter  are joined in parallel to form a sin
+33,CONTENT,0,8 content marker(s),496,8,0,0,34,15,0.4576,0.4146,0.0052,True,dc20796c2e,1,False,False,30 1,Chemistry,,Q. 30 | The required height of a TV tower which can cover the population of  |  lakh is 
+34,CONTENT,0,7 content marker(s),404,7,0,0,29,20,0.487,0.4146,0.0058,True,4126e76a34,1,False,False,2,,,Correct Answer: | 4 | Solution:
+35,CONTENT,0,9 content marker(s),474,9,0,0,31,14,0.461,0.4146,0.0064,True,315bca35e6,1,False,False,3,,,Correct Answer: | Solution: | Q. 3
+36,CONTENT,0,5 content marker(s),344,5,0,0,27,15,0.5144,0.4146,0.0052,True,9569bae5e7,1,False,False,4,,,Q. 4 | 20 mL of 0.1 M  |  is mixed with 40 mL of 0.05 M 
+37,CONTENT,0,2 content marker(s),149,2,0,0,17,14,0.5578,0.4146,0.0058,True,920b5c4ee3,1,False,False,,,,Correct Answer: | 5.2 | Solution:
+38,CONTENT,0,12 content marker(s),501,12,0,0,66,14,0.4615,0.4146,0.0065,True,3969e1712b,1,False,False,5,,,Q. 5 | Match List- I with List -II | List - I
+39,CONTENT,0,8 content marker(s),387,8,0,0,33,7,0.439,0.4146,0.0061,True,accee7aaba,1,False,False,6 7,,,Q. 6 | The IUPAC nomenclature of an element with electronic configuration |  is :
+40,CONTENT,0,12 content marker(s),379,12,0,0,37,9,0.4225,0.4146,0.0062,True,3d60eab93d,1,False,False,8,,,"Option 1: | (C), (D) only | Option 2:"
+41,CONTENT,0,9 content marker(s),314,9,0,0,31,11,0.4562,0.4146,0.0063,True,bbed6a81b3,1,False,False,9,,,Correct Answer: | Solution: | Q. 9
+42,CONTENT,0,7 content marker(s),290,7,0,0,29,7,0.4712,0.4146,0.0061,True,3e7e58d97d,1,False,False,10,,,Q. 10 | The geometry around boron in the product 'B' formed from the following reaction is
+43,CONTENT,0,7 content marker(s),310,7,0,0,29,7,0.4373,0.4146,0.006,True,b66ff2a187,1,False,False,11,,,Q. 11 | The interhalogen compound formed from the reaction of bromine with excess of | flu
+44,CONTENT,0,8 content marker(s),517,8,0,0,33,11,0.5227,0.4146,0.0058,True,52a289a03c,1,False,False,12 13,,,Q. 12 | The photochemical smog does not generally contain : | Option 1:
+45,CONTENT,0,6 content marker(s),258,6,0,0,25,16,0.5724,0.4146,0.0058,True,ea8aa43d1d,1,False,False,,,,Option 1: | Option 2: | Option 3:
+46,CONTENT,0,5 content marker(s),99,5,0,0,27,7,0.5108,0.4146,0.0052,True,4c41f48454,1,False,False,14,,,Q. 14 | Most stable product of the following reaction is : | Option 1:
+47,CONTENT,0,5 content marker(s),247,5,0,0,25,6,0.5793,0.4146,0.0058,True,7d93991a62,1,False,False,15,,,Correct Answer: | Solution: | Q. 15
+48,CONTENT,0,7 content marker(s),496,7,0,0,27,13,0.5577,0.4146,0.0058,True,611214b206,1,False,False,16,,,Option 3: | Option 4: | Correct Answer:
+49,CONTENT,0,6 content marker(s),205,6,0,0,27,7,0.6234,0.4146,0.0058,True,494393150e,1,False,False,17,,,Option 2: | Option 3: | Option 4:
+50,CONTENT,0,6 content marker(s),209,6,0,0,25,8,0.6096,0.4146,0.0057,True,7060b6093d,1,False,False,,,,Option 1: | Option 2: | Option 3:
+51,CONTENT,0,10 content marker(s),487,10,0,0,37,4,0.4161,0.4146,0.0059,True,24ebe9a865,1,False,False,18 19,,,"Q. 18 | During the denaturation of proteins, which of these structures will remain intact?"
+52,CONTENT,0,11 content marker(s),836,11,0,0,35,3,0.4159,0.4146,0.0084,True,cf83b557ab,1,False,False,20,,,Option 3: | Allosterists | Option 4:
+53,CONTENT,0,3 content marker(s),585,3,0,0,22,15,0.5583,0.4146,0.0052,True,21484ff1a6,1,False,False,21,,,Q. 21 | Among the following species | the number of species showing diamagnesim is _______
+54,CONTENT,0,6 content marker(s),678,6,0,0,29,16,0.4865,0.4146,0.0052,True,09b3d3a223,1,False,False,22 23,,,"Q. 22 | The enthalpy of combustion of propane, graphite and dihydrogen at 298 K are |  res"
+55,CONTENT,0,3 content marker(s),355,3,0,0,22,17,0.519,0.4146,0.0052,True,e02f1d5cf6,1,False,False,24,,,Q. 24 | The cell potential for  | . The reaction
+56,CONTENT,0,3 content marker(s),431,3,0,0,22,11,0.4551,0.4146,0.0052,True,95245538c3,1,False,False,25,,,Q. 25 | The half life for the decomposition of gaseous compound A is 240 s when the gaseou
+57,CONTENT,0,6 content marker(s),636,6,0,0,29,15,0.4724,0.4146,0.0052,True,85ba729431,1,False,False,26 27,,,Q. 26 | Consider the following metal complexes : | The spin-only magnetic moment value of 
+58,CONTENT,0,4 content marker(s),494,4,0,0,26,18,0.5002,0.4146,0.0052,True,b87887f127,1,False,False,28 29,,,"Q. 28 | While estimating the nitrogen present in an organic compound by Kjeldahl's method,"
+59,CONTENT,0,5 content marker(s),352,5,0,0,25,10,0.5873,0.4146,0.0052,True,f7703a756c,1,False,False,30,,,Correct Answer: | 1 | Solution:
+60,CONTENT,0,7 content marker(s),153,7,0,0,29,14,0.6023,0.4146,0.0058,True,a8cb7e455b,1,False,False,1,Mathematics,,"Maths | Q. 1 | The total number of functions,  "
+61,CONTENT,0,7 content marker(s),183,7,0,0,29,22,0.4796,0.4146,0.0057,True,c21e7f9448,1,False,False,2,,,Q. 2 | If   |  are the roots of the equation  
+62,CONTENT,0,4 content marker(s),194,4,0,0,25,20,0.5065,0.4146,0.0052,True,fbbe4abe41,1,False,False,3,,,"Q. 3 | For   | , let "
+63,CONTENT,0,4 content marker(s),295,4,0,0,23,22,0.4806,0.4146,0.0057,True,eef05176a0,1,False,False,4,,,Option 4: | Correct Answer: | Solution:
+64,CONTENT,0,11 content marker(s),233,11,0,0,37,18,0.4521,0.4146,0.0058,True,bf2494863a,1,False,False,5,,,Option 1: | Option 2: | Option 3:
+65,CONTENT,0,9 content marker(s),206,9,0,0,31,18,0.5186,0.4146,0.0063,True,4c09b5f96f,1,False,False,6,,,Correct Answer: | Solution: | Q. 6
+66,CONTENT,0,7 content marker(s),408,7,0,0,29,26,0.4519,0.4146,0.0058,True,2a3f44d4d7,1,False,False,7,,,Q. 7 | The curve  |   touches the x-axis at the point  
+67,CONTENT,0,6 content marker(s),150,6,0,0,29,13,0.4565,0.4146,0.0058,True,c8b04de9c6,1,False,False,8,,,Q. 8 | The area of the region by   |   is :
+68,CONTENT,0,7 content marker(s),266,7,0,0,29,16,0.5708,0.4146,0.0058,True,378f07017b,1,False,False,9,,,"Solution: | Q. 9 | For any real number , let "
+69,CONTENT,0,7 content marker(s),258,7,0,0,29,19,0.5095,0.4146,0.0058,True,b7b579260e,1,False,False,10,,,Solution: | Q. 10 | The slope of the tangent to a curve 
+70,CONTENT,0,5 content marker(s),187,5,0,0,25,16,0.495,0.4146,0.0052,True,5d654c33a3,1,False,False,11,,,Solution: | Q. 11 | Let 
+71,CONTENT,0,7 content marker(s),306,7,0,0,29,20,0.4876,0.4146,0.0057,True,b6c7acd474,1,False,False,12,,,Option 4: | Correct Answer: | Solution:
+72,CONTENT,0,7 content marker(s),307,7,0,0,29,18,0.4668,0.4146,0.0057,True,d8b494fc6b,1,False,False,13,,,Option 4: | Correct Answer: | Solution:
+73,CONTENT,0,8 content marker(s),291,8,0,0,31,21,0.4623,0.4146,0.0058,True,7eb188a59e,1,False,False,14,,,Option 4: | Correct Answer: | Solution:
+74,CONTENT,0,6 content marker(s),262,6,0,0,27,15,0.4732,0.4146,0.0058,True,f725bffebc,1,False,False,15,,,Correct Answer: | Solution: | Q. 15
+75,CONTENT,0,6 content marker(s),290,6,0,0,27,16,0.4613,0.4146,0.0062,True,8e235cc2b5,1,False,False,16,,,Option 4: | both (S1) and (S2) are false | Correct Answer:
+76,CONTENT,0,7 content marker(s),296,7,0,0,29,16,0.4435,0.4146,0.0058,True,66b18bbc88,1,False,False,17,,,Option 3: | Option 4: | Correct Answer:
+77,CONTENT,0,6 content marker(s),176,6,0,0,27,20,0.4534,0.4146,0.0058,True,521181688c,1,False,False,18,,,Option 3: | Option 4: | Correct Answer:
+78,CONTENT,0,9 content marker(s),433,9,0,0,33,21,0.5025,0.4146,0.0058,True,0b4065e209,1,False,False,19,,,Option 2: | Option 3: | Option 4:
+79,CONTENT,0,8 content marker(s),217,8,0,0,31,13,0.4997,0.4146,0.0058,True,8ce5fc0db1,1,False,False,20,,,Option 4: | Correct Answer: | Solution:
+80,CONTENT,0,5 content marker(s),251,5,0,0,133,17,0.5077,0.4146,0.0058,True,d5ec3f736f,1,False,False,21,,,Correct Answer: | Solution: | Q. 21
+81,CONTENT,0,6 content marker(s),437,6,0,0,51,13,0.5023,0.4146,0.0052,True,3dd38082e5,1,False,False,22 23,,,Q. 22 | The letters of the word 'MANKIND' are written in all possible orders and arranged 
+82,CONTENT,0,3 content marker(s),276,3,0,0,22,28,0.4764,0.4146,0.0052,True,49918799f7,1,False,False,24,,,Q. 24 | Let   |  be two non-zero real numbers. If 
+83,CONTENT,0,3 content marker(s),128,3,0,0,22,19,0.4857,0.4146,0.0052,True,656c622de4,1,False,False,25,,,Q. 25 | Let   |  for every natural number
+84,CONTENT,0,6 content marker(s),292,6,0,0,29,12,0.6214,0.4146,0.0052,True,9d158ac534,1,False,False,26 27,,,"Q. 26 | Let  | , where "
+85,CONTENT,0,3 content marker(s),270,3,0,0,22,17,0.5198,0.4146,0.0052,True,6f8d07baa2,1,False,False,28,,,Q. 28 | Let the equation of two diameters of a circle |  and 
+86,CONTENT,0,3 content marker(s),186,3,0,0,22,19,0.4715,0.4146,0.0052,True,e0ee32f77d,1,False,False,29,,,Q. 29 | The sum of diameters of the circles that touch (i) the parabola   | at the point 
+87,CONTENT,0,2 content marker(s),219,2,0,0,22,23,0.5319,0.4146,0.0052,True,f2d64ebe8d,1,False,False,30,,,Q. 30 | The line of shortest distance between the lines  |   and 
+88,CONTENT,0,1 content marker(s),101,1,0,0,15,10,0.4756,0.4146,0.0052,True,63f67c6040,1,False,False,,,,Solution: | DR's of line of shortest distance | angle between line and plane is 
+89,CONTENT,0,7 content marker(s),294,7,0,0,34,14,0.4424,0.4146,0.0085,True,911cecba33,1,False,False,1,Physics,25 July - Evening Shift,"Physics | Q. 1 | In AM modulation, a signal is modulated on a carrier wave such that maxim"
+90,CONTENT,0,7 content marker(s),364,7,0,0,29,17,0.4423,0.4146,0.0058,True,610975a0ed,1,False,False,2,,,Q. 2 | The electric current in a circular coil of 2 turns produces a magnetic induction  |
+91,CONTENT,0,7 content marker(s),240,7,0,0,29,14,0.4668,0.4146,0.0058,True,5ab04db39c,1,False,False,3,,,Q. 3 | A drop of liquid of density  |  is floating half immersed in a liquid of density 
+92,CONTENT,0,7 content marker(s),311,7,0,0,29,16,0.5311,0.4146,0.0057,True,9a9efbc310,1,False,False,4,,,Q. 4 | Two billiard balls of mass  |  each moving in opposite directions with 
+93,CONTENT,0,6 content marker(s),355,6,0,0,29,14,0.4654,0.4146,0.0058,True,e58ff8ad45,1,False,False,5,,,"Q. 5 | For a free body diagram shown in the figure, the four forces are applied in the | d"
+94,CONTENT,0,3 content marker(s),286,3,0,0,21,18,0.4815,0.4146,0.0052,True,cff4a01bf7,1,False,False,6,,,Solution: | Q. 6 | Capacitance of an isolated conducting sphere of radius 
+95,CONTENT,0,5 content marker(s),148,5,0,0,25,15,0.4749,0.4146,0.0058,True,4fc4fb5263,1,False,False,,,,Option 2: | Option 3: | Option 4:
+96,CONTENT,0,7 content marker(s),240,7,0,0,29,16,0.469,0.4146,0.0058,True,2a3f50ae02,1,False,False,7,,,Q. 7 | The ratio of wavelengths of proton and deuteron accelerated by potential |  is 
+97,CONTENT,0,7 content marker(s),472,7,0,0,29,17,0.4851,0.4146,0.0057,True,505450c52e,1,False,False,8,,,"Q. 8 | For an object placed at a distance  |  from a lens, a sharp focused image is"
+98,CONTENT,0,no markers but no ad evidence -> solution continuation,71,0,0,0,15,14,0.6007,0.4146,0.0052,True,83a7e91383,1,False,False,,,,Normal shift due to glass plate | The object is displaced by=5.6 - 2.4 | 98
+99,CONTENT,0,8 content marker(s),387,8,0,0,33,15,0.4528,0.4146,0.0057,True,63d4bb49e5,1,False,False,9 10,,,"Q. 9 | Light wave traveling in air along -direction is given by | . Then, the peak value o"
+100,CONTENT,0,11 content marker(s),518,11,0,0,37,9,0.4278,0.4146,0.0064,True,df6c5e4102,1,False,False,11,,,Option 1: | Electromagnetic induction | Option 2:
+101,CONTENT,0,8 content marker(s),240,8,0,0,31,16,0.4758,0.4146,0.0063,True,a2c41c2243,1,False,False,12,,,Correct Answer: | Solution: | Q. 12
+102,CONTENT,0,8 content marker(s),294,8,0,0,29,17,0.4682,0.4146,0.0058,True,b32b53e75a,1,False,False,13,,,Solution: | Q. 13 | The length of a seconds pendulum at a height 
+103,CONTENT,0,7 content marker(s),337,7,0,0,29,16,0.4512,0.4146,0.0057,True,a671dd6579,1,False,False,14,,,Q. 14 | Sound travels in a mixture of two moles of helium and  moles of hydrogen. If rms |
+104,CONTENT,0,no markers but no ad evidence -> solution continuation,48,0,0,0,15,14,0.5038,0.4146,0.0052,True,d1a425652f,1,False,False,,,,(from eq 1 & 2) | Hence (2) is correct option. | 104
+105,CONTENT,0,7 content marker(s),200,7,0,0,29,18,0.4677,0.4146,0.0058,True,2f0434b9f9,1,False,False,15,,,Q. 15 | Let  |  is the efficiency of an engine at 
+106,CONTENT,0,7 content marker(s),355,7,0,0,29,17,0.4504,0.4146,0.0058,True,c8dd17e3ab,1,False,False,16,,,Q. 16 | An object is taken to a height above the surface of earth at a distance  |  from t
+107,CONTENT,0,7 content marker(s),345,7,0,0,29,17,0.4705,0.4146,0.0057,True,b863102106,1,False,False,17,,,Q. 17 | A bag of sand of mass  |   is suspended by a rope. A bullet of 
+108,CONTENT,0,7 content marker(s),284,7,0,0,29,19,0.4683,0.4146,0.0057,True,0991689c28,1,False,False,18,,,Q. 18 | A ball is projected from the ground with a speed  |  at an angle  with
+109,CONTENT,0,7 content marker(s),337,7,0,0,29,16,0.4556,0.4146,0.0058,True,c67120918e,1,False,False,19,,,"Q. 19 | The maximum error in the measurement of resistance, current and time for which | c"
+110,CONTENT,0,7 content marker(s),314,7,0,0,29,14,0.4721,0.4146,0.0058,True,a06122bcec,1,False,False,20,,,Q. 20 | Hydrogen atom from excited state comes to the ground state by emitting a photon of
+111,CONTENT,0,6 content marker(s),630,6,0,0,29,15,0.4495,0.4146,0.0052,True,e0abfb7815,1,False,False,21 22,,,Q. 21 | A particle is moving in a straight line such that its velocity is increasing at  |
+112,CONTENT,0,3 content marker(s),308,3,0,0,22,21,0.4955,0.4146,0.0052,True,e654eb29b4,1,False,False,23,,,Q. 23 | A block of ice of mass  |  at temperature 
+113,CONTENT,0,3 content marker(s),416,3,0,0,22,14,0.5127,0.4146,0.0052,True,7b45c2538a,1,False,False,24,,,Q. 24 |   is the ratio of energies of photons produced due to transition of an electron of
+114,CONTENT,0,3 content marker(s),384,3,0,0,22,17,0.4593,0.4146,0.0052,True,03e5995e46,1,False,False,25,,,"Q. 25 | In a potentiometer arrangement, a cell of emf  |  gives a balance point at "
+115,CONTENT,0,5 content marker(s),656,5,0,0,29,14,0.4924,0.4146,0.0052,True,747d1121d4,1,False,False,26 27,,,Q. 26 | Two ideal diodes are connected in the network as shown is figure. The equivalent |
+116,CONTENT,0,4 content marker(s),818,4,0,0,22,17,0.5136,0.4146,0.0052,True,1ae10dab93,1,False,False,28,,,Solution: | Q. 28 | Two parallel plate capacitors of capacity 
+117,CONTENT,0,3 content marker(s),667,3,0,0,22,19,0.4891,0.4146,0.0052,True,1558a310ef,1,False,False,29,,,Q. 29 | A convex lens of focal length  |  is placed in front of a convex mirror with princ
+118,CONTENT,0,3 content marker(s),234,3,0,0,22,16,0.4517,0.4146,0.0052,True,d3db90cb4d,1,False,False,30,,,Q. 30 | Magnetic flux (in weber) in a closed circuit of resistance  |  varies with time 
+119,CONTENT,0,11 content marker(s),257,11,0,0,66,15,0.4478,0.4146,0.0058,True,0c5576b697,1,False,False,1,Chemistry,,Chemistry | Q. 1 |  Match List I with List II : 
+120,CONTENT,0,7 content marker(s),376,7,0,0,29,19,0.6041,0.4146,0.0057,True,00d9493b9d,1,False,False,2,,,Q. 2 | Two solutions  |  and 
+121,CONTENT,0,9 content marker(s),281,9,0,0,29,21,0.4888,0.4146,0.0058,True,cb48416700,1,False,False,3,,,Q. 3 |  and  |  are the respective ionization constants for the following reactions 
+122,CONTENT,0,7 content marker(s),417,7,0,0,29,21,0.5194,0.4146,0.0058,True,7ef2288d7b,1,False,False,4,,,Q. 4 | The molar conductivity of a conductivity cell filled with  |  moles of 
+123,CONTENT,0,11 content marker(s),473,11,0,0,29,11,0.4417,0.4146,0.0057,True,5d69f857f3,1,False,False,5,,,"Q. 5 | For micelle formation, which of the following statements are correct? | A. Micelle "
+124,CONTENT,0,10 content marker(s),608,10,0,0,37,19,0.4354,0.4146,0.0057,True,b392b3ade0,1,False,False,6 7,,,Q. 6 | The first ionization enthalpies of   |  and  
+125,CONTENT,0,11 content marker(s),1110,11,0,0,35,4,0.4194,0.4146,0.0101,True,f2fd05c09b,1,False,False,8,,,Option 3: | Statement I is correct but Statement II is not correct. | Option 4:
+126,CONTENT,0,11 content marker(s),319,11,0,0,39,17,0.4468,0.4146,0.0058,True,9ecdabbc84,1,False,False,9 10,,,Q. 9 |  The correct order of density is  | Option 1:
+127,CONTENT,0,10 content marker(s),479,10,0,0,33,14,0.4417,0.4146,0.0063,True,eef04068ad,1,False,False,11,,,Option 4: | Correct Answer: | Solution:
+128,CONTENT,0,11 content marker(s),595,11,0,0,66,7,0.4311,0.4146,0.0058,True,f4b615ec44,1,False,False,12,,,Q. 12 |  Match List I with List II.  | List I 
+129,CONTENT,0,7 content marker(s),249,7,0,0,29,8,0.501,0.4146,0.0057,True,b456f0590b,1,False,False,13,,,Q. 13 |  Major product of the following reaction is  | Option 1:
+130,CONTENT,0,5 content marker(s),145,5,0,0,27,8,0.6169,0.4146,0.0052,True,fee7c65933,1,False,False,14,,,Q. 14 |  What is the major product of the following reaction?  | Option 1:
+131,CONTENT,0,6 content marker(s),204,6,0,0,27,8,0.6229,0.4146,0.0058,True,78f9ba49ba,1,False,False,15,,,Correct Answer: | Solution: | Q. 15
+132,CONTENT,0,7 content marker(s),239,7,0,0,29,16,0.5308,0.4146,0.0057,True,4247d7d85a,1,False,False,16,,,Option 4: | Correct Answer: | Solution:
+133,CONTENT,0,8 content marker(s),392,8,0,0,60,5,0.5093,0.4146,0.0058,True,88f8e92b77,1,False,False,17,,,Option 4: | Correct Answer: | Solution:
+134,CONTENT,0,15 content marker(s),452,15,0,0,37,11,0.4345,0.4146,0.0058,True,04b0e6639b,1,False,False,18,,,Option 1: | Option 2: | Option 3:
+135,CONTENT,0,11 content marker(s),651,11,0,0,37,4,0.4201,0.4146,0.007,True,8cbd877c2c,1,False,False,19 20,,,Correct Answer: | sucrose | Solution:
+136,CONTENT,0,8 content marker(s),527,8,0,0,30,13,0.4758,0.4146,0.0062,True,02855b2556,1,False,False,21,,,Option 2: | heterocyclic form | Option 3:
+137,CONTENT,0,5 content marker(s),521,5,0,0,29,18,0.4903,0.4146,0.0052,True,a7adcee9c1,1,False,False,22 23,,,Q. 22 | A sealed flask with a capacity of  |  contains 
+138,CONTENT,0,4 content marker(s),491,4,0,0,22,10,0.542,0.4146,0.0052,True,d6d901481f,1,False,False,24,,,"Solution: | Q. 24 | While performing a thermodynamics experiment, a student made the follo"
+139,CONTENT,0,3 content marker(s),342,3,0,0,22,15,0.5266,0.4146,0.0052,True,2114842341,1,False,False,25,,,"Q. 25 |  For the decomposition of azomethane,  |   a first order reaction, the variation"
+140,CONTENT,0,5 content marker(s),401,5,0,0,29,10,0.5635,0.4146,0.0052,True,b8bee638e8,1,False,False,26 27,,,Q. 26 | The sum of number of lone pairs of electrons present on the central atoms of |  an
+141,CONTENT,0,4 content marker(s),498,4,0,0,22,17,0.4781,0.4146,0.0052,True,782a415301,1,False,False,28,,,Solution: | Q. 28 | A sample of 
+142,CONTENT,0,5 content marker(s),489,5,0,0,29,18,0.4908,0.4146,0.0052,True,b2cad4e323,1,False,False,29 30,,,Q. 29 | The separation of two coloured substances was done by paper chromatography. The | 
+143,CONTENT,0,8 content marker(s),295,8,0,0,29,14,0.4886,0.4146,0.0057,True,825cffda77,1,False,False,1,Mathematics,,Solution: | Maths | Q. 1
+144,CONTENT,0,7 content marker(s),238,7,0,0,29,18,0.4518,0.4146,0.0057,True,10c30225ef,1,False,False,2,,,"Q. 2 | The number of real values of , such that the system of linear equations | has no so"
+145,CONTENT,0,7 content marker(s),374,7,0,0,29,18,0.4616,0.4146,0.0058,True,bbad4f16fb,1,False,False,3,,,"Q. 3 | The number of bijective functions  | ,such that "
+146,CONTENT,0,7 content marker(s),166,7,0,0,29,24,0.4423,0.4146,0.0058,True,04a54897ab,1,False,False,4,,,Q. 4 | The remainder when  |  is divided by  is
+147,CONTENT,0,7 content marker(s),135,7,0,0,29,13,0.4858,0.4146,0.0058,True,894c55af9f,1,False,False,5,,,Q. 5 | The sum  |  is equal to
+148,CONTENT,0,7 content marker(s),113,7,0,0,29,16,0.4925,0.4146,0.0058,True,9d58bf293d,1,False,False,6,,,Q. 6 |  is equal to | Option 1:
+149,CONTENT,0,7 content marker(s),113,7,0,0,29,15,0.5098,0.4146,0.0058,True,c9fd9d2c2b,1,False,False,7,,,Q. 7 |  is equal | to
+150,CONTENT,0,7 content marker(s),158,7,0,0,29,18,0.4795,0.4146,0.0058,True,4697b3c84f,1,False,False,8,,,Q. 8 | If  |  are two events such that 
+151,CONTENT,0,7 content marker(s),204,7,0,0,29,16,0.486,0.4146,0.0057,True,77fdf9a417,1,False,False,9,,,Q. 9 | Let  |  denote the greatest integer less than or equal to 
+152,CONTENT,0,7 content marker(s),224,7,0,0,29,21,0.5169,0.4146,0.0057,True,7208c842ae,1,False,False,10,,,Q. 10 | Let the point  |  be at a unit distance from each of the two lines
+153,CONTENT,0,no markers but no ad evidence -> solution continuation,195,0,0,0,15,17,0.5609,0.4146,0.0052,True,5b903d1f6e,1,False,False,,,,P and origin lie on same side of  |      ........(i) | Similarly for 
+154,CONTENT,0,7 content marker(s),245,7,0,0,29,20,0.4531,0.4146,0.0058,True,eeb96fba87,1,False,False,11,,,Q. 11 | Let a smooth curve  |  be such that the slope of the tangent at any point 
+155,CONTENT,0,7 content marker(s),290,7,0,0,29,19,0.4696,0.4146,0.0058,True,5a178aa09e,1,False,False,12,,,Q. 12 | If the ellipse   |  meets the line 
+156,CONTENT,0,7 content marker(s),205,7,0,0,29,19,0.5253,0.4146,0.0058,True,2ee3125cfb,1,False,False,13,,,Q. 13 | The tangents at the points  |  on the parabola
+157,CONTENT,0,5 content marker(s),216,5,0,0,27,18,0.4693,0.4146,0.0052,True,e8eda605be,1,False,False,14,,,Q. 14 | Let the foci of the ellipse  |  and the hyperbola 
+158,CONTENT,0,4 content marker(s),279,4,0,0,23,19,0.4727,0.4146,0.0058,True,e000dccfcc,1,False,False,15,,,Correct Answer: | Solution: | Q. 15
+159,CONTENT,0,5 content marker(s),99,5,0,0,23,22,0.4764,0.4146,0.0058,True,1b0c300dcc,1,False,False,,,,Option 2: | Option 3: | Option 4:
+160,CONTENT,0,7 content marker(s),146,7,0,0,29,15,0.5142,0.4146,0.0058,True,cbc5289256,1,False,False,16,,,Q. 16 | The shortest distance between the lines |   is
+161,CONTENT,0,7 content marker(s),240,7,0,0,29,20,0.4818,0.4146,0.0058,True,2920e23345,1,False,False,17,,,Q. 17 | Let  |  and let  be a vector such that 
+162,CONTENT,0,7 content marker(s),300,7,0,0,29,14,0.4952,0.4146,0.0058,True,787028ef4e,1,False,False,18,,,"Q. 18 | If the mean deviation about median for the numbers  | , "
+163,CONTENT,0,7 content marker(s),189,7,0,0,29,14,0.4931,0.4146,0.0057,True,fda2d599c4,1,False,False,19,,,Q. 19 |  is equal to : | Option 1:
+164,CONTENT,0,7 content marker(s),337,7,0,0,29,17,0.528,0.4146,0.0058,True,d2225295a6,1,False,False,20,,,Q. 20 | Consider the following statements : |  : Ramu is intelligent.
+165,CONTENT,0,3 content marker(s),564,3,0,0,22,18,0.4632,0.4146,0.0052,True,b4a2625063,1,False,False,21,,,Q. 21 | Let  | . Define
+166,CONTENT,0,3 content marker(s),223,3,0,0,22,20,0.5263,0.4146,0.0052,True,ea263fe508,1,False,False,22,,,Q. 22 | Let  |  be a quadratic polynomial with leading coefficient 1 such that
+167,CONTENT,0,3 content marker(s),123,3,0,0,22,14,0.5175,0.4146,0.0052,True,8c17b416ad,1,False,False,23,,,Q. 23 | Let  | .
+168,CONTENT,0,3 content marker(s),210,3,0,0,22,18,0.5266,0.4146,0.0052,True,50f57cad4b,1,False,False,24,,,Q. 24 | The sum of the maximum and minimum values of the function |  in the interval 
+169,CONTENT,0,3 content marker(s),169,3,0,0,22,19,0.5164,0.4146,0.0052,True,13cad72c91,1,False,False,25,,,Q. 25 | Let  |  be the solution of the differential equation
+170,CONTENT,0,3 content marker(s),174,3,0,0,22,20,0.5389,0.4146,0.0052,True,a0347176a1,1,False,False,26,,,Q. 26 | Let  be a twice differentiable function on  |  If  
+171,CONTENT,0,3 content marker(s),155,3,0,0,22,18,0.5104,0.4146,0.0052,True,76a0e87e59,1,False,False,27,,,Q. 27 | Let  |  for every 
+172,CONTENT,0,3 content marker(s),132,3,0,0,22,17,0.5925,0.4146,0.0052,True,2ccdd8e5d8,1,False,False,28,,,Q. 28 | If the circles  |  and
+173,CONTENT,0,3 content marker(s),261,3,0,0,22,20,0.4939,0.4146,0.0052,True,fa907d5596,1,False,False,29,,,"Q. 29 | Let the area enclosed by the -axis, and the tangent and normal drawn to the curve "
+174,CONTENT,0,3 content marker(s),122,3,0,0,22,18,0.5068,0.4146,0.0052,True,132fb94833,1,False,False,30,,,Q. 30 | Let  | . If
+175,CONTENT,0,no markers but no ad evidence -> solution continuation,20,0,0,0,15,10,0.4476,0.4146,0.0052,True,7192b69df2,1,False,False,,,,Hence answer is  | 175
+176,CONTENT,0,7 content marker(s),458,7,0,0,34,20,0.486,0.4146,0.0087,True,c38bd5b93f,1,False,False,1,Physics,26 July - Morning Shift,Physics | Q. 1 | Three masses 
+177,CONTENT,0,5 content marker(s),296,5,0,0,27,22,0.4642,0.4146,0.0052,True,7ed45066ad,1,False,False,2,,,Q. 2 | A radio can tune to any station in  |  to 
+178,CONTENT,0,9 content marker(s),348,9,0,0,31,20,0.4534,0.4146,0.0063,True,eaebcdcb96,1,False,False,3,,,Correct Answer: | Solution: | Q. 3
+179,CONTENT,0,3 content marker(s),249,3,0,0,23,16,0.4636,0.4146,0.0052,True,d30f500c92,1,False,False,4,,,Q. 4 | A parallel beam of light of wavelength  |  and intensity 
+180,CONTENT,0,4 content marker(s),77,4,0,0,21,14,0.4887,0.4146,0.0057,True,a8011645fc,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+181,CONTENT,0,9 content marker(s),420,9,0,0,35,15,0.4569,0.4146,0.0058,True,352d64800d,1,False,False,5 6,,,"Q. 5 | In Young's double slit experiment, the fringe width is  |  If the entire"
+182,CONTENT,0,6 content marker(s),428,6,0,0,27,22,0.4987,0.4146,0.0058,True,85f91761cd,1,False,False,7,,,Option 2: | Option 3: | Option 4:
+183,CONTENT,0,6 content marker(s),69,6,0,0,25,15,0.4962,0.4146,0.0058,True,2cfb71861f,1,False,False,,,,Option 1: | Option 2: | Option 3:
+184,CONTENT,0,7 content marker(s),352,7,0,0,29,18,0.4346,0.4146,0.0058,True,d13d506fc3,1,False,False,8,,,Q. 8 | A charge particle is moving in a uniform magnetic field  |  If it has an
+185,CONTENT,0,7 content marker(s),305,7,0,0,29,24,0.4418,0.4146,0.0058,True,43f9fc508e,1,False,False,9,,,Q. 9 |  and  |  are the magnetic fields at the centre of two coils 
+186,CONTENT,0,7 content marker(s),206,7,0,0,29,12,0.4885,0.4146,0.0058,True,b6240b16a3,1,False,False,10,,,Q. 10 |  The current I in the given circuit will be :  | Option 1:
+187,CONTENT,0,7 content marker(s),239,7,0,0,29,17,0.4739,0.4146,0.0058,True,7880162514,1,False,False,11,,,Q. 11 |  The total charge on the system of capacitors  |  connected in parallel is : 
+188,CONTENT,0,7 content marker(s),404,7,0,0,29,5,0.4565,0.4146,0.006,True,4a086b2878,1,False,False,12,,,"Q. 12 | When a particle executes Simple Hormonic Motion, the nature of graph of velocity a"
+189,CONTENT,0,7 content marker(s),266,7,0,0,29,17,0.4436,0.4146,0.0058,True,25bc16b4db,1,False,False,13,,,Q. 13 |  of a certain monoatomic ideal gas undergoes a temperature increase of  | at const
+190,CONTENT,0,7 content marker(s),364,7,0,0,29,16,0.435,0.4146,0.0057,True,1b8cbc2fbe,1,False,False,14,,,Q. 14 | A monoatomic gas at pressure  |  and volume 
+191,CONTENT,0,7 content marker(s),233,7,0,0,29,17,0.4589,0.4146,0.0058,True,1f5db6ba60,1,False,False,15,,,Q. 15 | A water drop of radius  |  is broken into 
+192,CONTENT,0,6 content marker(s),242,6,0,0,29,17,0.4506,0.4146,0.0057,True,45630f4474,1,False,False,16,,,"Q. 16 | The percentage decrease in the weight of a rocket, when taken to a height of  |  a"
+193,CONTENT,0,3 content marker(s),332,3,0,0,21,17,0.4647,0.4146,0.0052,True,1e6af842aa,1,False,False,17,,,"Solution: | Q. 17 | As per the given figure, two blocks each of mass "
+194,CONTENT,0,7 content marker(s),447,7,0,0,29,19,0.4686,0.4146,0.0057,True,9ed0ab4f0b,1,False,False,18,,,Option 2: | Option 3: | Option 4:
+195,CONTENT,0,5 content marker(s),241,5,0,0,23,20,0.514,0.4146,0.0058,True,8c99634a28,1,False,False,,,,Option 2: | Option 3: | Option 4:
+196,CONTENT,0,8 content marker(s),600,8,0,0,33,17,0.4423,0.4146,0.0058,True,dc86f694e5,1,False,False,19 20,,,Q. 19 | Two projectiles thrown at  | and 
+197,CONTENT,0,6 content marker(s),97,6,0,0,25,20,0.4781,0.4146,0.0058,True,99fee79ef1,1,False,False,,,,Option 1: | Option 2: | Option 3:
+198,CONTENT,0,4 content marker(s),663,4,0,0,26,22,0.4659,0.4146,0.0052,True,fe6af83b88,1,False,False,21 22,,,Q. 21 | If the initial velocity in horizontal direction of a projectile is unit vector   a
+199,CONTENT,0,4 content marker(s),486,4,0,0,25,22,0.4887,0.4146,0.0052,True,60b00aba15,1,False,False,23,,,Correct Answer: | 5 | Solution:
+200,CONTENT,0,1 content marker(s),31,1,0,0,15,19,0.4885,0.4146,0.0052,True,b54c2aa52c,1,False,False,,,,Solution: | The Value of  is  | 200
+201,CONTENT,0,3 content marker(s),367,3,0,0,22,13,0.4654,0.4146,0.0052,True,84ffcbe939,1,False,False,24,,,"Q. 24 | When a car is approaching the observer, the frequency of horn is  |  After"
+202,CONTENT,0,3 content marker(s),299,3,0,0,22,14,0.5091,0.4146,0.0052,True,a1ad8eb091,1,False,False,25,,,Q. 25 | A composite parallel plate capacitor is made up of two different dielectric materi
+203,CONTENT,0,3 content marker(s),352,3,0,0,22,17,0.4943,0.4146,0.0052,True,d78afb9908,1,False,False,26,,,Q. 26 | Resistances are connected in a meter bridge circuit as shown in the figure. The | 
+204,CONTENT,0,3 content marker(s),354,3,0,0,22,12,0.5337,0.4146,0.0052,True,0bb3a663d0,1,False,False,27,,,Q. 27 | The effective current I in the given circuit at very high frequencies will be ____
+205,CONTENT,0,3 content marker(s),387,3,0,0,22,18,0.5588,0.4146,0.0052,True,cd84a69cf5,1,False,False,28,,,Q. 28 | The graph between   and   for a thin convex lens in order to determine its focal |
+206,CONTENT,0,3 content marker(s),435,3,0,0,22,18,0.4663,0.4146,0.0052,True,f444c96f41,1,False,False,29,,,"Q. 29 | In the hydrogen spectrum, be the wavelength of first transition line of Lyman seri"
+207,CONTENT,0,no markers but no ad evidence -> solution continuation,67,0,0,0,15,12,0.4609,0.4146,0.0052,True,3d7d2afde7,1,False,False,,,,"2nd transition line of balmer series, | from eq (1) | The value of "
+208,CONTENT,0,3 content marker(s),192,3,0,0,22,9,0.4546,0.4146,0.0052,True,d1f92030ae,1,False,False,30,,,"Q. 30 | In the circuit shown below, maximum zener diode current will be _______________  |"
+209,CONTENT,0,11 content marker(s),351,11,0,0,66,13,0.4937,0.4146,0.0057,True,879766b5b5,1,False,False,1,Chemistry,,Chemistry | Q. 1 | Match List - I with List - II.
+210,CONTENT,0,7 content marker(s),380,7,0,0,60,16,0.5095,0.4146,0.0052,True,790c5d012d,1,False,False,2,,,Q. 2 | Match List - I with List - II. | List - I
+211,CONTENT,0,12 content marker(s),702,12,0,0,69,14,0.4658,0.4146,0.0057,True,fb4433bc41,1,False,False,3,,,Option 3: | Option 4: | Correct Answer:
+212,CONTENT,0,10 content marker(s),713,10,0,0,33,4,0.4695,0.4146,0.0085,True,6f2903243f,1,False,False,4,,,Option 4: | Statement I is incorrect but Statement II is correct. | Correct Answer:
+213,CONTENT,0,7 content marker(s),613,7,0,0,29,4,0.4164,0.4146,0.0059,True,5eff31221f,1,False,False,5,,,Q. 5 | Which of the following can be used to prevent the decomposition of  |   ? 
+214,CONTENT,0,9 content marker(s),443,9,0,0,35,24,0.4524,0.4146,0.0057,True,ee8a8f8c01,1,False,False,6 7,,,Q. 6 | Reaction of  |  with 
+215,CONTENT,0,12 content marker(s),472,12,0,0,37,14,0.4627,0.4146,0.0063,True,7ca4b3db56,1,False,False,8,,,Option 2: | Option 3: | Option 4:
+216,CONTENT,0,7 content marker(s),428,7,0,0,29,14,0.5135,0.4146,0.0058,True,4b64db34e3,1,False,False,9,,,Q. 9 | The dark purple colour of  |  disappears in the titration with oxalic acid in acidi
+217,CONTENT,0,7 content marker(s),226,7,0,0,29,9,0.5041,0.4146,0.0058,True,5f4769c522,1,False,False,10,,,Q. 10 |  A and B in the above atmospheric reaction step are :  | Option 1:
+218,CONTENT,0,10 content marker(s),797,10,0,0,37,4,0.4159,0.4146,0.007,True,aa5094ea74,1,False,False,11 12,,,"Q. 11 | Which technique among the following, is most appropriate in separation of a mixtur"
+219,CONTENT,0,4 content marker(s),373,4,0,0,21,7,0.6402,0.4146,0.0062,True,291e48d96b,1,False,False,,,,Option 3: | Free radical formation | Option 4:
+220,CONTENT,0,7 content marker(s),248,7,0,0,29,8,0.4785,0.4146,0.0057,True,c00803a527,1,False,False,13,,,Q. 13 | Which of the following compounds is not aromatic?  | Option 1:
+221,CONTENT,0,5 content marker(s),267,5,0,0,27,8,0.5988,0.4146,0.0052,True,9cac2fd5ab,1,False,False,14,,,"Q. 14 |  The products formed in the following reaction, A and B are  | Option 1:"
+222,CONTENT,0,6 content marker(s),396,6,0,0,27,11,0.5501,0.4146,0.0058,True,de90a18395,1,False,False,15,,,Correct Answer: | Solution: | Q. 15
+223,CONTENT,0,3 content marker(s),69,3,0,0,19,6,0.7455,0.4146,0.0057,True,d7f20c3950,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+224,CONTENT,0,5 content marker(s),97,5,0,0,27,7,0.5041,0.4146,0.0052,True,e0f7adb5a7,1,False,False,16,,,Q. 16 | The major product of the following reaction is  | Option 1:
+225,CONTENT,0,3 content marker(s),208,3,0,0,21,7,0.5849,0.4146,0.0058,True,38129952aa,1,False,False,17,,,Correct Answer: | Solution: | Q. 17
+226,CONTENT,0,7 content marker(s),331,7,0,0,29,10,0.5533,0.4146,0.0058,True,2c0d21d1cf,1,False,False,18,,,Option 1: | Option 2: | Option 3:
+227,CONTENT,0,7 content marker(s),320,7,0,0,29,3,0.4954,0.4146,0.0064,True,808c11a6e2,1,False,False,19,,,Option 1: | Cationic detergent | Option 2:
+228,CONTENT,0,5 content marker(s),59,5,0,0,25,7,0.5302,0.4146,0.0058,True,7a5a949aa0,1,False,False,,,,Option 1: | Option 2: | Option 3:
+229,CONTENT,0,8 content marker(s),913,8,0,0,27,8,0.4617,0.4146,0.0052,True,f841721fc9,1,False,False,20,,,Solution: | Q. 20 | Given below are two statements : one is labelled as Assertion (A) and 
+230,CONTENT,0,6 content marker(s),675,6,0,0,24,19,0.5017,0.4146,0.0065,True,70fb66ded7,1,False,False,21,,,"Correct Answer: | (A) is true, but (R) is false. | Solution:"
+231,CONTENT,0,6 content marker(s),536,6,0,0,29,15,0.4682,0.4146,0.0052,True,f130fcd6ea,1,False,False,22 23,,,Q. 22 | A mixture of hydrogen and oxygen contains  |  hydrogen by mass when the
+232,CONTENT,0,3 content marker(s),424,3,0,0,22,18,0.4656,0.4146,0.0052,True,e342a3e274,1,False,False,24,,,Q. 24 |  coal is burnt in a bomb calorimeter in excess of oxygen at  |  and 
+233,CONTENT,0,4 content marker(s),504,4,0,0,26,21,0.4923,0.4146,0.0052,True,73fa502bd3,1,False,False,25 26,,,Q. 25 | When  |  of 
+234,CONTENT,0,6 content marker(s),514,6,0,0,29,18,0.4554,0.4146,0.0052,True,aa81e07565,1,False,False,27 28,,,Correct Answer: | 2 | Solution:
+235,CONTENT,0,5 content marker(s),388,5,0,0,25,17,0.4924,0.4146,0.0052,True,6d7dc07772,1,False,False,29,,,Correct Answer: | 2 | Solution:
+236,CONTENT,0,9 content marker(s),354,9,0,0,36,14,0.4876,0.4146,0.0058,True,673563471f,1,False,False,30 1,Mathematics,,"Q. 30 | In the presence of sunlight, benzene reacts with  |  to give product, "
+237,CONTENT,0,8 content marker(s),317,8,0,0,29,22,0.4838,0.4146,0.0058,True,454b785f8d,1,False,False,2,,,Solution: | Q. 2 |   Let 
+238,CONTENT,0,7 content marker(s),215,7,0,0,29,16,0.4601,0.4146,0.0058,True,072c238074,1,False,False,3,,,"Q. 3 | If the system of linear equations. | has infinitely many solutions, then the distan"
+239,CONTENT,0,7 content marker(s),220,7,0,0,29,20,0.4704,0.4146,0.0058,True,279d18ddc7,1,False,False,4,,,Q. 4 | Let  |  be a 
+240,CONTENT,0,11 content marker(s),327,11,0,0,39,18,0.4571,0.4146,0.0058,True,69aa22d68b,1,False,False,5 6,,,"Q. 5 | The odd natural number a, such that the area of the region bounded by  |  is equal "
+241,CONTENT,0,9 content marker(s),184,9,0,0,33,19,0.4969,0.4146,0.0063,True,18846f854b,1,False,False,7,,,Option 4: | Correct Answer: | Solution:
+242,CONTENT,0,8 content marker(s),182,8,0,0,29,20,0.5156,0.4146,0.0058,True,7b938c9799,1,False,False,8,,,Solution: | Q. 8 | If 
+243,CONTENT,0,7 content marker(s),223,7,0,0,29,21,0.4805,0.4146,0.0058,True,a7a782ec5d,1,False,False,9,,,Q. 9 | Then the set of all values of  |  for which 
+244,CONTENT,0,7 content marker(s),115,7,0,0,29,14,0.5124,0.4146,0.0057,True,eef8f19376,1,False,False,10,,,Q. 10 |  and  |  then :
+245,CONTENT,0,7 content marker(s),119,7,0,0,29,18,0.4808,0.4146,0.0058,True,601d2f524a,1,False,False,11,,,Q. 11 | If  |  and 
+246,CONTENT,0,7 content marker(s),348,7,0,0,29,22,0.4845,0.4146,0.0058,True,0e1e421153,1,False,False,12,,,Q. 12 |  A point  P  moves so that the sum of squares of its distances from the points  | 
+247,CONTENT,0,7 content marker(s),302,7,0,0,29,20,0.4884,0.4146,0.0058,True,4bca68261d,1,False,False,13,,,Q. 13 | Let the tangent drawn to the parabola   |   at the point 
+248,CONTENT,0,7 content marker(s),256,7,0,0,29,16,0.4798,0.4146,0.0058,True,439a02065a,1,False,False,14,,,Q. 14 | The length of the perpendicular from the point  |   on the line passing
+249,CONTENT,0,8 content marker(s),285,8,0,0,33,22,0.4755,0.4146,0.0058,True,0f85884dc6,1,False,False,15 16,,,Q. 15 | Let  |  and 
+250,CONTENT,0,6 content marker(s),140,6,0,0,25,16,0.4614,0.4146,0.0058,True,0c4f46a9ef,1,False,False,,,,Option 1: | Option 2: | Option 3:
+251,CONTENT,0,7 content marker(s),238,7,0,0,29,20,0.4694,0.4146,0.0058,True,e6c8e0ec8c,1,False,False,17,,,Q. 17 | Let  |    be three mutually exclusive events such that 
+252,CONTENT,0,8 content marker(s),151,8,0,0,33,16,0.4949,0.4146,0.0057,True,43c41c4515,1,False,False,18 19,,,Q. 18 | Let  | . Then 
+253,CONTENT,0,10 content marker(s),152,10,0,0,35,15,0.4708,0.4146,0.0058,True,2f2f3b7425,1,False,False,20,,,Option 1: | Option 2: | Option 3:
+254,CONTENT,0,7 content marker(s),400,7,0,0,30,15,0.5071,0.4146,0.0062,True,1f1cfb25b0,1,False,False,21 22,,,Option 4: | equivalent to  | Correct Answer:
+255,CONTENT,0,8 content marker(s),344,8,0,0,32,15,0.4816,0.4146,0.0052,True,38bf3286ba,1,False,False,23 24,,,Correct Answer: | 180 | Solution:
+256,CONTENT,0,5 content marker(s),344,5,0,0,29,21,0.4881,0.4146,0.0052,True,549ec4a03b,1,False,False,25 26,,,Q. 25 |  If the coefficients of   and  |  in the expansion of 
+257,CONTENT,0,4 content marker(s),303,4,0,0,22,21,0.5343,0.4146,0.0052,True,442b8e862b,1,False,False,27,,,Solution: | Q. 27 | Let a curve 
+258,CONTENT,0,3 content marker(s),253,3,0,0,22,23,0.4883,0.4146,0.0052,True,447c630f3b,1,False,False,28,,,Q. 28 | The equations of the sides   |  and 
+259,CONTENT,0,3 content marker(s),310,3,0,0,22,25,0.4952,0.4146,0.0052,True,ba43a470ff,1,False,False,29,,,Q. 29 |  Let the function  |  be decreasing in 
+260,CONTENT,0,3 content marker(s),192,3,0,0,22,15,0.4615,0.4146,0.0052,True,b9c830dee9,1,False,False,30,,,Q. 30 | Let  |  and 
+261,CONTENT,0,7 content marker(s),293,7,0,0,34,15,0.4507,0.4146,0.0085,True,5ecc7fc359,1,False,False,1,Physics,26 July - Evening Shift,Physics | Q. 1 | Two projectiles are thrown with same initial velocity making an angle of
+262,CONTENT,0,7 content marker(s),717,7,0,0,29,22,0.4481,0.4146,0.0058,True,724c1e8a31,1,False,False,2,,,"Q. 2 | In a Vernier Calipers,  |  divisions of Vernier scale is equal to the  divisions of"
+263,CONTENT,0,7 content marker(s),350,7,0,0,29,13,0.4276,0.4146,0.0058,True,9df3900217,1,False,False,3,,,Q. 3 | A ball of mass  |  hits the wall with its initial speed of 
+264,CONTENT,0,5 content marker(s),203,5,0,0,27,18,0.4612,0.4146,0.0052,True,d597464b1d,1,False,False,4,,,Q. 4 | A body of mass  |   and another of mass 
+265,CONTENT,0,7 content marker(s),397,7,0,0,29,18,0.4385,0.4146,0.0058,True,8658633352,1,False,False,5,,,Correct Answer: | Solution: | Q. 5
+266,CONTENT,0,5 content marker(s),453,5,0,0,25,12,0.4742,0.4146,0.0058,True,8c40507e56,1,False,False,6,,,Correct Answer: | Solution: | Q. 6
+267,CONTENT,0,8 content marker(s),232,8,0,0,31,16,0.4579,0.4146,0.0057,True,820bde3f67,1,False,False,7,,,Option 3: | Option 4: | Correct Answer:
+268,CONTENT,0,4 content marker(s),243,4,0,0,23,14,0.4897,0.4146,0.0058,True,07818425f7,1,False,False,8,,,Option 4: | Correct Answer: | Solution:
+269,CONTENT,0,7 content marker(s),304,7,0,0,29,15,0.4706,0.4146,0.0058,True,881232ba10,1,False,False,9,,,Option 1: | Option 2: | Option 3:
+270,CONTENT,0,7 content marker(s),294,7,0,0,29,15,0.4407,0.4146,0.0058,True,0ccd1c86f6,1,False,False,10,,,Option 1: | Option 2: | Option 3:
+271,CONTENT,0,7 content marker(s),422,7,0,0,29,19,0.4681,0.4146,0.0058,True,9ced72de48,1,False,False,11,,,Option 1: | Option 2: | Option 3:
+272,CONTENT,0,6 content marker(s),89,6,0,0,25,16,0.5059,0.4146,0.0057,True,4a8fcfc9cd,1,False,False,,,,Option 1: | Option 2: | Option 3:
+273,CONTENT,0,7 content marker(s),313,7,0,0,29,14,0.4869,0.4146,0.0057,True,3105668b45,1,False,False,12,,,Q. 12 | A gas has  degrees of freedom. The ratio of specific heat of gas at constant volum
+274,CONTENT,0,7 content marker(s),295,7,0,0,29,14,0.433,0.4146,0.0057,True,ddb0e0ff0c,1,False,False,13,,,Q. 13 | A transverse wave is represented by  | The value of
+275,CONTENT,0,7 content marker(s),261,7,0,0,29,12,0.5,0.4146,0.0058,True,cb064b50f4,1,False,False,14,,,Q. 14 | A battery of  |  is connected to the circuit as shown below. The current I drawn f
+276,CONTENT,0,7 content marker(s),544,7,0,0,29,18,0.4488,0.4146,0.0057,True,346179f239,1,False,False,15,,,Q. 15 | A source of potential difference  |  is connected to the combination of two identi
+277,CONTENT,0,7 content marker(s),397,7,0,0,29,17,0.4729,0.4146,0.0058,True,39eb969fd5,1,False,False,16,,,Q. 16 | Two concentric circular loops of radii  |  and 
+278,CONTENT,0,7 content marker(s),285,7,0,0,29,22,0.4795,0.4146,0.0057,True,4a6dfa3859,1,False,False,17,,,Q. 17 | A velocity selector consists of electric field  |  and magnetic field 
+279,CONTENT,0,1 content marker(s),349,1,0,0,19,23,0.5052,0.4146,0.0052,True,cab621a464,1,False,False,18,,,Q. 18 | Two masses  |  and 
+280,CONTENT,0,6 content marker(s),158,6,0,0,25,12,0.4472,0.4146,0.0057,True,dec4c8ead9,1,False,False,,,,Option 1: | Option 2: | Option 3:
+281,CONTENT,0,11 content marker(s),602,11,0,0,39,15,0.4431,0.4146,0.0058,True,f8fee4944a,1,False,False,19 20,,,Q. 19 | Mass numbers of two nuclei are in the ratio of  | . Their nuclear densities will b
+282,CONTENT,0,6 content marker(s),305,6,0,0,26,18,0.4769,0.4146,0.0057,True,7e27dd26d4,1,False,False,21,,,Option 4: | Correct Answer: | Solution:
+283,CONTENT,0,3 content marker(s),250,3,0,0,22,13,0.4679,0.4146,0.0052,True,a72060b1ec,1,False,False,22,,,Q. 22 | The radius of gyration of a cylindrical rod about an axis of rotation perpendicula
+284,CONTENT,0,3 content marker(s),345,3,0,0,22,17,0.5339,0.4146,0.0052,True,2eee7e2f00,1,False,False,23,,,"Q. 23 | In the given figure, the face  |  of the equilateral prism is immersed in a liquid"
+285,CONTENT,0,6 content marker(s),621,6,0,0,29,22,0.4532,0.4146,0.0052,True,24330622dd,1,False,False,24 25,,,Q. 24 | Two lighter nuclei combine to form a comparatively heavier nucleus by the relation
+286,CONTENT,0,3 content marker(s),342,3,0,0,22,13,0.4799,0.4146,0.0052,True,fd4f649ec0,1,False,False,26,,,Q. 26 | The typical transfer characteristics of a transistor in  |  configuration is shown
+287,CONTENT,0,3 content marker(s),336,3,0,0,22,21,0.5029,0.4146,0.0052,True,45f40ecc52,1,False,False,27,,,Q. 27 | Three point charges of magnitude  |  and 
+288,CONTENT,0,6 content marker(s),627,6,0,0,29,18,0.5127,0.4146,0.0052,True,dad22bd800,1,False,False,28 29,,,"Q. 28 | In a coil of resistance  | , the magnetic flux due to an external magnetic field v"
+289,CONTENT,0,3 content marker(s),287,3,0,0,22,19,0.526,0.4146,0.0052,True,7d9cc395b9,1,False,False,30,,,"Q. 30 | As per given figures, two springs of spring constants  and  |  are connected to ma"
+290,CONTENT,0,3 content marker(s),121,3,0,0,21,19,0.5016,0.4146,0.0052,True,4144dc87c1,1,False,False,1,Chemistry,,Solution: | Chemistry | Q. 1
+291,CONTENT,0,6 content marker(s),382,6,0,0,27,18,0.478,0.4146,0.0058,True,f4d579ea7b,1,False,False,2,,,Option 2: | Option 3: | Option 4:
+292,CONTENT,0,9 content marker(s),533,9,0,0,33,14,0.4512,0.4146,0.0058,True,85f9255098,1,False,False,3,,,Option 1: | Option 2: | Option 3:
+293,CONTENT,0,4 content marker(s),192,4,0,0,21,12,0.4844,0.4146,0.0057,True,29e7c4448e,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+294,CONTENT,0,7 content marker(s),397,7,0,0,29,19,0.4717,0.4146,0.0057,True,7aa77da29b,1,False,False,4,,,Q. 4 | At  |  the half life for the decomposition of 
+295,CONTENT,0,5 content marker(s),719,5,0,0,28,7,0.4764,0.4146,0.0052,True,0c7c75da6c,1,False,False,5,,,Q. 5 | Given below are two statements: one is labelled as Assertion A and the other is | l
+296,CONTENT,0,9 content marker(s),836,9,0,0,31,10,0.4254,0.4146,0.0081,True,490f7c0645,1,False,False,6,,,Correct Answer: | Both A and R are true and R is the correct explanation of  A. | Solution
+297,CONTENT,0,12 content marker(s),417,12,0,0,41,13,0.4358,0.4146,0.0058,True,b0267b826f,1,False,False,7 8,,,Q. 7 |  The metal that is not extracted from its sulfide ore is  | Option 1:
+298,CONTENT,0,9 content marker(s),922,9,0,0,32,7,0.4314,0.4146,0.007,True,4ce1c01cbc,1,False,False,9,,,Correct Answer: | Solution: | Q. 9
+299,CONTENT,0,9 content marker(s),971,9,0,0,36,8,0.4325,0.4146,0.0074,True,7a709ff84d,1,False,False,10 11,,,Q. 10 | Given below are two statements: one is labelled as Assertion A and the other is | 
+300,CONTENT,0,5 content marker(s),156,5,0,0,23,10,0.4687,0.4146,0.0058,True,6f5d5cfb4b,1,False,False,,,,Option 2: | Option 3: | Option 4:
+301,CONTENT,0,13 content marker(s),474,13,0,0,90,9,0.4313,0.4146,0.0058,True,f5d0647c5b,1,False,False,12,,,Q. 12 |  Match List I with List II.  | List I
+302,CONTENT,0,9 content marker(s),399,9,0,0,46,12,0.486,0.4146,0.0058,True,1560cc0a59,1,False,False,13,,,Q. 13 | The correct decreasing order of priority of functional groups in naming an organic
+303,CONTENT,0,7 content marker(s),398,7,0,0,29,3,0.4744,0.4146,0.006,True,18157cd8a7,1,False,False,14,,,Q. 14 | Which of the following is not an example of benzenoid compound?  | Option 1:
+304,CONTENT,0,7 content marker(s),392,7,0,0,29,3,0.4698,0.4146,0.0066,True,3d8548af07,1,False,False,15,,,Q. 15 |  Hydrolysis of which compound will give carbolic acid?  | Option 1:
+305,CONTENT,0,7 content marker(s),202,7,0,0,29,14,0.5869,0.4146,0.0058,True,1b336336b8,1,False,False,16,,,Q. 16 |  Consider the above reaction and predict the major product.  | Option 1:
+306,CONTENT,0,7 content marker(s),200,7,0,0,29,9,0.5709,0.4146,0.0058,True,350b50281c,1,False,False,17,,,Q. 17 | The correct sequential order of the reagents for the given reaction is  | Option 1
+307,CONTENT,0,8 content marker(s),431,8,0,0,33,3,0.5131,0.4146,0.0063,True,83c3f59aa5,1,False,False,18 19,,,Q. 18 | Vulcanization of rubber is carried out by heating a mixture of  | Option 1:
+308,CONTENT,0,10 content marker(s),852,10,0,0,36,3,0.4153,0.4146,0.0061,True,5f2d05a427,1,False,False,20,,,Option 1: | amylose. | Option 2:
+309,CONTENT,0,6 content marker(s),682,6,0,0,26,13,0.4779,0.4146,0.0064,True,4378aaff31,1,False,False,21,,,Option 4: | A is false but R is true. | Correct Answer:
+310,CONTENT,0,3 content marker(s),487,3,0,0,22,11,0.4605,0.4146,0.0052,True,a356d8975a,1,False,False,22,,,Q. 22 | Consider an imaginary ion  |  The nucleus contains 
+311,CONTENT,0,4 content marker(s),420,4,0,0,26,24,0.4897,0.4146,0.0052,True,19b113fa5e,1,False,False,23 24,,,Q. 23 | For the reaction | The enthalpy change for the above reaction is 
+312,CONTENT,0,5 content marker(s),348,5,0,0,25,18,0.4612,0.4146,0.0052,True,e9cc189e22,1,False,False,25,,,Correct Answer: | 1 | Solution:
+313,CONTENT,0,3 content marker(s),189,3,0,0,22,17,0.5407,0.4146,0.0052,True,a4cc46d936,1,False,False,26,,,Q. 26 | The number of non-ionisable protons present in the product  |  obtained from the
+314,CONTENT,0,4 content marker(s),529,4,0,0,26,12,0.5209,0.4146,0.0052,True,e6a3b8ad00,1,False,False,27 28,,,Q. 27 | The spin-only magnetic moment value of the compound with strongest oxidizing | abi
+315,CONTENT,0,5 content marker(s),425,5,0,0,25,13,0.5347,0.4146,0.0052,True,4f476a1970,1,False,False,29,,,Correct Answer: | 12 | Solution:
+316,CONTENT,0,10 content marker(s),383,10,0,0,36,12,0.4345,0.4146,0.0058,True,d2351b06d4,1,False,False,30 1,Mathematics,,Q. 30 | How many of the following drugs is/are example(s) of broad spectrum antibiotics ? 
+317,CONTENT,0,7 content marker(s),229,7,0,0,29,22,0.4732,0.4146,0.0057,True,75e739838b,1,False,False,2,,,Q. 2 | If   |  then
+318,CONTENT,0,7 content marker(s),179,7,0,0,29,13,0.5627,0.4146,0.0058,True,7b90a6f649,1,False,False,3,,,Q. 3 | Let  |  then the value of 
+319,CONTENT,0,7 content marker(s),113,7,0,0,29,15,0.5093,0.4146,0.0058,True,63c54552d4,1,False,False,4,,,Q. 4 |  is equal to | Option 1:
+320,CONTENT,0,7 content marker(s),251,7,0,0,29,16,0.4529,0.4146,0.0057,True,aa1e77a351,1,False,False,5,,,Q. 5 | Let  |  and 
+321,CONTENT,0,no markers but no ad evidence -> solution continuation,125,0,0,0,15,20,0.5804,0.4146,0.0052,True,f0aec3148e,1,False,False,,,,"For maximum distance, normal at  |   should also be normal at  |  normal at "
+322,CONTENT,0,9 content marker(s),258,9,0,0,37,17,0.4578,0.4146,0.0058,True,0245b9164e,1,False,False,6 7,,,Q. 6 |  If the maximum value of  |  for which the function 
+323,CONTENT,0,7 content marker(s),142,7,0,0,29,15,0.491,0.4146,0.0058,True,13851b7569,1,False,False,8,,,Option 3: | Option 4: | Correct Answer:
+324,CONTENT,0,4 content marker(s),75,4,0,0,21,15,0.5091,0.4146,0.0057,True,f95f665bd3,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+325,CONTENT,0,7 content marker(s),136,7,0,0,29,18,0.4946,0.4146,0.0058,True,b8435f108c,1,False,False,9,,,Q. 9 |  is equal to | Option 1:
+326,CONTENT,0,7 content marker(s),244,7,0,0,29,14,0.4703,0.4146,0.0058,True,4e6eb5dcd6,1,False,False,10,,,Q. 10 |  Let the solution curve  |   of the differential equation 
+327,CONTENT,0,no markers but no ad evidence -> solution continuation,84,0,0,0,15,18,0.5317,0.4146,0.0052,True,449a5bd01b,1,False,False,,,,Solution is |  It passes through origin | ( Using odd and even function properties )
+328,CONTENT,0,7 content marker(s),218,7,0,0,29,14,0.4766,0.4146,0.0058,True,4c59507407,1,False,False,11,,,Q. 11 | The acute angle between the pair of tangents drawn to the ellipse  |  from the poi
+329,CONTENT,0,4 content marker(s),168,4,0,0,25,19,0.5019,0.4146,0.0052,True,462f9f70bd,1,False,False,12,,,Q. 12 | The equation of a common tangent to the parabolas  |  and 
+330,CONTENT,0,5 content marker(s),375,5,0,0,25,23,0.4672,0.4146,0.0058,True,cacfc2cf1d,1,False,False,13,,,Option 4: | Correct Answer: | Solution:
+331,CONTENT,0,12 content marker(s),292,12,0,0,37,17,0.4446,0.4146,0.0064,True,f149685a7c,1,False,False,14,,,Option 2: | Option 3: | Option 4:
+332,CONTENT,0,3 content marker(s),261,3,0,0,23,20,0.4774,0.4146,0.0052,True,7c54487fef,1,False,False,15,,,Q. 15 | A vector  |  is parallel to the line of intersection of the plane determined by th
+333,CONTENT,0,4 content marker(s),75,4,0,0,21,18,0.4846,0.4146,0.0058,True,33d233e089,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+334,CONTENT,0,7 content marker(s),107,7,0,0,29,19,0.524,0.4146,0.0058,True,bb5946b445,1,False,False,16,,,Q. 16 | If  |  and 
+335,CONTENT,0,7 content marker(s),143,7,0,0,29,20,0.4731,0.4146,0.0058,True,b97f33c2c0,1,False,False,17,,,Q. 17 | Negation of the Boolean expression  |   is 
+336,CONTENT,0,7 content marker(s),199,7,0,0,29,18,0.4486,0.4146,0.0058,True,aca34d61a1,1,False,False,18,,,Q. 18 | Let  |   be a binomially distributed random variable with mean 4 and variance  . T
+337,CONTENT,0,7 content marker(s),128,7,0,0,29,12,0.5505,0.4146,0.0058,True,1f4672f8e6,1,False,False,19,,,Q. 19 | The integral  |  is equal to
+338,CONTENT,0,5 content marker(s),121,5,0,0,27,16,0.5483,0.4146,0.0052,True,34438c277a,1,False,False,20,,,Q. 20 |  The area bounded by the curves  |   and 
+339,CONTENT,0,5 content marker(s),208,5,0,0,24,16,0.5651,0.4146,0.0058,True,50f98d7da7,1,False,False,21,,,Correct Answer: | Solution: | Q. 21
+340,CONTENT,0,3 content marker(s),241,3,0,0,22,21,0.5245,0.4146,0.0052,True,f1d74cd766,1,False,False,22,,,"Q. 22 |  The largest value of a, for which the perpendicular distance of the plane contain"
+341,CONTENT,0,5 content marker(s),488,5,0,0,31,22,0.4523,0.4146,0.0052,True,1e4bec0af0,1,False,False,23 24,,,Q. 23 | Numbers are to be formed between  |  and 
+342,CONTENT,0,4 content marker(s),195,4,0,0,22,21,0.5235,0.4146,0.0052,True,a042462537,1,False,False,25,,,Solution: | Q. 25 | If the sum of solutions of the system of equations 
+343,CONTENT,0,3 content marker(s),358,3,0,0,22,24,0.5011,0.4146,0.0052,True,88ea1caa03,1,False,False,26,,,Q. 26 | The mean and standard deviation of  |  observations are 
+344,CONTENT,0,3 content marker(s),273,3,0,0,22,23,0.5122,0.4146,0.0052,True,781fdcea5b,1,False,False,27,,,Q. 27 | The plane passing through the line  |  and perpendicular to the plane 
+345,CONTENT,0,2 content marker(s),137,2,0,0,22,16,0.5484,0.4146,0.0052,True,7f6cf6e101,1,False,False,28,,,Q. 28 | Let  | . If
+346,CONTENT,0,1 content marker(s),41,1,0,0,15,20,0.5052,0.4146,0.0052,True,e465a5cf51,1,False,False,,,,Solution: |             ............(i) | 346
+347,CONTENT,0,5 content marker(s),363,5,0,0,29,23,0.4669,0.4146,0.0052,True,642197b013,1,False,False,29 30,,,Q. 29 | Different  |  are constructed with the first term 
+348,CONTENT,0,1 content marker(s),177,1,0,0,15,24,0.4802,0.4146,0.0052,True,d7d99a3a0c,1,False,False,,,,"Solution: | From first two equations, | Case I : "
+349,CONTENT,0,7 content marker(s),319,7,0,0,34,12,0.4472,0.4146,0.0086,True,51ce34649b,1,False,False,1,Physics,27 July - Morning Shift,"Physics | Q. 1 | A torque meter is calibrated to reference standards of mass, length and t"
+350,CONTENT,0,5 content marker(s),306,5,0,0,27,10,0.5572,0.4146,0.0052,True,0d6257e2d8,1,False,False,2,,,Q. 2 | A bullet is shot vertically downwards with an initial velocity of  |  from a certai
+351,CONTENT,0,9 content marker(s),503,9,0,0,31,16,0.4536,0.4146,0.0064,True,e292620fa1,1,False,False,3,,,Correct Answer: | Solution: | Q. 3
+352,CONTENT,0,7 content marker(s),531,7,0,0,29,18,0.4629,0.4146,0.0058,True,89451f074c,1,False,False,4,,,Q. 4 | A bag is gently dropped on a conveyor belt moving at a speed of   |  The
+353,CONTENT,0,7 content marker(s),585,7,0,0,29,20,0.481,0.4146,0.0058,True,b2bba81e91,1,False,False,5,,,Q. 5 | Two cylindrical vessels of equal cross-sectional area  |  contain water upto
+354,CONTENT,0,7 content marker(s),279,7,0,0,29,21,0.4856,0.4146,0.0058,True,d1491694f2,1,False,False,6,,,Q. 6 | Two satellites  |  having masses in the ratio 
+355,CONTENT,0,6 content marker(s),457,6,0,0,29,20,0.4813,0.4146,0.0058,True,9723c4aefd,1,False,False,7,,,Q. 7 | If  |  and 
+356,CONTENT,0,11 content marker(s),753,11,0,0,29,23,0.4482,0.4146,0.0058,True,42ca263228,1,False,False,8,,,Solution: | Q. 8 | Read the following statements :
+357,CONTENT,0,1 content marker(s),357,1,0,0,15,17,0.471,0.4146,0.0052,True,b49e4779e4,1,False,False,,,,"Solution: | (i) If temperature difference is doubled, the rate of loss of heat of the liqu"
+358,CONTENT,0,10 content marker(s),617,10,0,0,29,17,0.4474,0.4146,0.0058,True,81a95637c9,1,False,False,9,,,Q. 9 | Same gas is filled in two vessels of the same volume at the same temperature. If th
+359,CONTENT,0,7 content marker(s),442,7,0,0,29,18,0.4894,0.4146,0.0058,True,3a833b1ee2,1,False,False,10,,,Q. 10 | Two identical positive charges  |  each are fixed at a distance of 
+360,CONTENT,0,2 content marker(s),319,2,0,0,21,19,0.4999,0.4146,0.0052,True,f395ddc1cb,1,False,False,11,,,Q. 11 | Two sources of equal emfs are connected in series. This combination is connected t
+361,CONTENT,0,6 content marker(s),335,6,0,0,27,17,0.4837,0.4146,0.0058,True,6d97725b2e,1,False,False,12,,,Option 2: | Option 3: | Option 4:
+362,CONTENT,0,6 content marker(s),96,6,0,0,25,15,0.4636,0.4146,0.0058,True,12dbc15297,1,False,False,,,,Option 1: | Option 2: | Option 3:
+363,CONTENT,0,7 content marker(s),293,7,0,0,29,16,0.4749,0.4146,0.0058,True,21f5a005e0,1,False,False,13,,,Q. 13 | A magnet hung at  |  with magnetic meridian makes an angle of 
+364,CONTENT,0,8 content marker(s),577,8,0,0,33,24,0.4591,0.4146,0.0058,True,16a1247428,1,False,False,14 15,,,Q. 14 | A direct current of  |  and an alternating current of peak value 
+365,CONTENT,0,7 content marker(s),352,7,0,0,29,14,0.4834,0.4146,0.0058,True,706e4cf1ca,1,False,False,16,,,Option 1: | Option 2: | Option 3:
+366,CONTENT,0,6 content marker(s),460,6,0,0,25,11,0.4468,0.4146,0.0077,True,f1e937652c,1,False,False,,,,Option 1: | Resolving power will be   in the oil than it was in the air.  | Option 2:
+367,CONTENT,0,7 content marker(s),283,7,0,0,29,18,0.4801,0.4146,0.0058,True,9355fa4566,1,False,False,17,,,Q. 17 |  An electron (mass m) with an initial velocity  |   is moving in
+368,CONTENT,0,7 content marker(s),256,7,0,0,29,14,0.4498,0.4146,0.0058,True,8d93271f95,1,False,False,18,,,Q. 18 | What is the half-life period of a radioactive material if its activity drops to  |
+369,CONTENT,0,7 content marker(s),340,7,0,0,29,14,0.449,0.4146,0.0058,True,890d26e31d,1,False,False,19,,,Q. 19 | A logic gate circuit has two inputs  |  and 
+370,CONTENT,0,7 content marker(s),288,7,0,0,29,16,0.4511,0.4146,0.0057,True,72503e812f,1,False,False,20,,,"Q. 20 | At a particular station, the TV transmission tower has a height of  |  To triple i"
+371,CONTENT,0,4 content marker(s),880,4,0,0,26,22,0.4794,0.4146,0.0052,True,373561a8cb,1,False,False,21 22,,,"Q. 21 | In a meter bridge experiment, for measuring unknown resistance  |  the null point "
+372,CONTENT,0,3 content marker(s),344,3,0,0,22,21,0.472,0.4146,0.0052,True,ff9d14d103,1,False,False,23,,,Correct Answer: | 412 | Solution:
+373,CONTENT,0,5 content marker(s),243,5,0,0,25,20,0.4685,0.4146,0.0052,True,b9c73ba186,1,False,False,24,,,Correct Answer: | 2 | Solution:
+374,CONTENT,0,3 content marker(s),228,3,0,0,22,22,0.4928,0.4146,0.0052,True,2868f45786,1,False,False,25,,,Q. 25 | A  |  long copper wire carries a current of 
+375,CONTENT,0,3 content marker(s),267,3,0,0,22,13,0.4752,0.4146,0.0052,True,20875c1ac8,1,False,False,26,,,Q. 26 | A long cylindrical volume contains a uniformly distributed charge of density  | .
+376,CONTENT,0,3 content marker(s),350,3,0,0,22,16,0.4843,0.4146,0.0052,True,39d33ff7ac,1,False,False,27,,,"Q. 27 | A mass 0.9 kg, attached to a horizontal spring, executes SHM with an amplitude  | "
+377,CONTENT,0,3 content marker(s),239,3,0,0,22,16,0.484,0.4146,0.0052,True,94ffc39e68,1,False,False,28,,,Q. 28 | A square aluminum  |  slab of side 
+378,CONTENT,0,3 content marker(s),395,3,0,0,22,22,0.482,0.4146,0.0052,True,82c68da436,1,False,False,29,,,Q. 29 | A pulley of radius  |  is rotated about its axis by a force 
+379,CONTENT,0,3 content marker(s),432,3,0,0,22,16,0.439,0.4146,0.0052,True,ce9d051590,1,False,False,30,,,Q. 30 | A ball of mass  |  is thrown vertically upward. Another ball of mass 
+380,CONTENT,0,7 content marker(s),324,7,0,0,29,21,0.4946,0.4146,0.0057,True,c2e9702edc,1,False,False,1,Chemistry,,Chemistry | Q. 1 |  solution of 
+381,CONTENT,0,7 content marker(s),856,7,0,0,29,9,0.4509,0.4146,0.007,True,547c9f5b00,1,False,False,2,,,Q. 2 | Given below are two statements. | Statement I: 
+382,CONTENT,0,7 content marker(s),1017,7,0,0,29,23,0.4227,0.4146,0.0071,True,e37b5261c5,1,False,False,3,,,Q. 3 | Given below are two statements. One is labelled as Assertion A and the other is | l
+383,CONTENT,0,8 content marker(s),1177,8,0,0,33,25,0.4234,0.4146,0.0065,True,30c4cf2846,1,False,False,4 5,,,Q. 4 | Given below are two statements. One is labelled as Assertion  |  and the other is
+384,CONTENT,0,6 content marker(s),489,6,0,0,25,26,0.4498,0.4146,0.0058,True,8d2513be1f,1,False,False,,,,Option 1: | Option 2: | Option 3:
+385,CONTENT,0,7 content marker(s),837,7,0,0,29,18,0.4253,0.4146,0.0084,True,fa4b6b21b0,1,False,False,6,,,Q. 6 | The incorrect statement is | Option 1:
+386,CONTENT,0,11 content marker(s),552,11,0,0,29,2,0.4149,0.4146,0.0061,True,6c49c61e65,3,False,False,7,,,Q. 7 | Which of the following methods are not used to refine any metal? | A. Liquation
+387,CONTENT,0,7 content marker(s),729,7,0,0,29,6,0.4175,0.4146,0.007,True,31d749b06e,1,False,False,8,,,Q. 8 | Given below are two statements. | Statement I: Hydrogen peroxide can act as an oxid
+388,CONTENT,0,8 content marker(s),918,8,0,0,33,8,0.4185,0.4146,0.007,True,d68a4b7d5a,1,False,False,9 10,,,Q. 9 | Given below are two statements. | Statement I: The chlorides of 
+389,CONTENT,0,7 content marker(s),576,7,0,0,29,10,0.454,0.4146,0.0064,True,d7bed9dad2,1,False,False,11,,,Option 1: | Pyrophosphorus acid | Option 2:
+390,CONTENT,0,10 content marker(s),652,10,0,0,35,11,0.4251,0.4146,0.007,True,7ffd7f3073,1,False,False,12,,,Option 1: | Both Statement I and Statement II are true. | Option 2:
+391,CONTENT,0,7 content marker(s),292,7,0,0,66,13,0.4802,0.4146,0.0058,True,b56d957f8a,1,False,False,13,,,Option 4: | Correct Answer: | Solution:
+392,CONTENT,0,6 content marker(s),641,6,0,0,27,16,0.4823,0.4146,0.0061,True,6dbbd860d2,1,False,False,14,,,"Option 4: | A-II, B-IV, C-III, D-I | Correct Answer:"
+393,CONTENT,0,6 content marker(s),274,6,0,0,27,11,0.5052,0.4146,0.0064,True,48acfce146,1,False,False,15,,,Option 3: |  is correct but  |  is not correct.
+394,CONTENT,0,5 content marker(s),82,5,0,0,23,7,0.5422,0.4146,0.0057,True,b3e27857cf,1,False,False,,,,Option 2: | Option 3: | Option 4:
+395,CONTENT,0,9 content marker(s),493,9,0,0,64,2,0.4149,0.4146,0.0052,True,821eace0cc,2,False,False,16,,,Q. 16 | Match List I with List II. | List I
+396,CONTENT,0,13 content marker(s),610,13,0,0,31,8,0.4164,0.4146,0.007,True,065ee07d19,1,False,False,17,,,"Correct Answer: | A-II, B-III, C-I, D-IV | Solution:"
+397,CONTENT,0,no markers but no ad evidence -> solution continuation,180,0,0,0,15,3,0.4967,0.4146,0.0052,True,d9f909981a,1,False,False,,,,Aldoses dehydrate very slowly. under acidic condition to give furfural. which reacts with 
+398,CONTENT,0,7 content marker(s),284,7,0,0,60,6,0.4728,0.4146,0.0052,True,8aea862d2e,1,False,False,18,,,Q. 18 | Match List I with List II | List I
+399,CONTENT,0,14 content marker(s),557,14,0,0,35,15,0.43,0.4146,0.0067,True,23113bfbef,1,False,False,19,,,"Option 3: | A-III, B-IV, C-I, D-II | Option 4:"
+400,CONTENT,0,6 content marker(s),380,6,0,0,58,8,0.4729,0.4146,0.0052,True,8b15dc6371,1,False,False,20,,,Q. 20 | Match List I with List II | List I
+401,CONTENT,0,12 content marker(s),619,12,0,0,30,17,0.4599,0.4146,0.0061,True,7af661afe4,1,False,False,21,,,"Option 2: | B-IV, B-II, C-I, D-III | Option 3:"
+402,CONTENT,0,4 content marker(s),633,4,0,0,95,31,0.4518,0.4146,0.0052,True,6f30c048ac,1,False,False,22 23,,,Q. 22 | The above reaction has been studied at  | . The related data are given in the tabl
+403,CONTENT,0,6 content marker(s),529,6,0,0,29,18,0.4702,0.4146,0.0052,True,282666e8b8,1,False,False,24 25,,,Correct Answer: | 4 | Solution:
+404,CONTENT,0,5 content marker(s),301,5,0,0,25,22,0.5112,0.4146,0.0052,True,e929fb6c03,1,False,False,26,,,Correct Answer: | 3 | Solution:
+405,CONTENT,0,6 content marker(s),728,6,0,0,29,15,0.4563,0.4146,0.0052,True,c1510a17ca,1,False,False,27 28,,,Q. 27 | The conductivity of a solution of complex with formula  |  corresponds
+406,CONTENT,0,6 content marker(s),462,6,0,0,29,11,0.4828,0.4146,0.0052,True,31f33bed4c,1,False,False,29 30,,,Q. 29 | Optical activity of an enantiomeric mixture is  |  and the specific rotation of
+407,CONTENT,0,7 content marker(s),383,7,0,0,29,28,0.4772,0.4146,0.0067,True,58b10c0e52,1,False,False,1,Mathematics,,Maths | Q. 1 | Let 
+408,CONTENT,0,7 content marker(s),375,7,0,0,29,23,0.4756,0.4146,0.0064,True,176faff9f8,1,False,False,2,,,Q. 2 | Let  |  be functions defined by 
+409,CONTENT,0,7 content marker(s),180,7,0,0,29,17,0.4959,0.4146,0.0058,True,db1b6a8574,1,False,False,3,,,Q. 3 | Let the minimum value  |  is attained at 
+410,CONTENT,0,7 content marker(s),232,7,0,0,29,20,0.4608,0.4146,0.0058,True,90a4703e0e,1,False,False,4,,,Q. 4 | Let  | . Let 
+411,CONTENT,0,9 content marker(s),418,9,0,0,35,21,0.4553,0.4146,0.0058,True,43e54db68b,1,False,False,5 6,,,Q. 5 | The remainder when  |  is divided by   is
+412,CONTENT,0,8 content marker(s),241,8,0,0,31,20,0.4728,0.4146,0.0058,True,12152381f6,1,False,False,7,,,Option 2: | Option 3: | Option 4:
+413,CONTENT,0,7 content marker(s),119,7,0,0,29,14,0.5256,0.4146,0.0058,True,2335d0f05c,1,False,False,8,,,Option 3: | Option 4: | Correct Answer:
+414,CONTENT,0,4 content marker(s),75,4,0,0,21,19,0.5277,0.4146,0.0058,True,201baff04b,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+415,CONTENT,0,7 content marker(s),211,7,0,0,29,15,0.5308,0.4146,0.0058,True,7642a37865,1,False,False,9,,,Q. 9 | The area of the smaller region enclosed by the curves  |  and
+416,CONTENT,0,7 content marker(s),275,7,0,0,29,24,0.4771,0.4146,0.0058,True,6abfa0b649,1,False,False,10,,,Q. 10 | Let  |  and 
+417,CONTENT,0,7 content marker(s),462,7,0,0,29,31,0.4795,0.4146,0.0058,True,002f1ebb6e,1,False,False,11,,,Q. 11 | Let  |  be a point on the parabola 
+418,CONTENT,0,7 content marker(s),187,7,0,0,29,21,0.4876,0.4146,0.0058,True,ac19b7001a,1,False,False,12,,,Q. 12 | Let  |   and 
+419,CONTENT,0,7 content marker(s),140,7,0,0,29,19,0.5176,0.4146,0.0058,True,d3332e7a87,1,False,False,13,,,Q. 13 | Let  |  and 
+420,CONTENT,0,7 content marker(s),323,7,0,0,29,21,0.4962,0.4146,0.0058,True,379b89c80d,1,False,False,14,,,Q. 14 | Let  be the sample space of all five digit numbers. It  |  is the probability that
+421,CONTENT,0,7 content marker(s),551,7,0,0,29,26,0.4547,0.4146,0.0058,True,1bc8d300d6,1,False,False,15,,,Q. 15 | Let a vertical tower  |  of height 
+422,CONTENT,0,6 content marker(s),120,6,0,0,29,17,0.5108,0.4146,0.0057,True,1a489e970f,1,False,False,16,,,Q. 16 |  is equivalent to  |  when  is
+423,CONTENT,0,8 content marker(s),412,8,0,0,111,27,0.4506,0.4146,0.0058,True,14d77378a2,1,False,False,17,,,Solution: | Q. 17 | If the plane 
+424,CONTENT,0,7 content marker(s),313,7,0,0,29,21,0.4671,0.4146,0.0058,True,1c3af437e3,1,False,False,18,,,Q. 18 | Let   |  be vertices of a triangle 
+425,CONTENT,0,2 content marker(s),176,2,0,0,21,16,0.5913,0.4146,0.0052,True,82ef4f4cc9,1,False,False,19,,,Q. 19 | If the circle  |  passes through the point
+426,CONTENT,0,6 content marker(s),271,6,0,0,27,19,0.4685,0.4146,0.0058,True,8222ee2e88,1,False,False,20,,,Option 2: | Option 3: | Option 4:
+427,CONTENT,0,6 content marker(s),88,6,0,0,25,14,0.5586,0.4146,0.0058,True,af4ff04e1a,1,False,False,,,,Option 1: | Option 2: | Option 3:
+428,CONTENT,0,3 content marker(s),359,3,0,0,22,14,0.5769,0.4146,0.0052,True,9edb9adf9e,1,False,False,21,,,Q. 21 | For  |  let the solutions of the equation
+429,CONTENT,0,3 content marker(s),241,3,0,0,22,9,0.5875,0.4146,0.0052,True,9249cb35c0,1,False,False,22,,,Q. 22 | The mean and variance of  |  observations were calculated as 
+430,CONTENT,0,1 content marker(s),127,1,0,0,19,10,0.6332,0.4146,0.0052,True,e4238f8588,1,False,False,23,,,Q. 23 | Let the line  |  intersect the plane containing the lines 
+431,CONTENT,0,5 content marker(s),687,5,0,0,25,29,0.5017,0.4146,0.0052,True,c64a6b78cb,1,False,False,24,,,Correct Answer: | 12 | Solution:
+432,CONTENT,0,3 content marker(s),159,3,0,0,22,9,0.6303,0.4146,0.0052,True,d95f00e000,1,False,False,25,,,Q. 25 | Let  |  be the solution curve of the differential equation 
+433,CONTENT,0,3 content marker(s),205,3,0,0,22,9,0.6909,0.4146,0.0052,True,634b802406,1,False,False,26,,,Q. 26 | Let  |  and  be the number of points on the curve 
+434,CONTENT,0,3 content marker(s),100,3,0,0,22,6,0.6743,0.4146,0.0052,True,6ae3338fce,1,False,False,27,,,Q. 27 | Let  |  and 
+435,CONTENT,0,3 content marker(s),209,3,0,0,22,11,0.6514,0.4146,0.0052,True,616b69652c,1,False,False,28,,,Q. 28 | Let  be the set containing all  |  matrices with entries from 
+436,CONTENT,0,6 content marker(s),239,6,0,0,29,10,0.5903,0.4146,0.0052,True,df1353ee6b,1,False,False,29 30,,,Q. 29 | If the length of the latus rectum of the ellipse  |  is 
+437,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,3,0.5959,0.4146,0.0052,True,cd67da0963,1,False,False,,,,437
+438,CONTENT,0,7 content marker(s),268,7,0,0,34,20,0.4687,0.4146,0.0084,True,f3b66e73c8,1,False,False,1,Physics,27 July - Evening Shift,Physics | Q. 1 | An expression of energy density is given by
+439,CONTENT,0,7 content marker(s),368,7,0,0,29,15,0.4634,0.4146,0.0058,True,4a22698c6f,1,False,False,2,,,Q. 2 | A body of mass  |  is projected at an angle of 
+440,CONTENT,0,no markers but no ad evidence -> solution continuation,67,0,0,0,15,21,0.5076,0.4146,0.0052,True,8825cdc6bd,1,False,False,,,,"Also we know that, |  Momentum vector  | Hence 1 is correct option."
+441,CONTENT,0,7 content marker(s),293,7,0,0,29,16,0.4937,0.4146,0.0058,True,58216b4ca6,1,False,False,3,,,Q. 3 | A block of mass  |  slides down on a rough inclined plane with constant velocity. T
+442,CONTENT,0,7 content marker(s),492,7,0,0,29,18,0.4666,0.4146,0.0058,True,d25c706265,1,False,False,4,,,Q. 4 | A block  |  takes 
+443,CONTENT,0,5 content marker(s),487,5,0,0,27,18,0.4571,0.4146,0.0052,True,38456362a1,1,False,False,5,,,Q. 5 | The velocity of the bullet becomes one third after it penetrates  |  in a wooden
+444,CONTENT,0,2 content marker(s),109,2,0,0,17,14,0.5043,0.4146,0.0058,True,55402732b8,1,False,False,,,,Correct Answer: | Solution: | * For constant retardation by the equations of motion
+445,CONTENT,0,7 content marker(s),448,7,0,0,29,15,0.4611,0.4146,0.0058,True,7a13d6b91d,1,False,False,6,,,Q. 6 | A body of mass  |  is projected with velocity 
+446,CONTENT,0,7 content marker(s),340,7,0,0,29,20,0.4752,0.4146,0.0058,True,d14cd66ca2,1,False,False,7,,,Q. 7 | A steel wire of length  | and a copper wire of length
+447,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,19,0.5232,0.4146,0.0052,True,838d31357f,1,False,False,,,,447
+448,CONTENT,0,7 content marker(s),456,7,0,0,29,15,0.4737,0.4146,0.0065,True,fb7fe92a2f,1,False,False,8,,,"Q. 8 | In  |  case, Carnot engine operates between temperatures "
+449,CONTENT,0,13 content marker(s),676,13,0,0,27,10,0.4382,0.4146,0.0052,True,50986e734c,1,False,False,9,,,Q. 9 | Which statements are correct about degrees of freedom? | (A) A molecule with  degre
+450,CONTENT,0,10 content marker(s),709,10,0,0,31,19,0.452,0.4146,0.0068,True,8a1f327387,1,False,False,10,,,Correct Answer: | (B) and (D) only | Solution:
+451,CONTENT,0,16 content marker(s),797,16,0,0,29,5,0.4296,0.4146,0.0062,True,c2d67b9569,1,False,False,11,,,Q. 11 | (A) The drift velocity of electrons decreases with the increase in the temperature
+452,CONTENT,0,7 content marker(s),445,7,0,0,29,17,0.4646,0.4146,0.0058,True,8b22cc0039,1,False,False,12,,,Q. 12 | A compass needle of oscillation magnetometer oscillates 20 times per minute at a |
+453,CONTENT,0,7 content marker(s),343,7,0,0,29,19,0.4651,0.4146,0.0057,True,1052e4bd4d,1,False,False,13,,,Q. 13 | A cyclotron is used to accelerate protons. If the operating magnetic field is  |  
+454,CONTENT,0,7 content marker(s),274,7,0,0,29,19,0.4649,0.4146,0.0058,True,9d8efd333f,1,False,False,14,,,Q. 14 | A series  |  circuit has 
+455,CONTENT,0,no markers but no ad evidence -> solution continuation,29,0,0,0,15,13,0.4879,0.4146,0.0052,True,e89fd57936,1,False,False,,,,Hence 1 is correct option | 455
+456,CONTENT,0,14 content marker(s),1135,14,0,0,29,5,0.4279,0.4146,0.0062,True,a8255cf740,1,False,False,15,,,Q. 15 | Identify the correct statements from the following descriptions of various propert
+457,CONTENT,0,7 content marker(s),429,7,0,0,29,15,0.4656,0.4146,0.0058,True,46e36af070,1,False,False,16,,,Q. 16 | Two coherent sources of light interfere. The intensity ratio of two sources is 1: 
+458,CONTENT,0,13 content marker(s),899,13,0,0,27,5,0.419,0.4146,0.0052,True,8b07f8db24,1,False,False,17,,,"Q. 17 | With reference to the observations in the photo-electric effect, identify the corr"
+459,CONTENT,0,10 content marker(s),422,10,0,0,31,10,0.4409,0.4146,0.007,True,b2152051e3,1,False,False,18,,,Correct Answer: | (A) and (E) only | Solution:
+460,CONTENT,0,7 content marker(s),411,7,0,0,29,19,0.4469,0.4146,0.0058,True,9f5658a161,1,False,False,19,,,"Q. 19 | For a constant collector-emitter voltage of  | , the collector current of a transi"
+461,CONTENT,0,7 content marker(s),248,7,0,0,29,14,0.4586,0.4146,0.0058,True,d4e13301d3,1,False,False,20,,,Q. 20 | A square wave of the modulating signal is shown in the figure. The carrier wave is
+462,CONTENT,0,3 content marker(s),439,3,0,0,22,15,0.5126,0.4146,0.0052,True,9ca837eab8,1,False,False,21,,,"Q. 21 | In an experiment to determine the Young's modulus, steel wires of five different |"
+463,CONTENT,0,3 content marker(s),379,3,0,0,22,11,0.47,0.4146,0.0052,True,56e124491d,1,False,False,22,,,"Q. 22 | In the given figure of meter bridge experiment, the balancing length  | correspond"
+464,CONTENT,0,3 content marker(s),372,3,0,0,22,25,0.4833,0.4146,0.0052,True,bf3d91385d,1,False,False,23,,,Q. 23 | A thin prism of angle  |  and refractive index for yellow light 
+465,CONTENT,0,3 content marker(s),249,3,0,0,22,16,0.4486,0.4146,0.0052,True,26c95d3115,1,False,False,24,,,Q. 24 | A conducting circular loop is placed in  |  plane in presence of magnetic field
+466,CONTENT,0,4 content marker(s),633,4,0,0,26,17,0.499,0.4146,0.0052,True,4437aac72b,1,False,False,25 26,,,"Q. 25 | As show in the figure, in steady state, the charge stored in the capacitor is_____"
+467,CONTENT,0,5 content marker(s),317,5,0,0,25,19,0.4866,0.4146,0.0052,True,28dead924e,1,False,False,27,,,Correct Answer: | 240 | Solution:
+468,CONTENT,0,3 content marker(s),325,3,0,0,22,15,0.4775,0.4146,0.0052,True,22d0d785ef,1,False,False,28,,,Q. 28 | A spherical soap bubble of radius  |  is formed inside another spherical soap
+469,CONTENT,0,3 content marker(s),303,3,0,0,22,14,0.4862,0.4146,0.0052,True,51d724b2d7,1,False,False,29,,,"Q. 29 | A solid cylinder length is suspended symmetrically through two massless strings, a"
+470,CONTENT,0,2 content marker(s),408,2,0,0,22,25,0.5046,0.4146,0.0052,True,493e067f1f,1,False,False,30,,,Q. 30 | Two inclined planes are placed as shown in figure. A block is projected from the P
+471,CONTENT,0,1 content marker(s),62,1,0,0,15,16,0.4804,0.4146,0.0052,True,49b59a5943,1,False,False,,,,"Solution: | For journey from A to B, | For journey from B to C"
+472,CONTENT,0,9 content marker(s),208,9,0,0,29,18,0.517,0.4146,0.0058,True,8bdeefdc61,1,False,False,1,Chemistry,,"Chemistry | Q. 1 | The correct decreasing order of energy for the orbitals having, followi"
+473,CONTENT,0,12 content marker(s),537,12,0,0,66,10,0.4604,0.4146,0.0066,True,146d19fdfc,1,False,False,2,,,Q. 2 | Match List - I with List - II. | List I
+474,CONTENT,0,6 content marker(s),163,6,0,0,29,12,0.5222,0.4146,0.0058,True,f6c4fbab7d,1,False,False,3,,,Q. 3 | The plot of  | -metric titration of weak base 
+475,CONTENT,0,8 content marker(s),726,8,0,0,29,8,0.4406,0.4146,0.0073,True,691d089f5f,1,False,False,4,,,Solution: | Q. 4 | Given below are two statements :
+476,CONTENT,0,5 content marker(s),1015,5,0,0,25,6,0.4688,0.4146,0.0052,True,3170c7c68f,1,False,False,5,,,Q. 5 | Given below are two statements : one is labelled as Assertion (A) and the other is 
+477,CONTENT,0,13 content marker(s),626,13,0,0,33,12,0.4388,0.4146,0.0074,True,e60bd7c18f,1,False,False,6,,,Option 4: | (A) is not correct but (R) is correct | Correct Answer:
+478,CONTENT,0,8 content marker(s),479,8,0,0,29,21,0.443,0.4146,0.0058,True,8f59981325,1,False,False,7,,,Solution: | Q. 7 | An element A of group 1 shows similarity to an element 
+479,CONTENT,0,10 content marker(s),863,10,0,0,33,11,0.4203,0.4146,0.0076,True,58ae261957,1,False,False,8 9,,,Q. 8 | Given below are two statements : one is labelled as Assertion (A) and the other is 
+480,CONTENT,0,11 content marker(s),510,11,0,0,37,13,0.4318,0.4146,0.0057,True,44e6c033c1,1,False,False,10,,,Option 1: | Option 2: | Option 3:
+481,CONTENT,0,9 content marker(s),970,9,0,0,31,6,0.4155,0.4146,0.0086,True,4ef10246e2,1,False,False,11,,,Correct Answer: | have good -accepting character | Solution:
+482,CONTENT,0,5 content marker(s),361,5,0,0,27,7,0.4883,0.4146,0.0052,True,d81414e86d,1,False,False,12,,,Q. 12 | The structure of A in the given reaction is : | Option 1:
+483,CONTENT,0,5 content marker(s),157,5,0,0,25,8,0.5809,0.4146,0.0058,True,f5a1e4898d,1,False,False,13,,,Correct Answer: | Solution: | Q. 13
+484,CONTENT,0,4 content marker(s),95,4,0,0,21,6,0.5909,0.4146,0.0058,True,56e37de1d0,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+485,CONTENT,0,9 content marker(s),284,9,0,0,66,11,0.5295,0.4146,0.0057,True,26744fdf51,1,False,False,14,,,Q. 14 | Match List -I with List -II. | List-I
+486,CONTENT,0,8 content marker(s),317,8,0,0,62,9,0.457,0.4146,0.0052,True,8095e9672a,1,False,False,15,,,Q. 15 | Match List - I with List - II. | List-I (Polymer)
+487,CONTENT,0,6 content marker(s),503,6,0,0,27,18,0.478,0.4146,0.0058,True,bfcadc1a4a,1,False,False,16,,,Option 4: | Correct Answer: | Solution:
+488,CONTENT,0,4 content marker(s),80,4,0,0,21,6,0.5086,0.4146,0.0058,True,7509011515,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+489,CONTENT,0,4 content marker(s),299,4,0,0,58,6,0.5876,0.4146,0.0052,True,4ab71ac9d2,1,False,False,17,,,Q. 17 | Match List - I with List - II. | List-I
+490,CONTENT,0,12 content marker(s),418,12,0,0,33,7,0.4526,0.4146,0.0066,True,90cfbdf8a9,1,False,False,18,,,"Option 2: | (A) - (IV), (B) - (III), (C) - (II), (D) - (I) | Option 3:"
+491,CONTENT,0,14 content marker(s),699,14,0,0,66,2,0.4149,0.4146,0.0063,True,821eace0cc,2,False,False,19,,,Option 4: | Trisodium phosphate | Correct Answer:
+492,CONTENT,0,12 content marker(s),358,12,0,0,33,14,0.4805,0.4146,0.007,True,1793e6f28f,1,False,False,20,,,"Option 4: | (A) - (III),(B) - (IV),(C) - (I),(D) - (II) | Correct Answer:"
+493,CONTENT,0,4 content marker(s),556,4,0,0,26,17,0.5083,0.4146,0.0052,True,9a807b32ca,1,False,False,21 22,,,Q. 21 | The normality of  |  in the solution obtained on mixing
+494,CONTENT,0,5 content marker(s),447,5,0,0,25,16,0.4977,0.4146,0.0052,True,d00b78a870,1,False,False,23,,,Correct Answer: | 25 | Solution:
+495,CONTENT,0,4 content marker(s),663,4,0,0,26,20,0.4785,0.4146,0.0052,True,283bae9165,1,False,False,24 25,,,Q. 24 | When a certain amount of solid  |  is dissolved in 
+496,CONTENT,0,5 content marker(s),370,5,0,0,25,17,0.4819,0.4146,0.0052,True,ebcf556cd7,1,False,False,26,,,Correct Answer: | 165 | Solution:
+497,CONTENT,0,6 content marker(s),351,6,0,0,29,8,0.5467,0.4146,0.0052,True,c9859f7c58,1,False,False,27 28,,,Q. 27 | The oxidation state of manganese in the product obtained in a reaction of potassiu
+498,CONTENT,0,1 content marker(s),188,1,0,0,19,9,0.763,0.4146,0.0052,True,438df034c5,1,False,False,29,,,Q. 29 | The spin only magnetic moment of the complex present in Fehling's reagent | is____
+499,CONTENT,0,5 content marker(s),408,5,0,0,25,20,0.5128,0.4146,0.0052,True,e06a7b97e6,1,False,False,30,,,Correct Answer: | 2 | Solution:
+500,CONTENT,0,7 content marker(s),157,7,0,0,29,9,0.4647,0.4146,0.0058,True,e7c6fd09aa,1,False,False,1,Mathematics,,Maths | Q. 1 | The domain of the function 
+501,CONTENT,0,1 content marker(s),134,1,0,0,19,10,0.6974,0.4146,0.0052,True,3cee511994,1,False,False,2,,,"Q. 2 | Let  be the set of all  | , for which the complex number"
+502,CONTENT,0,6 content marker(s),69,6,0,0,25,9,0.608,0.4146,0.0058,True,a764f86cda,1,False,False,,,,Option 1: | Option 2: | Option 3:
+503,CONTENT,0,8 content marker(s),198,8,0,0,35,15,0.5474,0.4146,0.0058,True,91817402ba,1,False,False,3 4,,,Q. 3 | If  |   are the roots of the equation
+504,CONTENT,0,9 content marker(s),146,9,0,0,33,13,0.5153,0.4146,0.0058,True,b0d2203797,1,False,False,5,,,Option 2: | Option 3: | Option 4:
+505,CONTENT,0,4 content marker(s),64,4,0,0,23,8,0.6158,0.4146,0.0058,True,7556c57be3,1,False,False,6,,,Option 4: | Correct Answer: | Solution:
+506,CONTENT,0,6 content marker(s),206,6,0,0,25,4,0.5509,0.4146,0.0063,True,2dda301374,1,False,False,,,,Option 1: | both (S ) and (S ) are correct | Option 2:
+507,CONTENT,0,7 content marker(s),328,7,0,0,29,12,0.5479,0.4146,0.0058,True,40d5b02bbc,1,False,False,7,,,"Q. 7 | Let the sum of an infinite G.P., whose first term is a and the common ratio is r, b"
+508,CONTENT,0,7 content marker(s),128,7,0,0,29,9,0.4712,0.4146,0.0058,True,3fd789e738,1,False,False,8,,,"Q. 8 | The area of the region enclosed by   |  , is equal to :"
+509,CONTENT,0,5 content marker(s),107,5,0,0,27,10,0.5735,0.4146,0.0052,True,f88bd07249,1,False,False,9,,,"Q. 9 | , where  |   is the greatest integer function, is"
+510,CONTENT,0,6 content marker(s),254,6,0,0,27,12,0.6955,0.4146,0.0058,True,47b12a8d5d,1,False,False,10,,,Correct Answer: | Solution: | Q. 10
+511,CONTENT,0,7 content marker(s),205,7,0,0,29,13,0.5341,0.4146,0.0058,True,6cad9e26aa,1,False,False,11,,,Option 4: | Correct Answer: | Solution:
+512,CONTENT,0,3 content marker(s),39,3,0,0,19,6,0.7908,0.4146,0.0058,True,04b8bdedb8,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+513,CONTENT,0,7 content marker(s),330,7,0,0,29,23,0.5121,0.4146,0.0058,True,00afe377d6,1,False,False,12,,,Q. 12 | A circle  |  passes through the origin 
+514,CONTENT,0,2 content marker(s),150,2,0,0,21,7,0.6231,0.4146,0.0052,True,ae26ab0c3e,1,False,False,13,,,"Q. 13 | If the length of the latus rectum of a parabola, whose focus is  |  and the tangen"
+515,CONTENT,0,10 content marker(s),254,10,0,0,35,17,0.5249,0.4146,0.0058,True,2f184c7d88,1,False,False,14,,,Option 2: | Option 3: | Option 4:
+516,CONTENT,0,2 content marker(s),29,2,0,0,17,5,0.7199,0.4146,0.0058,True,167f9d8e56,1,False,False,,,,Correct Answer: | Solution: | 516
+517,CONTENT,0,7 content marker(s),198,7,0,0,29,10,0.4429,0.4146,0.0058,True,6ecd39b66c,1,False,False,15,,,Q. 15 | If the line of intersection of the planes  | makes an angle 
+518,CONTENT,0,7 content marker(s),229,7,0,0,29,13,0.5811,0.4146,0.0058,True,7c07388df9,1,False,False,16,,,Q. 16 | Let  have a binomial distribution  |  such that the sum and the product of the
+519,CONTENT,0,4 content marker(s),239,4,0,0,25,10,0.6225,0.4146,0.0052,True,84854067a6,1,False,False,17,,,Q. 17 | A six faced die is biased such that | .
+520,CONTENT,0,5 content marker(s),329,5,0,0,25,17,0.5547,0.4146,0.0058,True,ff2ea3a2e4,1,False,False,18,,,Option 4: | Correct Answer: | Solution:
+521,CONTENT,0,5 content marker(s),59,5,0,0,23,8,0.5857,0.4146,0.0058,True,4f265f5268,1,False,False,,,,Option 2: | Option 3: | Option 4:
+522,CONTENT,0,2 content marker(s),33,2,0,0,21,5,0.6594,0.4146,0.0052,True,b2c70792c1,1,False,False,19,,,Q. 19 | Let  | .
+523,CONTENT,0,5 content marker(s),59,5,0,0,23,7,0.5005,0.4146,0.0058,True,314fa6818f,1,False,False,,,,Option 2: | Option 3: | Option 4:
+524,CONTENT,0,7 content marker(s),167,7,0,0,29,10,0.5151,0.4146,0.0057,True,cc82808231,1,False,False,20,,,"Q. 20 | If the truth value of the statement  | , then the"
+525,CONTENT,0,3 content marker(s),165,3,0,0,22,8,0.5978,0.4146,0.0052,True,7d6bd32140,1,False,False,21,,,"Q. 21 | Consider a matrix  | , where "
+526,CONTENT,0,3 content marker(s),139,3,0,0,22,10,0.768,0.4146,0.0052,True,54ad8f10a8,1,False,False,22,,,"Q. 22 | The number of functions , from the set  |  to the"
+527,CONTENT,0,6 content marker(s),321,6,0,0,29,14,0.5322,0.4146,0.0052,True,a4f4b52c66,1,False,False,23 24,,,Q. 23 | Let for the  |  term in the binomial expansion of 
+528,CONTENT,0,3 content marker(s),394,3,0,0,22,6,0.592,0.4146,0.0052,True,c93e327203,1,False,False,25,,,Q. 25 | A water tank has the shape of a right circular cone with axis vertical and vertex 
+529,CONTENT,0,3 content marker(s),98,3,0,0,22,6,0.6468,0.4146,0.0052,True,699cede26f,1,False,False,26,,,"Q. 26 | For the curve | , at the"
+530,CONTENT,0,3 content marker(s),112,3,0,0,22,11,0.6486,0.4146,0.0052,True,19a118b2f3,1,False,False,27,,,Q. 27 | Let  | where 
+531,CONTENT,0,3 content marker(s),149,3,0,0,22,9,0.6629,0.4146,0.0052,True,e89858b665,1,False,False,28,,,Q. 28 | Let  be a differentiable function satisfying | . If 
+532,CONTENT,0,3 content marker(s),140,3,0,0,22,6,0.5974,0.4146,0.0052,True,93eca5e18d,1,False,False,29,,,Q. 29 | A common tangent  |  to the curves 
+533,CONTENT,0,3 content marker(s),125,3,0,0,22,10,0.6327,0.4146,0.0052,True,f7e86a87a3,1,False,False,30,,,Q. 30 | Let  |  be three non-coplanar vectors such that 
+534,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,3,0.4784,0.4146,0.0052,True,0194bf83fc,1,False,False,,,,534
+535,CONTENT,0,10 content marker(s),494,10,0,0,42,16,0.4396,0.4146,0.0086,True,ed50e75adb,1,False,False,1 2,Physics,28 July - Morning Shift,Physics | Q. 1 | The dimensions of
+536,CONTENT,0,6 content marker(s),389,6,0,0,27,14,0.4695,0.4146,0.0057,True,e72d6eb35a,1,False,False,3,,,Option 3: | Option 4: | Correct Answer:
+537,CONTENT,0,12 content marker(s),813,12,0,0,37,13,0.4362,0.4146,0.0079,True,1ad97d80f4,1,False,False,4,,,Option 2: | Impulse will be same for both the cases but the average force will be differen
+538,CONTENT,0,7 content marker(s),318,7,0,0,29,9,0.4341,0.4146,0.006,True,8e3f60e5f9,1,False,False,5,,,Q. 5 | If the radius of earth shrinks by 2% while its mass remains same. The acceleration 
+539,CONTENT,0,8 content marker(s),503,8,0,0,33,17,0.4371,0.4146,0.0056,True,70d7bfa2e7,1,False,False,6 7,,,Q. 6 | The force required to stretch a wire of cross-section  |  to double its length will
+540,CONTENT,0,6 content marker(s),130,6,0,0,25,15,0.453,0.4146,0.0056,True,5845ce94d5,1,False,False,,,,Option 1: | Option 2: | Option 3:
+541,CONTENT,0,7 content marker(s),845,7,0,0,29,11,0.4339,0.4146,0.0067,True,3fbadfa259,1,False,False,8,,,Q. 8 | Given below are two statements : | Statement I : The average momentum of a molecule
+542,CONTENT,0,12 content marker(s),456,12,0,0,41,19,0.4462,0.4146,0.0057,True,d11f0557a4,1,False,False,9 10,,,Q. 9 | In the wave equation | the velocity of the wave will be:
+543,CONTENT,0,8 content marker(s),292,8,0,0,31,18,0.4422,0.4146,0.0061,True,1f366c86e9,1,False,False,11,,,Correct Answer: | Solution: | Q. 11
+544,CONTENT,0,17 content marker(s),627,17,0,0,29,8,0.4358,0.4146,0.006,True,f4ba008059,1,False,False,12,,,Solution: | Q. 12 | The current sensitivity of a galvanometer can be increased by :
+545,CONTENT,0,7 content marker(s),560,7,0,0,29,18,0.4578,0.4146,0.0057,True,682cc67181,1,False,False,13,,,"Q. 13 | As shown in the figure, a metallic rod of linear density  |  is lying horizontally"
+546,CONTENT,0,7 content marker(s),249,7,0,0,29,20,0.4576,0.4146,0.0057,True,ffe81e69b9,1,False,False,14,,,Q. 14 | The equation of current in a purely inductive circuit is  | . If the inductance is
+547,CONTENT,0,7 content marker(s),299,7,0,0,29,16,0.4677,0.4146,0.0057,True,ed0cd7fd08,1,False,False,15,,,"Q. 15 | As shown in the figure, after passing through the medium 1 . The speed of light  |"
+548,CONTENT,0,7 content marker(s),431,7,0,0,29,16,0.4307,0.4146,0.0057,True,98d084d1c5,1,False,False,16,,,"Q. 16 | In normal adujstment, for a refracting telescope, the distance between objective a"
+549,CONTENT,0,8 content marker(s),506,8,0,0,33,18,0.4332,0.4146,0.0057,True,3dd0747daa,1,False,False,17 18,,,Q. 17 | The equation  |  can be used to find the de-Brogli wavelength of an electron. In t
+550,CONTENT,0,7 content marker(s),215,7,0,0,29,10,0.438,0.4146,0.0059,True,3f65188fca,1,False,False,19,,,Option 1: | 120 days | Option 2:
+551,CONTENT,0,7 content marker(s),225,7,0,0,29,9,0.4726,0.4146,0.0056,True,b88963024e,1,False,False,20,,,Option 1: | Option 2: | Option 3:
+552,CONTENT,0,9 content marker(s),422,9,0,0,32,17,0.4342,0.4146,0.0056,True,d13e3bb14c,1,False,False,21,,,Option 1: | Option 2: | Option 3:
+553,CONTENT,0,6 content marker(s),646,6,0,0,29,16,0.4511,0.4146,0.0052,True,582fb1503d,1,False,False,22 23,,,Q. 22 | A freshly prepared radioactive source of half life 2 hours 30 minutes emits radiat
+554,CONTENT,0,3 content marker(s),314,3,0,0,22,21,0.4668,0.4146,0.0052,True,c02209a29a,1,False,False,24,,,Q. 24 | The frequencies at which the current amplitude in an LCR series circuit becomes  |
+555,CONTENT,0,3 content marker(s),396,3,0,0,22,21,0.4615,0.4146,0.0052,True,7b3e167bdf,1,False,False,25,,,"Q. 25 | As shown in the figure, a potentiometer wire of resistance  |  and length "
+556,CONTENT,0,6 content marker(s),555,6,0,0,29,20,0.4493,0.4146,0.0052,True,866a322820,1,False,False,26 27,,,Q. 26 | Two electric dipoles of dipole moments  |  are placed in two
+557,CONTENT,0,3 content marker(s),389,3,0,0,22,20,0.4757,0.4146,0.0052,True,9c7e857e39,1,False,False,28,,,"Q. 28 | The diameter of an air bubble which was initially  | , rises steadily through a so"
+558,CONTENT,0,3 content marker(s),290,3,0,0,22,16,0.4596,0.4146,0.0052,True,eb37f36bb8,1,False,False,29,,,Q. 29 | A block of mass  |  (as shown in figure) moving with kinetic energy E compresses a
+559,CONTENT,0,3 content marker(s),231,3,0,0,22,17,0.4615,0.4146,0.0052,True,b2b818b705,1,False,False,30,,,Q. 30 | Four identical discs each of mass  |  and diameter 
+560,CONTENT,0,10 content marker(s),644,10,0,0,37,7,0.4198,0.4146,0.0071,True,f75f2dcc6a,1,False,False,1 2,Chemistry,,Chemistry | Q. 1 | Identify the incorrect statement from the following.
+561,CONTENT,0,7 content marker(s),359,7,0,0,66,14,0.4595,0.4146,0.0056,True,d98bacee2e,1,False,False,3,,,Option 3: | Option 4: | Correct Answer:
+562,CONTENT,0,5 content marker(s),371,5,0,0,62,19,0.4807,0.4146,0.0057,True,d3156ff64c,1,False,False,4,,,Option 3: | Option 4: | Correct Answer:
+563,CONTENT,0,18 content marker(s),823,18,0,0,33,12,0.4526,0.4146,0.0063,True,04d8a79101,1,False,False,5,,,Option 1: | (A) - (II) - (B) - (III) - (C) - (I) - (D) - (IV) | Option 2:
+564,CONTENT,0,14 content marker(s),495,14,0,0,35,10,0.4443,0.4146,0.0064,True,4670395eb4,1,False,False,6,,,Option 3: | (A) and (C) only | Option 4:
+565,CONTENT,0,12 content marker(s),552,12,0,0,41,11,0.4451,0.4146,0.0057,True,016df7ab89,1,False,False,7 8,,,Q. 7 | The metal salts formed during softening of hardwater using Clark's method are : | O
+566,CONTENT,0,9 content marker(s),512,9,0,0,68,18,0.4703,0.4146,0.0077,True,182d781e6c,1,False,False,9,,,Correct Answer: | Low solubility of LiF in water is due to its small hydration enthalpy. |
+567,CONTENT,0,8 content marker(s),835,8,0,0,33,15,0.4265,0.4146,0.0057,True,f84df5ce2e,1,False,False,10 11,,,Q. 10 | Which of the following has least tendency to liberate  |   from mineral acids?
+568,CONTENT,0,6 content marker(s),682,6,0,0,25,2,0.4149,0.4146,0.0066,True,6c49c61e65,3,False,False,,,,Option 1: | Both Statement I and Statement II are true | Option 2:
+569,CONTENT,0,7 content marker(s),276,7,0,0,66,11,0.4899,0.4146,0.0057,True,50f962a28b,1,False,False,12,,,Q. 12 | Match List-I with List-II | List-I
+570,CONTENT,0,2 content marker(s),313,2,0,0,21,8,0.5287,0.4146,0.0052,True,46e5bb1162,1,False,False,13,,,Q. 13 | Choose the correct option for the following reactions. | Option 1:
+571,CONTENT,0,8 content marker(s),512,8,0,0,31,13,0.5934,0.4146,0.007,True,aeb58c3b4a,1,False,False,14,,,Option 2: |  is Markovnikov product and   |  is anti-Markovnikov product.
+572,CONTENT,0,4 content marker(s),377,4,0,0,21,8,0.5169,0.4146,0.0056,True,02fab853de,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+573,CONTENT,0,5 content marker(s),124,5,0,0,27,7,0.5757,0.4146,0.0052,True,f1c26e011d,1,False,False,15,,,Q. 15 | Identify the major products A and B for the below given reaction sequence. | Optio
+574,CONTENT,0,4 content marker(s),171,4,0,0,23,7,0.5807,0.4146,0.0057,True,cc6f36a7aa,1,False,False,16,,,Correct Answer: | Solution: | Q. 16
+575,CONTENT,0,12 content marker(s),565,12,0,0,37,7,0.4963,0.4146,0.0073,True,05ad0aa759,1,False,False,17,,,Option 2: | Option 3: | Option 4:
+576,CONTENT,0,3 content marker(s),163,3,0,0,23,7,0.5605,0.4146,0.0052,True,9f5cc46800,1,False,False,18,,,"Q. 18 | For the below given cyclic hemiacetal  | , the correct pyranose structure is :"
+577,CONTENT,0,10 content marker(s),492,10,0,0,27,6,0.5179,0.4146,0.0057,True,3ea3fb70b2,1,False,False,19,,,Option 3: | Option 4: | Correct Answer:
+578,CONTENT,0,16 content marker(s),910,16,0,0,37,5,0.4159,0.4146,0.0068,True,2b429c1a5a,1,False,False,20,,,"Option 2: | (A), (C) only | Option 3:"
+579,CONTENT,0,6 content marker(s),944,6,0,0,29,21,0.4596,0.4146,0.0052,True,f55f35fc16,1,False,False,21 22,,,"Q. 21 | In the given reaction, | if one mole of each of X and Y with 0.05 mol of Z gives c"
+580,CONTENT,0,6 content marker(s),528,6,0,0,29,22,0.4927,0.4146,0.0052,True,f40483c479,1,False,False,23 24,,,Q. 23 | The number of paramagnetic species among the following is__________. | Correct Ans
+581,CONTENT,0,6 content marker(s),482,6,0,0,29,22,0.4748,0.4146,0.0052,True,807365d5fb,1,False,False,25 26,,,Q. 25 |  for butyric acid  |  is 
+582,CONTENT,0,8 content marker(s),753,8,0,0,33,18,0.4677,0.4146,0.0052,True,b402e9e2d4,1,False,False,27 28 29,,,Q. 27 | The number of interhalogens from the following having square pyramidal structure i
+583,CONTENT,0,5 content marker(s),717,5,0,0,25,20,0.5001,0.4146,0.0052,True,c8a2b9d04d,1,False,False,30,,,Correct Answer: | 3 | Solution:
+584,CONTENT,0,7 content marker(s),222,7,0,0,29,14,0.4404,0.4146,0.0056,True,526dac662d,1,False,False,1,Mathematics,,Maths | Q. 1 | Let the solution curve of the differential equation 
+585,CONTENT,0,7 content marker(s),186,7,0,0,29,9,0.5559,0.4146,0.0057,True,14e7b79ed2,1,False,False,2,,,"Q. 2 |  Considering only the principal values of the inverse trigonometric functions, the "
+586,CONTENT,0,7 content marker(s),205,7,0,0,29,16,0.516,0.4146,0.0057,True,599d44fbfa,1,False,False,3,,,Q. 3 | Let the vectors  |  be such that for 
+587,CONTENT,0,8 content marker(s),312,8,0,0,33,13,0.5202,0.4146,0.0056,True,978bc98694,1,False,False,4 5,,,"Q. 4 | Considering the principal values of the inverse trigonometric functions, the sum of"
+588,CONTENT,0,9 content marker(s),289,9,0,0,33,19,0.4952,0.4146,0.0057,True,15d0998e65,1,False,False,6,,,Option 1: | Option 2: | Option 3:
+589,CONTENT,0,11 content marker(s),358,11,0,0,35,21,0.5064,0.4146,0.0061,True,7959a22a33,1,False,False,7,,,Option 3: | Option 4: | Correct Answer:
+590,CONTENT,0,7 content marker(s),205,7,0,0,29,17,0.5795,0.4146,0.0057,True,0b1cc1a602,1,False,False,8,,,Q. 8 | For  |  consider a relation 
+591,CONTENT,0,7 content marker(s),427,7,0,0,29,14,0.5019,0.4146,0.0057,True,989926911d,1,False,False,9,,,Q. 9 | Out of  |  female and 
+592,CONTENT,0,8 content marker(s),370,8,0,0,33,17,0.5553,0.4146,0.0056,True,d71c8217c0,1,False,False,10 11,,,Q. 10 | If  |  be the solution curve of the differential equation 
+593,CONTENT,0,6 content marker(s),69,6,0,0,25,11,0.5066,0.4146,0.0056,True,c628cdfa0c,1,False,False,,,,Option 1: | Option 2: | Option 3:
+594,CONTENT,0,7 content marker(s),311,7,0,0,29,18,0.5581,0.4146,0.0057,True,eb1e474360,1,False,False,12,,,Q. 12 | Let  |  be the centre of the circle 
+595,CONTENT,0,4 content marker(s),80,4,0,0,25,9,0.5472,0.4146,0.0052,True,4791d47a1c,1,False,False,13,,,Q. 13 | The remainder when  |  is divided by   is:
+596,CONTENT,0,10 content marker(s),180,10,0,0,33,16,0.4924,0.4146,0.0061,True,ee4056bb8e,1,False,False,14,,,Option 4: | Correct Answer: | Solution:
+597,CONTENT,0,7 content marker(s),130,7,0,0,29,15,0.5114,0.4146,0.0057,True,5b404dd059,1,False,False,15,,,Q. 15 | Let  |  and 
+598,CONTENT,0,5 content marker(s),166,5,0,0,27,12,0.6421,0.4146,0.0052,True,29c8769190,1,False,False,16,,,Q. 16 | The foot of the perpendicular from a point on the circle  |  to the plane
+599,CONTENT,0,9 content marker(s),171,9,0,0,31,13,0.5893,0.4146,0.0061,True,50080a82a2,1,False,False,17,,,Correct Answer: | Solution: | Q. 17
+600,CONTENT,0,8 content marker(s),348,8,0,0,33,24,0.5687,0.4146,0.0056,True,d073dbe14a,1,False,False,18 19,,,Q. 18 | Let  |  and   be three positive real numbers. Let 
+601,CONTENT,0,9 content marker(s),157,9,0,0,33,11,0.5296,0.4146,0.0056,True,ec03dd02b9,1,False,False,20,,,Option 1: | Option 2: | Option 3:
+602,CONTENT,0,9 content marker(s),587,9,0,0,35,22,0.5517,0.4146,0.0057,True,21a26437fc,1,False,False,21 22,,,Option 3: | Option 4: | Correct Answer:
+603,CONTENT,0,3 content marker(s),271,3,0,0,22,14,0.602,0.4146,0.0052,True,b8ee026ce1,1,False,False,23,,,Q. 23 | Let  |  be a twice differentiable function in 
+604,CONTENT,0,6 content marker(s),270,6,0,0,29,16,0.6106,0.4146,0.0052,True,01764147e3,1,False,False,24 25,,,"Q. 24 | If  | , where  "
+605,CONTENT,0,3 content marker(s),246,3,0,0,22,14,0.7029,0.4146,0.0052,True,9b61f70ea2,1,False,False,26,,,Q. 26 | For  |  consider the real valued function 
+606,CONTENT,0,6 content marker(s),478,6,0,0,29,20,0.5525,0.4146,0.0052,True,f53d2434aa,1,False,False,27 28,,,Q. 27 | For the hyperbola  |  and the ellipse 
+607,CONTENT,0,3 content marker(s),66,3,0,0,22,11,0.723,0.4146,0.0052,True,49a381dfaf,1,False,False,29,,,Q. 29 |  is equal to ______________. | Correct Answer: 1
+608,CONTENT,0,7 content marker(s),198,7,0,0,29,6,0.5473,0.4146,0.0062,True,ead43c6fd8,1,False,False,30,,,Q. 30 | The sum of all real values of   for which  |  is equal to ___________.
+609,CONTENT,0,7 content marker(s),508,7,0,0,34,21,0.4571,0.4146,0.0096,True,504b15f24d,1,False,False,1,Physics,28 July - Evening Shift,Physics | Q. 1 | Consider the efficiency of carnot's engine is given by
+610,CONTENT,0,5 content marker(s),347,5,0,0,27,19,0.4375,0.4146,0.0052,True,c7585414c4,1,False,False,2,,,Q. 2 | At time  |  a particle starts travelling from a height 
+611,CONTENT,0,6 content marker(s),376,6,0,0,27,16,0.4531,0.4146,0.0058,True,0b3779e4c1,1,False,False,3,,,Correct Answer: | Solution: | Q. 3
+612,CONTENT,0,3 content marker(s),91,3,0,0,19,14,0.4505,0.4146,0.0058,True,fe8b47754c,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+613,CONTENT,0,7 content marker(s),415,7,0,0,29,15,0.5362,0.4146,0.0057,True,781a244984,1,False,False,4,,,Q. 4 | A uniform metal chain of mass  |  and length 
+614,CONTENT,0,no markers but no ad evidence -> solution continuation,91,0,0,0,15,17,0.5839,0.4146,0.0052,True,be3e542477,1,False,False,,,,Let the mass of complete chain be  | and mass of chain of length  |  and 
+615,CONTENT,0,7 content marker(s),420,7,0,0,29,18,0.4555,0.4146,0.0058,True,a3fcdd3c95,1,False,False,5,,,Q. 5 | A bullet of mass  |  having initial kinetic energy 
+616,CONTENT,0,3 content marker(s),379,3,0,0,23,19,0.4592,0.4146,0.0052,True,3842349699,1,False,False,6,,,Q. 6 | Assume there are two identical simple pendulum clocks. Clock -1 is placed on the | 
+617,CONTENT,0,4 content marker(s),75,4,0,0,21,12,0.474,0.4146,0.0057,True,94c0caa781,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+618,CONTENT,0,7 content marker(s),495,7,0,0,29,19,0.4577,0.4146,0.0058,True,b8b9e42829,1,False,False,7,,,Q. 7 | Consider a cylindrical tank of radius  |  is filled with water. The top surface of 
+619,CONTENT,0,2 content marker(s),274,2,0,0,21,14,0.4936,0.4146,0.0052,True,1da255df91,1,False,False,8,,,Q. 8 | A vessel contains  |  of nitrogen gas at a temperature of 
+620,CONTENT,0,5 content marker(s),145,5,0,0,23,16,0.4604,0.4146,0.0058,True,4259967a96,1,False,False,,,,Option 2: | Option 3: | Option 4:
+621,CONTENT,0,7 content marker(s),399,7,0,0,29,16,0.4672,0.4146,0.0058,True,8421830b75,1,False,False,9,,,Q. 9 | A slab of dielectric constant  |  has the same cross-sectional area as the plates o
+622,CONTENT,0,7 content marker(s),438,7,0,0,29,18,0.4726,0.4146,0.0058,True,c87abfd3c1,1,False,False,10,,,Q. 10 | A uniform electric field  |  is created between two parallel plates of
+623,CONTENT,0,4 content marker(s),694,4,0,0,25,11,0.4374,0.4146,0.0052,True,a87c950256,1,False,False,11,,,Q. 11 | Given below are two statements: | Statement I : A uniform wire of resistance 
+624,CONTENT,0,3 content marker(s),304,3,0,0,19,12,0.4632,0.4146,0.007,True,d962b55624,1,False,False,,,,Option 4: | Statement I is incorrect but statement II is correct | Correct Answer:
+625,CONTENT,0,7 content marker(s),227,7,0,0,29,18,0.4879,0.4146,0.0058,True,7a205b69c4,1,False,False,12,,,Q. 12 | A triangular shaped wire carrying  |  current is placed in a uniform magnetic fiel
+626,CONTENT,0,7 content marker(s),404,7,0,0,29,16,0.4404,0.4146,0.0058,True,c17b3b94cd,1,False,False,13,,,Q. 13 | The magnetic field at the center of current carrying circular loop is  | . The mag
+627,CONTENT,0,7 content marker(s),346,7,0,0,29,16,0.4475,0.4146,0.0058,True,e41da9decd,1,False,False,14,,,Q. 14 | A transformer operating at primary voltage  |  and secondary voltage 
+628,CONTENT,0,7 content marker(s),299,7,0,0,29,15,0.4574,0.4146,0.0058,True,0d1c962c2f,1,False,False,15,,,Q. 15 | Sun light falls normally on a surface of area  |  and exerts an average force of 
+629,CONTENT,0,7 content marker(s),283,7,0,0,29,14,0.4387,0.4146,0.0058,True,e843eabd03,1,False,False,16,,,Q. 16 | The power of a lens (biconvex) is  |  in particular medium. Refractive index of
+630,CONTENT,0,3 content marker(s),304,3,0,0,23,12,0.4696,0.4146,0.0052,True,e68ab371ad,1,False,False,17,,,"Q. 17 | Two streams of photons, possessing energies equal to five and ten times the work |"
+631,CONTENT,0,4 content marker(s),179,4,0,0,21,14,0.4691,0.4146,0.0057,True,b76632fb5f,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+632,CONTENT,0,7 content marker(s),291,7,0,0,29,17,0.448,0.4146,0.0058,True,1f20b33808,1,False,False,18,,,Q. 18 | A radioactive sample decays   times its original quantity in 15 minutes. The half 
+633,CONTENT,0,7 content marker(s),276,7,0,0,29,14,0.4604,0.4146,0.0058,True,b28d5424fa,1,False,False,19,,,Q. 19 | An n.p.n transistor with current gain  |  in common emitter configuration is
+634,CONTENT,0,7 content marker(s),269,7,0,0,29,15,0.4547,0.4146,0.0058,True,f7efe579bf,1,False,False,20,,,"Q. 20 | A FM Broad cast transmitter, using modulating signal of frequency  |  has a"
+635,CONTENT,0,3 content marker(s),360,3,0,0,22,20,0.4747,0.4146,0.0052,True,5be4b1bbb9,1,False,False,21,,,Q. 21 | A ball is thrown vertically upwards with a velocity of  |  from the top of a
+636,CONTENT,0,3 content marker(s),228,3,0,0,22,17,0.4958,0.4146,0.0052,True,a9b88af15a,1,False,False,22,,,Q. 22 | The distance of centre of mass from end  |  of a one dimensional rod (AB) having m
+637,CONTENT,0,3 content marker(s),392,3,0,0,22,20,0.4633,0.4146,0.0052,True,478e38be38,1,False,False,23,,,Q. 23 | A string of area of cross-section  |  and length 
+638,CONTENT,0,4 content marker(s),506,4,0,0,26,18,0.4566,0.4146,0.0052,True,158b1b904d,1,False,False,24 25,,,"Q. 24 | At a certain temperature, the degrees of freedom per molecule for gas is 8 . The g"
+639,CONTENT,0,3 content marker(s),257,3,0,0,22,18,0.4591,0.4146,0.0052,True,672eb69dde,1,False,False,26,,,Correct Answer: | 2 | Solution:
+640,CONTENT,0,2 content marker(s),136,2,0,0,18,18,0.4956,0.4146,0.0052,True,858711946a,1,False,False,,,,Correct Answer: | 14 | Solution:
+641,CONTENT,0,6 content marker(s),599,6,0,0,29,15,0.462,0.4146,0.0052,True,46c548e0bc,1,False,False,27 28,,,Q. 27 | For the given circuit the current through battery of  |  just after closing the sw
+642,CONTENT,0,3 content marker(s),354,3,0,0,22,19,0.4909,0.4146,0.0052,True,4da661c28a,1,False,False,29,,,"Q. 29 | In an experiment with a convex lens, The plot of the image distance  |  against th"
+643,CONTENT,0,3 content marker(s),344,3,0,0,22,24,0.4641,0.4146,0.0052,True,1778843112,1,False,False,30,,,"Q. 30 | In an experiment to find acceleration due to gravity  |  using simple pendulum, ti"
+644,CONTENT,0,4 content marker(s),556,4,0,0,25,9,0.4348,0.4146,0.0052,True,5bac8ff1fa,1,False,False,1,Chemistry,,Chemistry | Q. 1 | Given below are two statements : One is labelled as Assertion 
+645,CONTENT,0,10 content marker(s),664,10,0,0,33,8,0.4369,0.4146,0.008,True,e6f07819cb,1,False,False,2,,,Option 4: | A is false but R is true | Correct Answer:
+646,CONTENT,0,7 content marker(s),1107,7,0,0,29,8,0.4189,0.4146,0.0075,True,0185c05ede,1,False,False,3,,,Q. 3 | Given below are two statements: One is labelled as Assertion  |  and the other is
+647,CONTENT,0,9 content marker(s),528,9,0,0,35,10,0.4548,0.4146,0.0058,True,27505d9177,1,False,False,4 5,,,Q. 4 | The products obtained during treatment of hard water using Clark's method are : | O
+648,CONTENT,0,10 content marker(s),615,10,0,0,35,6,0.4263,0.4146,0.007,True,c4881396fe,1,False,False,6,,,Option 2: | Both Statement I and Statement II are false | Option 3:
+649,CONTENT,0,9 content marker(s),353,9,0,0,31,14,0.453,0.4146,0.0064,True,dbeed0aba6,1,False,False,7,,,Correct Answer: | Solution: | Q. 7
+650,CONTENT,0,7 content marker(s),276,7,0,0,29,15,0.4488,0.4146,0.0057,True,2176af25c2,1,False,False,8,,,Q. 8 | Which of the following pair is not isoelectronic species? | (At. no. 
+651,CONTENT,0,7 content marker(s),886,7,0,0,29,8,0.4251,0.4146,0.0073,True,e6a565af58,1,False,False,9,,,Q. 9 | Given below are two statements : One is labelled as Assertion  |  and the other is
+652,CONTENT,0,7 content marker(s),344,7,0,0,66,13,0.4502,0.4146,0.0061,True,e9cc1cf9f2,1,False,False,10,,,Q. 10 | Match List I with List II | List I (Complex)
+653,CONTENT,0,8 content marker(s),804,8,0,0,33,6,0.4437,0.4146,0.0075,True,ec9b5f95c3,1,False,False,11 12,,,"Q. 11 | Dinitrogen and dioxygen, the main constituents of air do not react with each other"
+654,CONTENT,0,6 content marker(s),98,6,0,0,25,8,0.5609,0.4146,0.0058,True,5ec6118632,1,False,False,,,,Option 1: | Option 2: | Option 3:
+655,CONTENT,0,11 content marker(s),336,11,0,0,29,11,0.5452,0.4146,0.0058,True,4474bc5d5c,1,False,False,13,,,Q. 13 | Arrange the following in increasing order of reactivity towards nitration | A. p-x
+656,CONTENT,0,7 content marker(s),286,7,0,0,29,13,0.5488,0.4146,0.0058,True,082f2f45bf,1,False,False,14,,,Q. 14 | Compound I is heated with Conc.  |  to give a hydroxy compound A which is further
+657,CONTENT,0,7 content marker(s),684,7,0,0,29,5,0.4493,0.4146,0.0072,True,a12849cc8a,1,False,False,15,,,Q. 15 | Given below are two statements : one is labelled as Assertion  |  and the other is
+658,CONTENT,0,2 content marker(s),387,2,0,0,58,7,0.5561,0.4146,0.0052,True,41d0e65927,1,False,False,16,,,Q. 16 | Match List I with List II | List I (polymer)
+659,CONTENT,0,5 content marker(s),174,5,0,0,23,5,0.5916,0.4146,0.0062,True,e87163dd18,1,False,False,,,,"Option 2: | A-III, B-II, C-IV, D-I | Option 3:"
+660,CONTENT,0,7 content marker(s),889,7,0,0,29,2,0.4149,0.4146,0.0069,True,6c49c61e65,3,False,False,17,,,Q. 17 | Two statements in respect of drug-enzyme interaction are given below | Statement I
+661,CONTENT,0,7 content marker(s),944,7,0,0,29,6,0.4158,0.4146,0.0072,True,b24e055c14,1,False,False,18,,,Q. 18 | Given below are two statements : One is labelled as Assertion  |  and the other is
+662,CONTENT,0,7 content marker(s),133,7,0,0,29,11,0.5906,0.4146,0.0058,True,2cd81756e8,1,False,False,19,,,Q. 19 | The formulas of  |  for the following reaction sequence
+663,CONTENT,0,5 content marker(s),135,5,0,0,27,9,0.5525,0.4146,0.0052,True,e1a258183d,1,False,False,20,,,Q. 20 | Find out the major product for the above reaction | Option 1:
+664,CONTENT,0,5 content marker(s),346,5,0,0,24,10,0.6509,0.4146,0.0058,True,2f3d729239,1,False,False,21,,,Correct Answer: | Solution: | Q. 21
+665,CONTENT,0,6 content marker(s),566,6,0,0,29,19,0.4732,0.4146,0.0052,True,3906c371c5,1,False,False,22 23,,,Q. 22 | Metal M crystallizes into a fcc lattice with the edge length of  | . The
+666,CONTENT,0,3 content marker(s),546,3,0,0,22,23,0.5068,0.4146,0.0052,True,634702b0bc,1,False,False,24,,,Q. 24 | A gaseous mixture of two substances  |  under a total pressure of 
+667,CONTENT,0,3 content marker(s),511,3,0,0,22,14,0.4567,0.4146,0.0052,True,65d8bb2698,1,False,False,25,,,"Q. 25 | At  | , "
+668,CONTENT,0,6 content marker(s),492,6,0,0,26,21,0.484,0.4146,0.0052,True,4810a01505,1,False,False,26 27,,,Q. 26 | A sample of  |  of an organic compound when analyzed by Duma's method
+669,CONTENT,0,5 content marker(s),241,5,0,0,25,11,0.4925,0.4146,0.0052,True,d27791f959,1,False,False,28,,,Correct Answer: | 5 | Solution:
+670,CONTENT,0,1 content marker(s),138,1,0,0,19,8,0.6048,0.4146,0.0052,True,c5fb1d9be6,1,False,False,29,,,Q. 29 | Among the following the number of curves not in accordance with Freundlich | adsor
+671,CONTENT,0,5 content marker(s),457,5,0,0,25,7,0.4713,0.4146,0.0052,True,fef086a3af,1,False,False,30,,,Correct Answer: | 3 | Solution:
+672,CONTENT,0,9 content marker(s),205,9,0,0,33,14,0.6131,0.4146,0.0058,True,088ceca3c8,1,False,False,1 2,Mathematics,,Maths | Q. 1 | Option 1:
+673,CONTENT,0,6 content marker(s),204,6,0,0,25,4,0.5304,0.4146,0.0065,True,aaa76c6458,1,False,False,,,,Option 1: | non-real complex numbers | Option 2:
+674,CONTENT,0,7 content marker(s),190,7,0,0,29,12,0.6224,0.4146,0.0058,True,5b852035b1,1,False,False,3,,,Q. 3 | Let  |  and 
+675,CONTENT,0,6 content marker(s),111,6,0,0,29,14,0.5821,0.4146,0.0058,True,07b4b8b55a,1,False,False,4,,,Q. 4 | Let  |  be such that 
+676,CONTENT,0,8 content marker(s),140,8,0,0,29,11,0.5819,0.4146,0.0058,True,2560dd80a8,1,False,False,5,,,Solution: | Q. 5 | The function 
+677,CONTENT,0,3 content marker(s),47,3,0,0,23,7,0.605,0.4146,0.0052,True,0cc6bcc0f1,1,False,False,6,,,Q. 6 | The function  |  is:
+678,CONTENT,0,9 content marker(s),194,9,0,0,33,14,0.5037,0.4146,0.0058,True,a6b9a971b8,1,False,False,7,,,Option 3: | Option 4: | Correct Answer:
+679,CONTENT,0,7 content marker(s),74,7,0,0,29,9,0.6111,0.4146,0.0058,True,3e5ef0973b,1,False,False,8,,,Correct Answer: | Solution: | Q. 8
+680,CONTENT,0,9 content marker(s),112,9,0,0,31,10,0.4919,0.4146,0.0063,True,07c3719125,1,False,False,9,,,Correct Answer: | Solution: | Q. 9
+681,CONTENT,0,7 content marker(s),136,7,0,0,29,11,0.6211,0.4146,0.0058,True,d610bad430,1,False,False,10,,,Q. 10 | The area enclosed by the curves  |  and 
+682,CONTENT,0,7 content marker(s),175,7,0,0,29,12,0.5576,0.4146,0.0058,True,684e29a815,1,False,False,11,,,Q. 11 | Let  |  be the solution curve of the differential equation 
+683,CONTENT,0,1 content marker(s),99,1,0,0,19,6,0.6124,0.4146,0.0052,True,5996dbe271,1,False,False,12,,,Q. 12 | The differential equation of the family of circles passing through the points  |  
+684,CONTENT,0,9 content marker(s),203,9,0,0,33,15,0.5328,0.4146,0.0058,True,cc75f2e75f,1,False,False,13,,,Option 1: | Option 2: | Option 3:
+685,CONTENT,0,5 content marker(s),441,5,0,0,25,13,0.6172,0.4146,0.0058,True,c6a6a1e401,1,False,False,14,,,Option 3: | Option 4: | Correct Answer:
+686,CONTENT,0,6 content marker(s),69,6,0,0,25,10,0.583,0.4146,0.0058,True,3990c7936e,1,False,False,,,,Option 1: | Option 2: | Option 3:
+687,CONTENT,0,7 content marker(s),211,7,0,0,29,12,0.5655,0.4146,0.0058,True,151b64ab15,1,False,False,15,,,Q. 15 | Let the lines  |  and 
+688,CONTENT,0,7 content marker(s),358,7,0,0,29,20,0.5596,0.4146,0.0058,True,60d1cf1bd4,1,False,False,16,,,Q. 16 | A plane  |  is parallel to two lines whose direction ratios are 
+689,CONTENT,0,9 content marker(s),366,9,0,0,35,23,0.545,0.4146,0.0058,True,ba0d2df696,1,False,False,17 18,,,Q. 17 | Let   be the set of all  |  for which the angle between the vectors 
+690,CONTENT,0,5 content marker(s),59,5,0,0,23,7,0.486,0.4146,0.0058,True,23bebbf957,1,False,False,,,,Option 2: | Option 3: | Option 4:
+691,CONTENT,0,4 content marker(s),98,4,0,0,25,12,0.5938,0.4146,0.0052,True,99d61a8e8c,1,False,False,19,,,Q. 19 | Let  |  and 
+692,CONTENT,0,3 content marker(s),39,3,0,0,19,6,0.6718,0.4146,0.0058,True,292c59c3d9,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+693,CONTENT,0,10 content marker(s),520,10,0,0,36,18,0.4786,0.4146,0.0058,True,87fed62a10,1,False,False,20 21,,,Q. 20 | Let |  Ramesh listens to music.
+694,CONTENT,0,3 content marker(s),178,3,0,0,22,11,0.7814,0.4146,0.0052,True,3ff528372c,1,False,False,22,,,Q. 22 | A class contains  boys and  girls. If the number of ways of selecting  boys and  |
+695,CONTENT,0,4 content marker(s),281,4,0,0,26,14,0.6403,0.4146,0.0052,True,a353cb5fe4,1,False,False,23 24,,,Q. 23 | Let the tangents at the points  |  and 
+696,CONTENT,0,5 content marker(s),225,5,0,0,25,11,0.5313,0.4146,0.0052,True,0600c297f0,1,False,False,25,,,Correct Answer: | 99 | Solution:
+697,CONTENT,0,3 content marker(s),90,3,0,0,22,7,0.6141,0.4146,0.0052,True,ab26e4439b,1,False,False,26,,,Q. 26 | If  |  where 
+698,CONTENT,0,3 content marker(s),101,3,0,0,22,6,0.6243,0.4146,0.0052,True,54e883ffd2,1,False,False,27,,,Q. 27 | Let  |  Then the number of elements in the
+699,CONTENT,0,3 content marker(s),139,3,0,0,22,7,0.5843,0.4146,0.0052,True,7d8879d422,1,False,False,28,,,Q. 28 | Let  |  be complex numbers satisfying 
+700,CONTENT,0,3 content marker(s),241,3,0,0,22,10,0.7324,0.4146,0.0052,True,7ab61c7134,1,False,False,29,,,Q. 29 | A bag contains  white and  black balls. Three balls are drawn at random from the |
+701,CONTENT,0,3 content marker(s),91,3,0,0,22,4,0.5768,0.4146,0.0052,True,db176e259e,1,False,False,30,,,Q. 30 | The value of the integral  |  is equal to __________.
+702,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,3,0.6465,0.4146,0.0052,True,8f99a8aa1f,1,False,False,,,,702
+703,CONTENT,0,10 content marker(s),838,10,0,0,34,8,0.4344,0.4146,0.0093,True,6b4ee85d9b,1,False,False,1,Physics,29 July - Morning Shift,Physics | Q. 1 | Given below are two statements : One is labelled as Assertion (A) and oth
+704,CONTENT,0,5 content marker(s),381,5,0,0,27,16,0.4619,0.4146,0.0052,True,1041df22f1,1,False,False,2,,,"Q. 2 | A ball is thrown up vertically with a certain velocity so that, it reaches a maximu"
+705,CONTENT,0,2 content marker(s),49,2,0,0,17,17,0.5291,0.4146,0.0058,True,d4ec4ec206,1,False,False,,,,Correct Answer: | Solution: | From eq (1) and (2)
+706,CONTENT,0,7 content marker(s),147,7,0,0,29,11,0.4329,0.4146,0.0059,True,4f8be03d82,1,False,False,3,,,Q. 3 | If  |  is :
+707,CONTENT,0,7 content marker(s),426,7,0,0,29,13,0.4772,0.4146,0.0058,True,251f87c652,1,False,False,4,,,Q. 4 | A smooth circular groove has a smooth vertical wall as shown in figure. A block of 
+708,CONTENT,0,7 content marker(s),286,7,0,0,29,14,0.4591,0.4146,0.0057,True,202fd779c7,1,False,False,5,,,"Q. 5 | A ball is projected with kinetic energy E, at an angle of  |  to the horizontal. Th"
+709,CONTENT,0,7 content marker(s),298,7,0,0,29,17,0.4658,0.4146,0.0058,True,ee5515cdb8,1,False,False,6,,,Q. 6 | Two bodies of mass  |  and 
+710,CONTENT,0,7 content marker(s),754,7,0,0,27,8,0.4461,0.4146,0.0052,True,0a1984a645,1,False,False,7,,,Q. 7 | Given below are two statements : One is labelled as Assertion (A) and the other is 
+711,CONTENT,0,9 content marker(s),825,9,0,0,31,12,0.4186,0.4146,0.0085,True,0e2e8ec864,1,False,False,8,,,Correct Answer: | Both (A) and (R) are true and (R) is the correct explanation of (A) | So
+712,CONTENT,0,7 content marker(s),287,7,0,0,29,14,0.4778,0.4146,0.0058,True,c23b6cf385,1,False,False,9,,,Q. 9 | The time period of oscillation of a simple pendulum of length  |  suspended from th
+713,CONTENT,0,6 content marker(s),263,6,0,0,29,12,0.517,0.4146,0.0058,True,88e08cadce,1,False,False,10,,,Q. 10 | A spherically-symmetric charge distribution is considered with charge density vary
+714,CONTENT,0,1 content marker(s),96,1,0,0,15,14,0.512,0.4146,0.0052,True,1b4b2a721a,1,False,False,,,,"Solution: | Change in the integral element is, | By  Gauss's law,"
+715,CONTENT,0,7 content marker(s),999,7,0,0,29,5,0.4155,0.4146,0.007,True,90f1435aa1,1,False,False,11,,,Q. 11 | Given below are two statements. | Statement I : Electric potential is constant wit
+716,CONTENT,0,7 content marker(s),312,7,0,0,29,12,0.4483,0.4146,0.0058,True,eab7ba7059,1,False,False,12,,,Q. 12 | Two metallic wires of identical dimensions are connected in series. If  |  are
+717,CONTENT,0,7 content marker(s),269,7,0,0,29,15,0.4459,0.4146,0.0058,True,788797b13c,1,False,False,13,,,Q. 13 | An alternating emf  |  is applied to a circuit containing an
+718,CONTENT,0,10 content marker(s),449,10,0,0,29,20,0.4725,0.4146,0.0057,True,107f3390df,1,False,False,14,,,Q. 14 | A coil of inductance  |  and resistance 
+719,CONTENT,0,1 content marker(s),175,1,0,0,15,12,0.4657,0.4146,0.0052,True,9229c61339,1,False,False,,,,the time elapsed before the current acquires half of its steady state value | (b) The ener
+720,CONTENT,0,11 content marker(s),585,11,0,0,66,3,0.4151,0.4146,0.0065,True,8b8a83f39b,1,False,False,15,,,Q. 15 | Match List - I with List - II : | List - I
+721,CONTENT,0,7 content marker(s),498,7,0,0,29,16,0.4436,0.4146,0.0058,True,2a614edc3b,1,False,False,16,,,Q. 16 | The kinetic energy of emitted electron is  |  when the light incident on the metal
+722,CONTENT,0,7 content marker(s),341,7,0,0,29,15,0.4725,0.4146,0.0058,True,54f5a29640,1,False,False,17,,,Q. 17 | Find the ratio of energies of photons produced due to transition of an electron of
+723,CONTENT,0,9 content marker(s),454,9,0,0,35,15,0.4367,0.4146,0.0057,True,c3be0f203a,1,False,False,18 19,,,Q. 18 | Find the modulation index of an AM wave having  |  variation where maximum
+724,CONTENT,0,5 content marker(s),86,5,0,0,23,11,0.441,0.4146,0.0058,True,e3e9b5e27f,1,False,False,,,,Option 2: | Option 3: | Option 4:
+725,CONTENT,0,11 content marker(s),440,11,0,0,29,19,0.4715,0.4146,0.0058,True,e05afb3aef,1,False,False,20,,,"Q. 20 | In an experiment to find out the diameter of wire using screw gauge, the following"
+726,CONTENT,0,3 content marker(s),584,3,0,0,22,15,0.4611,0.4146,0.0052,True,35333703aa,1,False,False,21,,,Q. 21 | An object is projected in the air with initial velocity  at an angle . The project
+727,CONTENT,0,5 content marker(s),531,5,0,0,29,20,0.4503,0.4146,0.0052,True,5f373d0b24,1,False,False,22 23,,,Q. 22 | If the acceleration due to gravity experienced by a point mass at a height  above 
+728,CONTENT,0,1 content marker(s),148,1,0,0,15,13,0.4548,0.4146,0.0052,True,416a2d3d7b,1,False,False,,,,Solution: | For adiabatic process | Also for a given mass of gas
+729,CONTENT,0,3 content marker(s),313,3,0,0,22,15,0.4825,0.4146,0.0052,True,fd41732b3c,1,False,False,24,,,Q. 24 | One mole of a monoatomic gas is mixed with three moles of a diatomic gas. The | mo
+730,CONTENT,0,3 content marker(s),129,3,0,0,22,11,0.4714,0.4146,0.0052,True,453749ef83,1,False,False,25,,,Q. 25 | The current I flowing through the given circuit will be ______________A. | Correct
+731,CONTENT,0,6 content marker(s),557,6,0,0,29,23,0.4673,0.4146,0.0052,True,2f5b91b52b,1,False,False,26 27,,,Q. 26 | A closely wounded circular coil of radius  |  produces a magnetic field of
+732,CONTENT,0,4 content marker(s),587,4,0,0,26,27,0.462,0.4146,0.0052,True,f28804a765,1,False,False,28 29,,,Q. 28 | A wire of length  |  carrying current of 
+733,CONTENT,0,2 content marker(s),100,2,0,0,18,13,0.5069,0.4146,0.0052,True,224815394e,1,False,False,,,,Correct Answer: | 15 | Solution:
+734,CONTENT,0,8 content marker(s),348,8,0,0,34,13,0.4451,0.4146,0.0052,True,105009e001,1,False,False,30 1,Chemistry,,Q. 30 | If the potential barrier across a p-n junction is  | . Then the electric field int
+735,CONTENT,0,6 content marker(s),300,6,0,0,27,15,0.6185,0.4146,0.0058,True,baa682bd49,1,False,False,2,,,Correct Answer: | Solution: | Q. 2
+736,CONTENT,0,8 content marker(s),471,8,0,0,31,25,0.4407,0.4146,0.0058,True,359a0a7b28,1,False,False,3,,,Option 4: | Correct Answer: | Solution:
+737,CONTENT,0,9 content marker(s),551,9,0,0,31,23,0.4305,0.4146,0.0067,True,146122cd35,1,False,False,4,,,Correct Answer: | Lyophilic sol | Solution:
+738,CONTENT,0,11 content marker(s),714,11,0,0,39,5,0.4191,0.4146,0.007,True,33947681b4,1,False,False,5 6,,,"Q. 5 |  In metallurgy the term ""gangue"" is used for :  | Option 1:"
+739,CONTENT,0,10 content marker(s),474,10,0,0,33,16,0.4463,0.4146,0.0063,True,6e3a5f9cbc,1,False,False,7,,,Option 4: | Correct Answer: | Solution:
+740,CONTENT,0,11 content marker(s),347,11,0,0,39,13,0.5077,0.4146,0.0058,True,b15b41339e,1,False,False,8 9,,,Q. 8 | Number of lone pairs of electrons in the central atom of  |  and 
+741,CONTENT,0,10 content marker(s),445,10,0,0,33,19,0.4603,0.4146,0.0063,True,8cee9e5ff6,1,False,False,10,,,Option 4: | Correct Answer: | Solution:
+742,CONTENT,0,9 content marker(s),506,9,0,0,35,8,0.4457,0.4146,0.0068,True,d84ab3dd54,1,False,False,11 12,,,Q. 11 |  Which among the following pairs has only herbicides?  | Option 1:
+743,CONTENT,0,5 content marker(s),306,5,0,0,23,7,0.4872,0.4146,0.0058,True,32dde61a07,1,False,False,,,,Option 2: | Option 3: | Option 4:
+744,CONTENT,0,7 content marker(s),270,7,0,0,29,7,0.5033,0.4146,0.0058,True,4cb48670c8,1,False,False,13,,,Q. 13 | Which among the following pairs of the structures will give different products on 
+745,CONTENT,0,no markers but no ad evidence -> solution continuation,55,0,0,0,15,8,0.7092,0.4146,0.0052,True,657ab56b13,1,False,False,,,,(1) | (2) | (3)
+746,CONTENT,0,7 content marker(s),186,7,0,0,29,12,0.5811,0.4146,0.0058,True,8155f6b2d5,1,False,False,14,,,"Q. 14 |  Considering the above reactions, the compound  |  and compound  "
+747,CONTENT,0,3 content marker(s),117,3,0,0,23,7,0.6527,0.4146,0.0052,True,cf5f1bf1f9,1,False,False,15,,,"Q. 15 |  Consider the above reaction sequence, the Product  |   is: : "
+748,CONTENT,0,5 content marker(s),156,5,0,0,25,8,0.5872,0.4146,0.0058,True,1ef96a0f89,1,False,False,16,,,Option 3: | Option 4: | Correct Answer:
+749,CONTENT,0,6 content marker(s),92,6,0,0,25,8,0.5833,0.4146,0.0058,True,e4110ea740,1,False,False,,,,Option 1: | Option 2: | Option 3:
+750,CONTENT,0,7 content marker(s),126,7,0,0,29,9,0.5125,0.4146,0.0057,True,fad29a60f5,1,False,False,17,,,Q. 17 |  Which among the following represent reagent  |   ? 
+751,CONTENT,0,5 content marker(s),236,5,0,0,27,10,0.6405,0.4146,0.0052,True,87846c1dca,1,False,False,18,,,Q. 18 |  Consider the following reaction sequence :  |  The product  
+752,CONTENT,0,9 content marker(s),311,9,0,0,31,4,0.522,0.4146,0.0066,True,fc3e7a6501,1,False,False,19,,,Correct Answer: | Solution: | Q. 19
+753,CONTENT,0,7 content marker(s),374,7,0,0,29,14,0.4625,0.4146,0.0058,True,0fa30b377d,1,False,False,20,,,Q. 20 | A compound   |   is acidic and it is soluble in 
+754,CONTENT,0,3 content marker(s),648,3,0,0,22,29,0.5161,0.4146,0.0052,True,bdcbd53f1e,1,False,False,21,,,Q. 21 | Resistance of a conductivity cell  |  filled with 
+755,CONTENT,0,4 content marker(s),651,4,0,0,26,21,0.5271,0.4146,0.0052,True,4b8359f5fa,1,False,False,22 23,,,Q. 22 | Ionic radii of cation  |  and anion 
+756,CONTENT,0,5 content marker(s),541,5,0,0,25,17,0.4739,0.4146,0.0052,True,ebfb792e7e,1,False,False,24,,,Correct Answer: | 548 | Solution:
+757,CONTENT,0,3 content marker(s),422,3,0,0,22,27,0.4722,0.4146,0.0052,True,e4dd36d7fc,1,False,False,25,,,Q. 25 | If  |  gas is bubbled through water at 
+758,CONTENT,0,3 content marker(s),288,3,0,0,22,21,0.4905,0.4146,0.0052,True,25e2b2b204,1,False,False,26,,,Q. 26 | If the solubility product of  |  is 
+759,CONTENT,0,3 content marker(s),407,3,0,0,91,33,0.4675,0.4146,0.0052,True,a5bf1cd8ec,1,False,False,27,,,Q. 27 | The reaction between  |  and 
+760,CONTENT,0,6 content marker(s),721,6,0,0,29,13,0.4788,0.4146,0.0052,True,874b1a374f,1,False,False,28 29,,,"Q. 28 | In a linear tetrapeptide (Constituted with different amino acids), (number of amin"
+761,CONTENT,0,3 content marker(s),365,3,0,0,22,17,0.5419,0.4146,0.0052,True,9aaa18e7c3,1,False,False,30,,,"Q. 30 |  should be an inner orbital complex. Ignoring the pairing energy, the | value of c"
+762,CONTENT,0,12 content marker(s),274,12,0,0,41,20,0.4656,0.4146,0.0058,True,a6c6f40ab5,1,False,False,1 2,Mathematics,,Maths | Q. 1 | Let 
+763,CONTENT,0,9 content marker(s),404,9,0,0,31,17,0.4947,0.4146,0.0081,True,fa5961444f,1,False,False,3,,,Correct Answer: | Solution: | Q. 3
+764,CONTENT,0,9 content marker(s),187,9,0,0,35,12,0.6257,0.4146,0.0058,True,51a7b48c88,1,False,False,4 5,,,"Q. 4 | If  | ,"
+765,CONTENT,0,7 content marker(s),103,7,0,0,29,9,0.6481,0.4146,0.0058,True,02a2aebaea,1,False,False,6,,,Option 2: | Option 3: | Option 4:
+766,CONTENT,0,8 content marker(s),186,8,0,0,31,13,0.514,0.4146,0.0058,True,3a251d6f1b,1,False,False,7,,,Option 2: | Option 3: | Option 4:
+767,CONTENT,0,7 content marker(s),255,7,0,0,29,14,0.5341,0.4146,0.0058,True,c97c0696e2,1,False,False,8,,,Option 3: | Option 4: | Correct Answer:
+768,CONTENT,0,10 content marker(s),299,10,0,0,35,20,0.5131,0.4146,0.0063,True,48e3dba421,1,False,False,9,,,Option 3: | Option 4: | Correct Answer:
+769,CONTENT,0,8 content marker(s),170,8,0,0,29,14,0.6207,0.4146,0.0058,True,27137a99ef,1,False,False,10,,,Solution: | Q. 10 | Let 
+770,CONTENT,0,7 content marker(s),295,7,0,0,29,11,0.4667,0.4146,0.0057,True,e02fd4453b,1,False,False,11,,,Q. 11 | The angle of elevation of the top of a tower from a point A due north of it is  | 
+771,CONTENT,0,3 content marker(s),64,3,0,0,23,16,0.6434,0.4146,0.0052,True,a9007540aa,1,False,False,12,,,Q. 12 | The statement  |  is equivalent to :
+772,CONTENT,0,10 content marker(s),226,10,0,0,35,15,0.4892,0.4146,0.0063,True,9c310f1ad6,1,False,False,13,,,Option 3: | Option 4: | Correct Answer:
+773,CONTENT,0,1 content marker(s),173,1,0,0,15,7,0.6516,0.4146,0.0052,True,80a24936f3,1,False,False,,,,Solution: | The circumcentre of a triangle is the point of intersection the perpendicular 
+774,CONTENT,0,6 content marker(s),202,6,0,0,29,16,0.5229,0.4146,0.0058,True,9828d5b0e6,1,False,False,14,,,Q. 14 | Let  |   be two unit vectors such that the angle between them is 
+775,CONTENT,0,7 content marker(s),102,7,0,0,29,9,0.4383,0.4146,0.0058,True,f49eae61c9,1,False,False,15,,,Q. 15 | If  |  then 
+776,CONTENT,0,1 content marker(s),46,1,0,0,19,6,0.7644,0.4146,0.0052,True,67b8b1ed68,1,False,False,16,,,Q. 16 | The area of the region |  is equal to:
+777,CONTENT,0,6 content marker(s),69,6,0,0,25,8,0.4877,0.4146,0.0058,True,2c04735c6f,1,False,False,,,,Option 1: | Option 2: | Option 3:
+778,CONTENT,0,7 content marker(s),322,7,0,0,29,16,0.5718,0.4146,0.0058,True,7cf7cb69a4,1,False,False,17,,,Q. 17 | Let the focal chord of the parabola  |  along the line
+779,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,4,0.7493,0.4146,0.0052,True,d43788c6dd,1,False,False,,,,779
+780,CONTENT,0,7 content marker(s),146,7,0,0,29,9,0.6483,0.4146,0.0058,True,f391660c76,1,False,False,18,,,"Q. 18 | The number of points, where the function | , is"
+781,CONTENT,0,7 content marker(s),389,7,0,0,29,16,0.4844,0.4146,0.0058,True,e267694daa,1,False,False,19,,,"Q. 19 | Let  | . Then the probability, that a randomly chosen number"
+782,CONTENT,0,3 content marker(s),375,3,0,0,23,15,0.5278,0.4146,0.0052,True,a812d61307,1,False,False,20,,,Q. 20 | Let  |  Then which of the following statements are true?
+783,CONTENT,0,4 content marker(s),92,4,0,0,21,10,0.6456,0.4146,0.0061,True,4be2970961,1,False,False,,,,Option 3: | Only Q and R | Option 4:
+784,CONTENT,0,6 content marker(s),307,6,0,0,29,9,0.5826,0.4146,0.0052,True,55dd3ecff0,1,False,False,21 22,,,"Q. 21 | Let  | . Then, the sum of"
+785,CONTENT,0,3 content marker(s),224,3,0,0,22,9,0.5601,0.4146,0.0052,True,98ceeda0f9,1,False,False,23,,,Q. 23 | Let a line with direction ratios  |  be perpendicular to the lines with
+786,CONTENT,0,3 content marker(s),70,3,0,0,22,5,0.6121,0.4146,0.0052,True,e8ed1e27aa,1,False,False,24,,,Q. 24 | Let  |   is equal to ___________.
+787,CONTENT,0,6 content marker(s),424,6,0,0,29,9,0.5656,0.4146,0.0052,True,f06e0d4c31,1,False,False,25 26,,,Q. 25 | Let the ratio of the fifth term from the beginning to the fifth term from the end 
+788,CONTENT,0,6 content marker(s),214,6,0,0,29,11,0.7296,0.4146,0.0052,True,446c8791b4,1,False,False,27 28,,,Q. 27 | Let  |  be prime numbers and let
+789,CONTENT,0,6 content marker(s),269,6,0,0,29,13,0.6987,0.4146,0.0052,True,013ee71ca1,1,False,False,29 30,,,Q. 29 | Let  | . If
+790,CONTENT,0,7 content marker(s),425,7,0,0,34,17,0.472,0.4146,0.0085,True,08d1391b2c,1,False,False,1,Physics,29 July - Evening Shift,Physics | Q. 1 | Two identical metallic spheres
+791,CONTENT,0,7 content marker(s),286,7,0,0,60,10,0.4449,0.4146,0.0052,True,abb06cc765,1,False,False,2,,,Q. 2 | Match List I with List II. | List-I
+792,CONTENT,0,8 content marker(s),390,8,0,0,31,12,0.4373,0.4146,0.006,True,d4a6143157,1,False,False,3,,,"Option 3: | A-IV, B-I, C-III, D-II | Option 4:"
+793,CONTENT,0,6 content marker(s),764,6,0,0,27,9,0.4655,0.4146,0.0058,True,95e656ac96,1,False,False,4,,,Option 4: | Correct Answer: | Solution:
+794,CONTENT,0,11 content marker(s),672,11,0,0,35,22,0.4491,0.4146,0.0078,True,f5c3fc5b4b,1,False,False,5,,,Option 3: | A is true but R is false. | Option 4:
+795,CONTENT,0,2 content marker(s),331,2,0,0,21,23,0.4817,0.4146,0.0052,True,926910ad67,1,False,False,6,,,Q. 6 | A wire  |  of length 
+796,CONTENT,0,5 content marker(s),286,5,0,0,23,20,0.505,0.4146,0.0064,True,41d9662fef,1,False,False,,,,Option 2: |  directed away from wire  | Option 3:
+797,CONTENT,0,7 content marker(s),492,7,0,0,29,14,0.4635,0.4146,0.0058,True,3502921a10,1,False,False,7,,,Q. 7 | A juggler throws balls vertically upwards with same initial velocity in air. When t
+798,CONTENT,0,7 content marker(s),472,7,0,0,29,18,0.4572,0.4146,0.0058,True,c23e884422,1,False,False,8,,,Q. 8 | A circuit element  |  when connected to an a.c. supply of peak voltage 
+799,CONTENT,0,2 content marker(s),447,2,0,0,21,20,0.4827,0.4146,0.0052,True,941e82e42e,1,False,False,9,,,Q. 9 | An unpolarised light beam of intensity  |  is passed through a polaroid 
+800,CONTENT,0,8 content marker(s),285,8,0,0,31,13,0.4784,0.4146,0.0058,True,7850f820ff,1,False,False,10,,,Option 2: | Option 3: | Option 4:
+801,CONTENT,0,11 content marker(s),545,11,0,0,27,10,0.4417,0.4146,0.0058,True,5444f79909,1,False,False,11,,,Option 3: | Option 4: | Correct Answer:
+802,CONTENT,0,14 content marker(s),521,14,0,0,35,15,0.4256,0.4146,0.0062,True,b48495b56b,1,False,False,12,,,Option 2: | (A) and (E) only. | Option 3:
+803,CONTENT,0,5 content marker(s),237,5,0,0,25,15,0.5036,0.4146,0.0058,True,75caaaea03,1,False,False,13,,,Correct Answer: | Solution: | Q. 13
+804,CONTENT,0,4 content marker(s),93,4,0,0,21,12,0.4937,0.4146,0.0058,True,5434b28b66,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+805,CONTENT,0,7 content marker(s),340,7,0,0,29,15,0.493,0.4146,0.0057,True,57e7e8d1a9,1,False,False,14,,,Q. 14 | Two bodies of masses   |  are connected by a light string
+806,CONTENT,0,5 content marker(s),239,5,0,0,27,19,0.4379,0.4146,0.0052,True,b58b390c9d,1,False,False,15,,,"Q. 15 | If momentum of a body is increased by  | , then its kinetic energy increases by"
+807,CONTENT,0,6 content marker(s),231,6,0,0,27,20,0.4637,0.4146,0.0058,True,ca077c91c3,1,False,False,16,,,Correct Answer: | Solution: | Q. 16
+808,CONTENT,0,7 content marker(s),327,7,0,0,29,13,0.5483,0.4146,0.0058,True,d0e20b49e8,1,False,False,17,,,Option 4: | Correct Answer: | Solution:
+809,CONTENT,0,10 content marker(s),322,10,0,0,33,17,0.4423,0.4146,0.0063,True,8d0c9b2af3,1,False,False,18,,,Option 4: | Correct Answer: | Solution:
+810,CONTENT,0,7 content marker(s),226,7,0,0,29,16,0.467,0.4146,0.0058,True,71ad20142f,1,False,False,19,,,Q. 19 | The root mean square speed of smoke particles of mass  |  in their
+811,CONTENT,0,7 content marker(s),337,7,0,0,29,14,0.466,0.4146,0.0058,True,0d78fc5324,1,False,False,20,,,Q. 20 | Light enters from air into a given medium at an angle of  |  with interface of the
+812,CONTENT,0,3 content marker(s),366,3,0,0,22,19,0.4881,0.4146,0.0052,True,d09bbf7817,1,False,False,21,,,Q. 21 | A tube of length  |  is filled completely with an incompressible liquid of mass
+813,CONTENT,0,3 content marker(s),304,3,0,0,22,20,0.4981,0.4146,0.0052,True,a2fd53b98b,1,False,False,22,,,Q. 22 | Nearly  |   of the power of a 
+814,CONTENT,0,3 content marker(s),293,3,0,0,22,17,0.4627,0.4146,0.0052,True,02473de62d,1,False,False,23,,,Q. 23 | A metal wire of length  |  and cross-sectional area 
+815,CONTENT,0,3 content marker(s),332,3,0,0,22,20,0.5162,0.4146,0.0052,True,67b36d132e,1,False,False,24,,,Q. 24 | The velocity of a small ball of mass  |  and density 
+816,CONTENT,0,5 content marker(s),633,5,0,0,29,21,0.4531,0.4146,0.0052,True,7f1eea6707,1,False,False,25 26,,,Q. 25 | A modulating signal  |  is added to the carrier signal
+817,CONTENT,0,1 content marker(s),13,1,0,0,15,16,0.4669,0.4146,0.0052,True,9995b5d214,1,False,False,,,,Solution: | 817
+818,CONTENT,0,3 content marker(s),252,3,0,0,22,14,0.495,0.4146,0.0052,True,37c282858a,1,False,False,27,,,Q. 27 | The metallic bob of simple pendulum has the relative density 5 . The time period o
+819,CONTENT,0,4 content marker(s),536,4,0,0,26,28,0.4924,0.4146,0.0052,True,afd535598e,1,False,False,28 29,,,Q. 28 | A  |  Zener diode along with a series resistance 
+820,CONTENT,0,4 content marker(s),257,4,0,0,25,18,0.4498,0.4146,0.0052,True,bf6f8abc32,1,False,False,30,,,Correct Answer: | 9 | Solution:
+821,CONTENT,0,5 content marker(s),184,5,0,0,25,21,0.4993,0.4146,0.0052,True,014df0c322,1,False,False,1,Chemistry,,Solution: | Chemistry | Q. 1
+822,CONTENT,0,8 content marker(s),261,8,0,0,27,17,0.4936,0.4146,0.0057,True,5ac1f237c4,1,False,False,2,,,Option 4: | Correct Answer: | Solution:
+823,CONTENT,0,8 content marker(s),484,8,0,0,31,22,0.464,0.4146,0.0057,True,06d5a04947,1,False,False,3,,,Option 3: | Option 4: | Correct Answer:
+824,CONTENT,0,7 content marker(s),373,7,0,0,29,23,0.4684,0.4146,0.0058,True,7b52b764d2,1,False,False,4,,,Option 4: | Correct Answer: | Solution:
+825,CONTENT,0,7 content marker(s),259,7,0,0,66,22,0.4681,0.4146,0.0058,True,38f0a6d9d2,1,False,False,5,,,Option 4: | Correct Answer: | Solution:
+826,CONTENT,0,10 content marker(s),888,10,0,0,33,9,0.4227,0.4146,0.008,True,15591dcb3f,1,False,False,6,,,Option 4: | Correct Answer: | Solution:
+827,CONTENT,0,9 content marker(s),766,9,0,0,36,7,0.4313,0.4146,0.007,True,7c620b79be,1,False,False,7 8,,,Q. 7 | Given below are two statements. | Statement I: Stannane is an example of a molecula
+828,CONTENT,0,12 content marker(s),476,12,0,0,37,15,0.4435,0.4146,0.0063,True,50e2a8f4f0,1,False,False,9,,,Option 2: | Option 3: | Option 4:
+829,CONTENT,0,7 content marker(s),327,7,0,0,29,11,0.5466,0.4146,0.0058,True,a36cdbff2c,1,False,False,10,,,Q. 10 | Which of the following  | -metal ion will give the lowest enthalpy of hydration
+830,CONTENT,0,7 content marker(s),299,7,0,0,29,15,0.5681,0.4146,0.0058,True,c6359a444f,1,False,False,11,,,Q. 11 | Octahedral complexes of   |  undergo structural distortion
+831,CONTENT,0,8 content marker(s),692,8,0,0,33,14,0.4561,0.4146,0.0058,True,7711a0abed,1,False,False,12 13,,,"Q. 12 | Dinitrogen is a robust compound, but reacts at high altitudes to form oxides. The "
+832,CONTENT,0,6 content marker(s),115,6,0,0,25,9,0.5206,0.4146,0.0057,True,4bc10fc57c,1,False,False,,,,Option 1: | Option 2: | Option 3:
+833,CONTENT,0,7 content marker(s),321,7,0,0,29,15,0.5242,0.4146,0.0058,True,e4db06858e,1,False,False,14,,,Q. 14 | Compound  |  undergoes following sequence of reactions to give compound 
+834,CONTENT,0,5 content marker(s),554,5,0,0,28,6,0.4827,0.4146,0.0052,True,2f37c60b43,1,False,False,15,,,Q. 15 |  Given below are two statements.  |  Statement I: The compound  
+835,CONTENT,0,5 content marker(s),538,5,0,0,25,10,0.5392,0.4146,0.0072,True,69d0746535,1,False,False,16,,,Correct Answer: |  Statement I is correct but Statement II is incorrect.  | Solution:
+836,CONTENT,0,7 content marker(s),158,7,0,0,29,5,0.499,0.4146,0.006,True,1778496af5,1,False,False,17,,,Option 3: | glycol | Option 4:
+837,CONTENT,0,6 content marker(s),222,6,0,0,27,7,0.4978,0.4146,0.0057,True,25fb387a31,1,False,False,18,,,Option 3: | Option 4: | Correct Answer:
+838,CONTENT,0,12 content marker(s),940,12,0,0,38,3,0.4151,0.4146,0.0074,True,32603d2bb3,1,False,False,19,,,Option 2: | Starch | Option 3:
+839,CONTENT,0,7 content marker(s),745,7,0,0,29,9,0.4202,0.4146,0.0063,True,a3de0204bc,1,False,False,20,,,Q. 20 | A compound   |  is a weak acid and it exhibits colour change at 
+840,CONTENT,0,6 content marker(s),547,6,0,0,53,29,0.476,0.4146,0.0052,True,197b8c9780,1,False,False,21 22,,,Q. 21 |  of molecular oxygen  |  is mixed with 
+841,CONTENT,0,3 content marker(s),322,3,0,0,60,36,0.5306,0.4146,0.0052,True,1f6144f609,1,False,False,23,,,Q. 23 |  of solute A was dissolved in  |  of ethanol and freezing point of the
+842,CONTENT,0,4 content marker(s),365,4,0,0,26,22,0.5325,0.4146,0.0052,True,6c65ef6750,1,False,False,24 25,,,"Q. 24 | For a cell,  |  the cell potential is found"
+843,CONTENT,0,5 content marker(s),273,5,0,0,25,15,0.4899,0.4146,0.0052,True,2e8a43c717,1,False,False,26,,,Correct Answer: | 1 | Solution:
+844,CONTENT,0,3 content marker(s),358,3,0,0,60,13,0.4962,0.4146,0.0052,True,98445be6de,1,False,False,27,,,"Q. 27 |  Consider the following sulphur based oxoacids.  | Amongst these oxoacids, the num"
+845,CONTENT,0,6 content marker(s),430,6,0,0,29,17,0.4663,0.4146,0.0052,True,8df086f8fc,1,False,False,28 29,,,Q. 28 | A  |   sample of polyhydric alcoholic compound 
+846,CONTENT,0,3 content marker(s),406,3,0,0,22,9,0.4842,0.4146,0.0052,True,b8f6c89d45,1,False,False,30,,,Q. 30 |  The number of chlorine atoms in bithionol is ___________. | Correct Answer:
+847,CONTENT,0,7 content marker(s),150,7,0,0,29,10,0.4243,0.4146,0.0058,True,bcabc90bb1,1,False,False,1,Mathematics,,Maths | Q. 1 | If 
+848,CONTENT,0,4 content marker(s),145,4,0,0,25,7,0.6572,0.4146,0.0052,True,c63c8f60d8,1,False,False,2,,,Q. 2 | Which of the following matrices can NOT be obtained from the matrix  | by a single 
+849,CONTENT,0,10 content marker(s),188,10,0,0,33,12,0.4685,0.4146,0.0064,True,20ae04aad6,1,False,False,3,,,Option 4: | Correct Answer: | Solution:
+850,CONTENT,0,7 content marker(s),131,7,0,0,29,11,0.5777,0.4146,0.0057,True,62001d8375,1,False,False,4,,,Q. 4 | Let the function  |   be continuous at
+851,CONTENT,0,7 content marker(s),134,7,0,0,29,11,0.4975,0.4146,0.0058,True,d9cdad90da,1,False,False,5,,,Q. 5 | If  |  denotes the greatest integer 
+852,CONTENT,0,7 content marker(s),124,7,0,0,29,12,0.6781,0.4146,0.0058,True,f6e2d552d1,1,False,False,6,,,Q. 6 | Let  |   be a sequence such that
+853,CONTENT,0,5 content marker(s),61,5,0,0,27,8,0.5857,0.4146,0.0052,True,d7bd914a6d,1,False,False,7,,,Q. 7 |  is equal to | Option 1:
+854,CONTENT,0,7 content marker(s),86,7,0,0,29,9,0.5989,0.4146,0.0058,True,bf837d2119,1,False,False,8,,,Correct Answer: | Solution: | Q. 8
+855,CONTENT,0,5 content marker(s),141,5,0,0,25,8,0.6114,0.4146,0.0058,True,1616513779,1,False,False,9,,,Correct Answer: | Solution: | Q. 9
+856,CONTENT,0,4 content marker(s),49,4,0,0,21,5,0.4515,0.4146,0.0058,True,0b8374d997,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+857,CONTENT,0,no markers but no ad evidence -> solution continuation,3,0,0,0,15,3,0.5506,0.4146,0.0052,True,681357a001,1,False,False,,,,857
+858,CONTENT,0,4 content marker(s),152,4,0,0,25,10,0.6815,0.4146,0.0052,True,94fe117de6,1,False,False,10,,,Q. 10 | Let  |  be the solution curve of the differential equation
+859,CONTENT,0,4 content marker(s),219,4,0,0,23,11,0.6797,0.4146,0.0057,True,e4ddebc80d,1,False,False,11,,,Option 4: | Correct Answer: | Solution:
+860,CONTENT,0,6 content marker(s),69,6,0,0,25,10,0.6242,0.4146,0.0058,True,634b07bb72,1,False,False,,,,Option 1: | Option 2: | Option 3:
+861,CONTENT,0,7 content marker(s),115,7,0,0,29,10,0.6082,0.4146,0.0058,True,a8d0718c8d,1,False,False,12,,,Q. 12 | The number of elements in the set  | is :
+862,CONTENT,0,7 content marker(s),254,7,0,0,29,8,0.55,0.4146,0.0062,True,c6794c5be2,1,False,False,13,,,Q. 13 | Let  |  be vertices of a 
+863,CONTENT,0,7 content marker(s),224,7,0,0,29,15,0.575,0.4146,0.0058,True,5f8aa085fd,1,False,False,14,,,Q. 14 | Let  |  be the foot of perpendicular drawn from the point 
+864,CONTENT,0,7 content marker(s),143,7,0,0,29,10,0.4711,0.4146,0.0058,True,3997a3eb6f,1,False,False,15,,,"Q. 15 | If  |  are coplanar, then the product of all"
+865,CONTENT,0,6 content marker(s),361,6,0,0,29,8,0.6106,0.4146,0.0058,True,d8dd0fec14,1,False,False,16,,,"Q. 16 | Bag I contains 3 red, 4 black and 3 white balls and Bag II contains 2 red, 5 black"
+866,CONTENT,0,7 content marker(s),142,7,0,0,29,13,0.5667,0.4146,0.0058,True,25b37fd575,1,False,False,17,,,Solution: | Q. 17 | Let 
+867,CONTENT,0,6 content marker(s),210,6,0,0,27,10,0.6389,0.4146,0.0052,True,17f8d1aa7a,1,False,False,18,,,Solution: | Q. 18 | Let 
+868,CONTENT,0,6 content marker(s),98,6,0,0,27,9,0.5775,0.4146,0.0058,True,e2fe3beceb,1,False,False,19,,,Correct Answer: | Solution: | Q. 19
+869,CONTENT,0,8 content marker(s),122,8,0,0,31,10,0.5949,0.4146,0.0058,True,05445a8542,1,False,False,20,,,Option 4: | Correct Answer: | Solution:
+870,CONTENT,0,5 content marker(s),226,5,0,0,24,6,0.5495,0.4146,0.0058,True,c70932e20f,1,False,False,21,,,Correct Answer: | Solution: | Q. 21
+871,CONTENT,0,5 content marker(s),176,5,0,0,29,8,0.6689,0.4146,0.0052,True,f2af0f35a6,1,False,False,22 23,,,Q. 22 | Let  |  be the roots of the quadratic equation 
+872,CONTENT,0,4 content marker(s),225,4,0,0,22,4,0.608,0.4146,0.0052,True,0079e99c4d,1,False,False,24,,,Solution: | Q. 24 | The number of natural numbers lying between 1012 and 23421 that can be
+873,CONTENT,0,6 content marker(s),261,6,0,0,29,10,0.6444,0.4146,0.0052,True,bef314a65d,1,False,False,25 26,,,"Q. 25 | If   |  , then  is equal to ___________."
+874,CONTENT,0,3 content marker(s),156,3,0,0,22,9,0.6811,0.4146,0.0052,True,4031f04a1a,1,False,False,27,,,Q. 27 | If the tangent to the curve  |  at the point 
+875,CONTENT,0,3 content marker(s),231,3,0,0,22,10,0.5823,0.4146,0.0052,True,3b565b3a5a,1,False,False,28,,,Q. 28 | Let  |  be a chord of length 12 of the circle 
+876,CONTENT,0,6 content marker(s),178,6,0,0,29,11,0.5618,0.4146,0.0052,True,434dd436fa,1,False,False,29 30,,,Q. 29 | Let  |  be two vectors such that
+877,REVIEW,1,ambiguous (score 1): outside question range (front/back matter),3,0,0,0,15,4,0.5879,0.4146,0.0052,True,f06aec596b,1,False,True,,,,877
+878,AD,3,"no markers; hyperlink x3, outside question range (front/back matter)",1654,0,0,3,45,5,0.4418,0.4149,0.0303,True,6688bf0a26,1,False,True,,,,Other Useful  | Resources | A

@@ -1,0 +1,676 @@
+q_id,section_index,paper,subject_label,q_no,content_page,page_end,original_page,orig_page_end
+S01|Physics|Q001,1,,Physics,1,1,1,4,4
+S01|Physics|Q002,1,,Physics,2,1,2,4,5
+S01|Physics|Q003,1,,Physics,3,2,3,5,6
+S01|Physics|Q004,1,,Physics,4,3,4,6,7
+S01|Physics|Q005,1,,Physics,5,4,5,7,8
+S01|Physics|Q006,1,,Physics,6,5,6,8,9
+S01|Physics|Q007,1,,Physics,7,6,7,9,10
+S01|Physics|Q008,1,,Physics,8,7,7,10,10
+S01|Physics|Q009,1,,Physics,9,7,8,10,11
+S01|Physics|Q010,1,,Physics,10,8,9,11,12
+S01|Physics|Q011,1,,Physics,11,9,10,12,13
+S01|Physics|Q012,1,,Physics,12,10,11,13,14
+S01|Physics|Q013,1,,Physics,13,11,12,14,15
+S01|Physics|Q014,1,,Physics,14,12,13,15,16
+S01|Physics|Q015,1,,Physics,15,13,14,16,17
+S01|Physics|Q016,1,,Physics,16,14,14,17,17
+S01|Physics|Q017,1,,Physics,17,14,15,17,18
+S01|Physics|Q018,1,,Physics,18,15,16,18,19
+S01|Physics|Q019,1,,Physics,19,16,17,19,20
+S01|Physics|Q020,1,,Physics,20,17,17,20,20
+S01|Physics|Q021,1,,Physics,21,17,18,20,21
+S01|Physics|Q022,1,,Physics,22,18,18,21,21
+S01|Physics|Q023,1,,Physics,23,18,19,21,22
+S01|Physics|Q024,1,,Physics,24,19,19,22,22
+S01|Physics|Q025,1,,Physics,25,19,20,22,23
+S02|Chemistry|Q001,2,,Chemistry,1,20,21,23,24
+S02|Chemistry|Q002,2,,Chemistry,2,21,21,24,24
+S02|Chemistry|Q003,2,,Chemistry,3,21,22,24,25
+S02|Chemistry|Q004,2,,Chemistry,4,22,23,25,26
+S02|Chemistry|Q005,2,,Chemistry,5,23,24,26,27
+S02|Chemistry|Q006,2,,Chemistry,6,24,25,27,28
+S02|Chemistry|Q007,2,,Chemistry,7,25,26,28,29
+S02|Chemistry|Q008,2,,Chemistry,8,26,27,29,30
+S02|Chemistry|Q009,2,,Chemistry,9,27,28,30,31
+S02|Chemistry|Q010,2,,Chemistry,10,28,28,31,31
+S02|Chemistry|Q011,2,,Chemistry,11,28,29,31,32
+S02|Chemistry|Q012,2,,Chemistry,12,29,30,32,33
+S02|Chemistry|Q013,2,,Chemistry,13,30,31,33,34
+S02|Chemistry|Q014,2,,Chemistry,14,31,31,34,34
+S02|Chemistry|Q015,2,,Chemistry,15,31,32,34,35
+S02|Chemistry|Q016,2,,Chemistry,16,32,33,35,36
+S02|Chemistry|Q017,2,,Chemistry,17,33,34,36,37
+S02|Chemistry|Q018,2,,Chemistry,18,34,35,37,38
+S02|Chemistry|Q019,2,,Chemistry,19,35,36,38,39
+S02|Chemistry|Q020,2,,Chemistry,20,36,36,39,39
+S02|Chemistry|Q021,2,,Chemistry,21,36,37,39,40
+S02|Chemistry|Q022,2,,Chemistry,22,37,37,40,40
+S02|Chemistry|Q023,2,,Chemistry,23,37,38,40,41
+S02|Chemistry|Q024,2,,Chemistry,24,38,38,41,41
+S02|Chemistry|Q025,2,,Chemistry,25,38,39,41,42
+S03|Mathematics|Q001,3,,Mathematics,1,39,40,42,43
+S03|Mathematics|Q002,3,,Mathematics,2,40,41,43,44
+S03|Mathematics|Q003,3,,Mathematics,3,41,42,44,45
+S03|Mathematics|Q004,3,,Mathematics,4,42,43,45,46
+S03|Mathematics|Q005,3,,Mathematics,5,43,44,46,47
+S03|Mathematics|Q006,3,,Mathematics,6,44,44,47,47
+S03|Mathematics|Q007,3,,Mathematics,7,44,45,47,48
+S03|Mathematics|Q008,3,,Mathematics,8,45,46,48,49
+S03|Mathematics|Q009,3,,Mathematics,9,46,46,49,49
+S03|Mathematics|Q010,3,,Mathematics,10,46,47,49,50
+S03|Mathematics|Q011,3,,Mathematics,11,47,48,50,51
+S03|Mathematics|Q012,3,,Mathematics,12,48,49,51,52
+S03|Mathematics|Q013,3,,Mathematics,13,49,50,52,53
+S03|Mathematics|Q014,3,,Mathematics,14,50,51,53,54
+S03|Mathematics|Q015,3,,Mathematics,15,51,52,54,55
+S03|Mathematics|Q016,3,,Mathematics,16,52,53,55,56
+S03|Mathematics|Q017,3,,Mathematics,17,53,54,56,57
+S03|Mathematics|Q018,3,,Mathematics,18,54,55,57,58
+S03|Mathematics|Q019,3,,Mathematics,19,55,55,58,58
+S03|Mathematics|Q020,3,,Mathematics,20,55,56,58,59
+S03|Mathematics|Q021,3,,Mathematics,21,56,57,59,60
+S03|Mathematics|Q022,3,,Mathematics,22,57,58,60,61
+S03|Mathematics|Q023,3,,Mathematics,23,58,58,61,61
+S03|Mathematics|Q024,3,,Mathematics,24,58,59,61,62
+S03|Mathematics|Q025,3,,Mathematics,25,59,61,62,64
+S04|Physics|Q001,4,2nd April 2nd Shift,Physics,1,61,61,64,64
+S04|Physics|Q002,4,2nd April 2nd Shift,Physics,2,61,63,64,66
+S04|Physics|Q003,4,2nd April 2nd Shift,Physics,3,63,64,66,67
+S04|Physics|Q004,4,2nd April 2nd Shift,Physics,4,64,65,67,68
+S04|Physics|Q005,4,2nd April 2nd Shift,Physics,5,65,65,68,68
+S04|Physics|Q006,4,2nd April 2nd Shift,Physics,6,65,66,68,69
+S04|Physics|Q007,4,2nd April 2nd Shift,Physics,7,66,67,69,70
+S04|Physics|Q008,4,2nd April 2nd Shift,Physics,8,67,68,70,71
+S04|Physics|Q009,4,2nd April 2nd Shift,Physics,9,68,69,71,72
+S04|Physics|Q010,4,2nd April 2nd Shift,Physics,10,69,70,72,73
+S04|Physics|Q011,4,2nd April 2nd Shift,Physics,11,70,71,73,74
+S04|Physics|Q012,4,2nd April 2nd Shift,Physics,12,71,71,74,74
+S04|Physics|Q013,4,2nd April 2nd Shift,Physics,13,71,72,74,75
+S04|Physics|Q014,4,2nd April 2nd Shift,Physics,14,72,73,75,76
+S04|Physics|Q015,4,2nd April 2nd Shift,Physics,15,73,74,76,77
+S04|Physics|Q016,4,2nd April 2nd Shift,Physics,16,74,75,77,78
+S04|Physics|Q017,4,2nd April 2nd Shift,Physics,17,75,76,78,79
+S04|Physics|Q018,4,2nd April 2nd Shift,Physics,18,76,77,79,80
+S04|Physics|Q019,4,2nd April 2nd Shift,Physics,19,77,78,80,81
+S04|Physics|Q020,4,2nd April 2nd Shift,Physics,20,78,78,81,81
+S04|Physics|Q021,4,2nd April 2nd Shift,Physics,21,78,79,81,82
+S04|Physics|Q022,4,2nd April 2nd Shift,Physics,22,79,80,82,83
+S04|Physics|Q023,4,2nd April 2nd Shift,Physics,23,80,80,83,83
+S04|Physics|Q024,4,2nd April 2nd Shift,Physics,24,80,81,83,84
+S04|Physics|Q025,4,2nd April 2nd Shift,Physics,25,81,81,84,84
+S05|Chemistry|Q001,5,2nd April 2nd Shift,Chemistry,1,81,82,84,85
+S05|Chemistry|Q002,5,2nd April 2nd Shift,Chemistry,2,82,83,85,86
+S05|Chemistry|Q003,5,2nd April 2nd Shift,Chemistry,3,83,84,86,87
+S05|Chemistry|Q004,5,2nd April 2nd Shift,Chemistry,4,84,85,87,88
+S05|Chemistry|Q005,5,2nd April 2nd Shift,Chemistry,5,85,86,88,89
+S05|Chemistry|Q006,5,2nd April 2nd Shift,Chemistry,6,86,87,89,90
+S05|Chemistry|Q007,5,2nd April 2nd Shift,Chemistry,7,87,88,90,91
+S05|Chemistry|Q008,5,2nd April 2nd Shift,Chemistry,8,88,89,91,92
+S05|Chemistry|Q009,5,2nd April 2nd Shift,Chemistry,9,89,90,92,93
+S05|Chemistry|Q010,5,2nd April 2nd Shift,Chemistry,10,90,91,93,94
+S05|Chemistry|Q011,5,2nd April 2nd Shift,Chemistry,11,91,91,94,94
+S05|Chemistry|Q012,5,2nd April 2nd Shift,Chemistry,12,91,92,94,95
+S05|Chemistry|Q013,5,2nd April 2nd Shift,Chemistry,13,92,93,95,96
+S05|Chemistry|Q014,5,2nd April 2nd Shift,Chemistry,14,93,94,96,97
+S05|Chemistry|Q015,5,2nd April 2nd Shift,Chemistry,15,94,95,97,98
+S05|Chemistry|Q016,5,2nd April 2nd Shift,Chemistry,16,95,96,98,99
+S05|Chemistry|Q017,5,2nd April 2nd Shift,Chemistry,17,96,97,99,100
+S05|Chemistry|Q018,5,2nd April 2nd Shift,Chemistry,18,97,98,100,101
+S05|Chemistry|Q019,5,2nd April 2nd Shift,Chemistry,19,98,99,101,102
+S05|Chemistry|Q020,5,2nd April 2nd Shift,Chemistry,20,99,99,102,102
+S05|Chemistry|Q021,5,2nd April 2nd Shift,Chemistry,21,99,100,102,103
+S05|Chemistry|Q022,5,2nd April 2nd Shift,Chemistry,22,100,101,103,104
+S05|Chemistry|Q023,5,2nd April 2nd Shift,Chemistry,23,101,101,104,104
+S05|Chemistry|Q024,5,2nd April 2nd Shift,Chemistry,24,101,102,104,105
+S05|Chemistry|Q025,5,2nd April 2nd Shift,Chemistry,25,102,103,105,106
+S06|Mathematics|Q001,6,2nd April 2nd Shift,Mathematics,1,103,103,106,106
+S06|Mathematics|Q002,6,2nd April 2nd Shift,Mathematics,2,103,104,106,107
+S06|Mathematics|Q003,6,2nd April 2nd Shift,Mathematics,3,104,105,107,108
+S06|Mathematics|Q004,6,2nd April 2nd Shift,Mathematics,4,105,106,108,109
+S06|Mathematics|Q005,6,2nd April 2nd Shift,Mathematics,5,106,107,109,110
+S06|Mathematics|Q006,6,2nd April 2nd Shift,Mathematics,6,107,107,110,110
+S06|Mathematics|Q007,6,2nd April 2nd Shift,Mathematics,7,107,108,110,111
+S06|Mathematics|Q008,6,2nd April 2nd Shift,Mathematics,8,108,109,111,112
+S06|Mathematics|Q009,6,2nd April 2nd Shift,Mathematics,9,109,109,112,112
+S06|Mathematics|Q010,6,2nd April 2nd Shift,Mathematics,10,109,111,112,114
+S06|Mathematics|Q011,6,2nd April 2nd Shift,Mathematics,11,111,112,114,115
+S06|Mathematics|Q012,6,2nd April 2nd Shift,Mathematics,12,112,112,115,115
+S06|Mathematics|Q013,6,2nd April 2nd Shift,Mathematics,13,112,113,115,116
+S06|Mathematics|Q014,6,2nd April 2nd Shift,Mathematics,14,113,114,116,117
+S06|Mathematics|Q015,6,2nd April 2nd Shift,Mathematics,15,114,115,117,118
+S06|Mathematics|Q016,6,2nd April 2nd Shift,Mathematics,16,115,116,118,119
+S06|Mathematics|Q017,6,2nd April 2nd Shift,Mathematics,17,116,117,119,120
+S06|Mathematics|Q018,6,2nd April 2nd Shift,Mathematics,18,117,118,120,121
+S06|Mathematics|Q019,6,2nd April 2nd Shift,Mathematics,19,118,119,121,122
+S06|Mathematics|Q020,6,2nd April 2nd Shift,Mathematics,20,119,120,122,123
+S06|Mathematics|Q021,6,2nd April 2nd Shift,Mathematics,21,120,120,123,123
+S06|Mathematics|Q022,6,2nd April 2nd Shift,Mathematics,22,120,121,123,124
+S06|Mathematics|Q023,6,2nd April 2nd Shift,Mathematics,23,121,122,124,125
+S06|Mathematics|Q024,6,2nd April 2nd Shift,Mathematics,24,122,123,125,126
+S06|Mathematics|Q025,6,2nd April 2nd Shift,Mathematics,25,123,125,126,128
+S07|Physics|Q001,7,4th April 1st Shift,Physics,1,125,125,128,128
+S07|Physics|Q002,7,4th April 1st Shift,Physics,2,125,126,128,129
+S07|Physics|Q003,7,4th April 1st Shift,Physics,3,126,127,129,130
+S07|Physics|Q004,7,4th April 1st Shift,Physics,4,127,128,130,131
+S07|Physics|Q005,7,4th April 1st Shift,Physics,5,128,129,131,132
+S07|Physics|Q006,7,4th April 1st Shift,Physics,6,129,130,132,133
+S07|Physics|Q007,7,4th April 1st Shift,Physics,7,130,131,133,134
+S07|Physics|Q008,7,4th April 1st Shift,Physics,8,131,132,134,135
+S07|Physics|Q009,7,4th April 1st Shift,Physics,9,132,133,135,136
+S07|Physics|Q010,7,4th April 1st Shift,Physics,10,133,133,136,136
+S07|Physics|Q011,7,4th April 1st Shift,Physics,11,133,134,136,137
+S07|Physics|Q012,7,4th April 1st Shift,Physics,12,134,135,137,138
+S07|Physics|Q013,7,4th April 1st Shift,Physics,13,135,136,138,139
+S07|Physics|Q014,7,4th April 1st Shift,Physics,14,136,137,139,140
+S07|Physics|Q015,7,4th April 1st Shift,Physics,15,137,138,140,141
+S07|Physics|Q016,7,4th April 1st Shift,Physics,16,138,139,141,142
+S07|Physics|Q017,7,4th April 1st Shift,Physics,17,139,140,142,143
+S07|Physics|Q018,7,4th April 1st Shift,Physics,18,140,141,143,144
+S07|Physics|Q019,7,4th April 1st Shift,Physics,19,141,142,144,145
+S07|Physics|Q020,7,4th April 1st Shift,Physics,20,142,142,145,145
+S07|Physics|Q021,7,4th April 1st Shift,Physics,21,142,143,145,146
+S07|Physics|Q022,7,4th April 1st Shift,Physics,22,143,143,146,146
+S07|Physics|Q023,7,4th April 1st Shift,Physics,23,143,144,146,147
+S07|Physics|Q024,7,4th April 1st Shift,Physics,24,144,144,147,147
+S07|Physics|Q025,7,4th April 1st Shift,Physics,25,144,145,147,148
+S08|Chemistry|Q001,8,4th April 1st Shift,Chemistry,1,145,146,148,149
+S08|Chemistry|Q002,8,4th April 1st Shift,Chemistry,2,146,146,149,149
+S08|Chemistry|Q003,8,4th April 1st Shift,Chemistry,3,146,147,149,150
+S08|Chemistry|Q004,8,4th April 1st Shift,Chemistry,4,147,148,150,151
+S08|Chemistry|Q005,8,4th April 1st Shift,Chemistry,5,148,149,151,152
+S08|Chemistry|Q006,8,4th April 1st Shift,Chemistry,6,149,149,152,152
+S08|Chemistry|Q007,8,4th April 1st Shift,Chemistry,7,149,150,152,153
+S08|Chemistry|Q008,8,4th April 1st Shift,Chemistry,8,150,151,153,154
+S08|Chemistry|Q009,8,4th April 1st Shift,Chemistry,9,151,151,154,154
+S08|Chemistry|Q010,8,4th April 1st Shift,Chemistry,10,151,152,154,155
+S08|Chemistry|Q011,8,4th April 1st Shift,Chemistry,11,152,154,155,157
+S08|Chemistry|Q012,8,4th April 1st Shift,Chemistry,12,154,155,157,158
+S08|Chemistry|Q013,8,4th April 1st Shift,Chemistry,13,155,155,158,158
+S08|Chemistry|Q014,8,4th April 1st Shift,Chemistry,14,155,157,158,160
+S08|Chemistry|Q015,8,4th April 1st Shift,Chemistry,15,157,158,160,161
+S08|Chemistry|Q016,8,4th April 1st Shift,Chemistry,16,158,158,161,161
+S08|Chemistry|Q017,8,4th April 1st Shift,Chemistry,17,158,160,161,163
+S08|Chemistry|Q018,8,4th April 1st Shift,Chemistry,18,160,161,163,164
+S08|Chemistry|Q019,8,4th April 1st Shift,Chemistry,19,161,162,164,165
+S08|Chemistry|Q020,8,4th April 1st Shift,Chemistry,20,162,162,165,165
+S08|Chemistry|Q021,8,4th April 1st Shift,Chemistry,21,162,163,165,166
+S08|Chemistry|Q022,8,4th April 1st Shift,Chemistry,22,163,164,166,167
+S08|Chemistry|Q023,8,4th April 1st Shift,Chemistry,23,164,164,167,167
+S08|Chemistry|Q024,8,4th April 1st Shift,Chemistry,24,164,165,167,168
+S08|Chemistry|Q025,8,4th April 1st Shift,Chemistry,25,165,165,168,168
+S09|Mathematics|Q001,9,4th April 1st Shift,Mathematics,1,165,166,168,169
+S09|Mathematics|Q002,9,4th April 1st Shift,Mathematics,2,166,167,169,170
+S09|Mathematics|Q003,9,4th April 1st Shift,Mathematics,3,167,167,170,170
+S09|Mathematics|Q004,9,4th April 1st Shift,Mathematics,4,167,168,170,171
+S09|Mathematics|Q005,9,4th April 1st Shift,Mathematics,5,168,169,171,172
+S09|Mathematics|Q006,9,4th April 1st Shift,Mathematics,6,169,170,172,173
+S09|Mathematics|Q007,9,4th April 1st Shift,Mathematics,7,170,171,173,174
+S09|Mathematics|Q008,9,4th April 1st Shift,Mathematics,8,171,171,174,174
+S09|Mathematics|Q009,9,4th April 1st Shift,Mathematics,9,171,172,174,175
+S09|Mathematics|Q010,9,4th April 1st Shift,Mathematics,10,172,173,175,176
+S09|Mathematics|Q011,9,4th April 1st Shift,Mathematics,11,173,174,176,177
+S09|Mathematics|Q012,9,4th April 1st Shift,Mathematics,12,174,175,177,178
+S09|Mathematics|Q013,9,4th April 1st Shift,Mathematics,13,175,176,178,179
+S09|Mathematics|Q014,9,4th April 1st Shift,Mathematics,14,176,177,179,180
+S09|Mathematics|Q015,9,4th April 1st Shift,Mathematics,15,177,178,180,181
+S09|Mathematics|Q016,9,4th April 1st Shift,Mathematics,16,178,178,181,181
+S09|Mathematics|Q017,9,4th April 1st Shift,Mathematics,17,178,179,181,182
+S09|Mathematics|Q018,9,4th April 1st Shift,Mathematics,18,179,180,182,183
+S09|Mathematics|Q019,9,4th April 1st Shift,Mathematics,19,180,181,183,184
+S09|Mathematics|Q020,9,4th April 1st Shift,Mathematics,20,181,182,184,185
+S09|Mathematics|Q021,9,4th April 1st Shift,Mathematics,21,182,183,185,186
+S09|Mathematics|Q022,9,4th April 1st Shift,Mathematics,22,183,183,186,186
+S09|Mathematics|Q023,9,4th April 1st Shift,Mathematics,23,183,184,186,187
+S09|Mathematics|Q024,9,4th April 1st Shift,Mathematics,24,184,185,187,188
+S09|Mathematics|Q025,9,4th April 1st Shift,Mathematics,25,185,187,188,190
+S10|Physics|Q001,10,4th April 2nd Shift,Physics,1,187,188,190,191
+S10|Physics|Q002,10,4th April 2nd Shift,Physics,2,188,188,191,191
+S10|Physics|Q003,10,4th April 2nd Shift,Physics,3,188,189,191,192
+S10|Physics|Q004,10,4th April 2nd Shift,Physics,4,189,190,192,193
+S10|Physics|Q005,10,4th April 2nd Shift,Physics,5,190,191,193,194
+S10|Physics|Q006,10,4th April 2nd Shift,Physics,6,191,192,194,195
+S10|Physics|Q007,10,4th April 2nd Shift,Physics,7,192,193,195,196
+S10|Physics|Q008,10,4th April 2nd Shift,Physics,8,193,193,196,196
+S10|Physics|Q009,10,4th April 2nd Shift,Physics,9,193,194,196,197
+S10|Physics|Q010,10,4th April 2nd Shift,Physics,10,194,195,197,198
+S10|Physics|Q011,10,4th April 2nd Shift,Physics,11,195,196,198,199
+S10|Physics|Q012,10,4th April 2nd Shift,Physics,12,196,197,199,200
+S10|Physics|Q013,10,4th April 2nd Shift,Physics,13,197,198,200,201
+S10|Physics|Q014,10,4th April 2nd Shift,Physics,14,198,198,201,201
+S10|Physics|Q015,10,4th April 2nd Shift,Physics,15,198,199,201,202
+S10|Physics|Q016,10,4th April 2nd Shift,Physics,16,199,200,202,203
+S10|Physics|Q017,10,4th April 2nd Shift,Physics,17,200,201,203,204
+S10|Physics|Q018,10,4th April 2nd Shift,Physics,18,201,202,204,205
+S10|Physics|Q019,10,4th April 2nd Shift,Physics,19,202,203,205,206
+S10|Physics|Q020,10,4th April 2nd Shift,Physics,20,203,203,206,206
+S10|Physics|Q021,10,4th April 2nd Shift,Physics,21,203,204,206,207
+S10|Physics|Q022,10,4th April 2nd Shift,Physics,22,204,204,207,207
+S10|Physics|Q023,10,4th April 2nd Shift,Physics,23,204,205,207,208
+S10|Physics|Q024,10,4th April 2nd Shift,Physics,24,205,205,208,208
+S10|Physics|Q025,10,4th April 2nd Shift,Physics,25,205,206,208,209
+S11|Chemistry|Q001,11,4th April 2nd Shift,Chemistry,1,206,207,209,210
+S11|Chemistry|Q002,11,4th April 2nd Shift,Chemistry,2,207,207,210,210
+S11|Chemistry|Q003,11,4th April 2nd Shift,Chemistry,3,207,209,210,212
+S11|Chemistry|Q004,11,4th April 2nd Shift,Chemistry,4,209,209,212,212
+S11|Chemistry|Q005,11,4th April 2nd Shift,Chemistry,5,209,210,212,213
+S11|Chemistry|Q006,11,4th April 2nd Shift,Chemistry,6,210,211,213,214
+S11|Chemistry|Q007,11,4th April 2nd Shift,Chemistry,7,211,212,214,215
+S11|Chemistry|Q008,11,4th April 2nd Shift,Chemistry,8,212,213,215,216
+S11|Chemistry|Q009,11,4th April 2nd Shift,Chemistry,9,213,214,216,217
+S11|Chemistry|Q010,11,4th April 2nd Shift,Chemistry,10,214,214,217,217
+S11|Chemistry|Q011,11,4th April 2nd Shift,Chemistry,11,214,215,217,218
+S11|Chemistry|Q012,11,4th April 2nd Shift,Chemistry,12,215,216,218,219
+S11|Chemistry|Q013,11,4th April 2nd Shift,Chemistry,13,216,217,219,220
+S11|Chemistry|Q014,11,4th April 2nd Shift,Chemistry,14,217,218,220,221
+S11|Chemistry|Q015,11,4th April 2nd Shift,Chemistry,15,218,219,221,222
+S11|Chemistry|Q016,11,4th April 2nd Shift,Chemistry,16,219,220,222,223
+S11|Chemistry|Q017,11,4th April 2nd Shift,Chemistry,17,220,221,223,224
+S11|Chemistry|Q018,11,4th April 2nd Shift,Chemistry,18,221,223,224,226
+S11|Chemistry|Q019,11,4th April 2nd Shift,Chemistry,19,223,224,226,227
+S11|Chemistry|Q020,11,4th April 2nd Shift,Chemistry,20,224,225,227,228
+S11|Chemistry|Q021,11,4th April 2nd Shift,Chemistry,21,225,225,228,228
+S11|Chemistry|Q022,11,4th April 2nd Shift,Chemistry,22,225,226,228,229
+S11|Chemistry|Q023,11,4th April 2nd Shift,Chemistry,23,226,227,229,230
+S11|Chemistry|Q024,11,4th April 2nd Shift,Chemistry,24,227,227,230,230
+S11|Chemistry|Q025,11,4th April 2nd Shift,Chemistry,25,227,228,230,231
+S12|Mathematics|Q001,12,4th April 2nd Shift,Mathematics,1,228,229,231,232
+S12|Mathematics|Q002,12,4th April 2nd Shift,Mathematics,2,229,230,232,233
+S12|Mathematics|Q003,12,4th April 2nd Shift,Mathematics,3,230,231,233,234
+S12|Mathematics|Q004,12,4th April 2nd Shift,Mathematics,4,231,231,234,234
+S12|Mathematics|Q005,12,4th April 2nd Shift,Mathematics,5,231,232,234,235
+S12|Mathematics|Q006,12,4th April 2nd Shift,Mathematics,6,232,233,235,236
+S12|Mathematics|Q007,12,4th April 2nd Shift,Mathematics,7,233,234,236,237
+S12|Mathematics|Q008,12,4th April 2nd Shift,Mathematics,8,234,235,237,238
+S12|Mathematics|Q009,12,4th April 2nd Shift,Mathematics,9,235,236,238,239
+S12|Mathematics|Q010,12,4th April 2nd Shift,Mathematics,10,236,237,239,240
+S12|Mathematics|Q011,12,4th April 2nd Shift,Mathematics,11,237,238,240,241
+S12|Mathematics|Q012,12,4th April 2nd Shift,Mathematics,12,238,239,241,242
+S12|Mathematics|Q013,12,4th April 2nd Shift,Mathematics,13,239,240,242,243
+S12|Mathematics|Q014,12,4th April 2nd Shift,Mathematics,14,240,241,243,244
+S12|Mathematics|Q015,12,4th April 2nd Shift,Mathematics,15,241,242,244,245
+S12|Mathematics|Q016,12,4th April 2nd Shift,Mathematics,16,242,243,245,246
+S12|Mathematics|Q017,12,4th April 2nd Shift,Mathematics,17,243,244,246,247
+S12|Mathematics|Q018,12,4th April 2nd Shift,Mathematics,18,244,245,247,248
+S12|Mathematics|Q019,12,4th April 2nd Shift,Mathematics,19,245,246,248,249
+S12|Mathematics|Q020,12,4th April 2nd Shift,Mathematics,20,246,247,249,250
+S12|Mathematics|Q021,12,4th April 2nd Shift,Mathematics,21,247,247,250,250
+S12|Mathematics|Q022,12,4th April 2nd Shift,Mathematics,22,247,248,250,251
+S12|Mathematics|Q023,12,4th April 2nd Shift,Mathematics,23,248,249,251,252
+S12|Mathematics|Q024,12,4th April 2nd Shift,Mathematics,24,249,250,252,253
+S12|Mathematics|Q025,12,4th April 2nd Shift,Mathematics,25,250,253,253,256
+S13|Physics|Q001,13,5th April 1st Shift,Physics,1,253,253,256,256
+S13|Physics|Q002,13,5th April 1st Shift,Physics,2,253,254,256,257
+S13|Physics|Q003,13,5th April 1st Shift,Physics,3,254,255,257,258
+S13|Physics|Q004,13,5th April 1st Shift,Physics,4,255,257,258,260
+S13|Physics|Q005,13,5th April 1st Shift,Physics,5,257,258,260,261
+S13|Physics|Q006,13,5th April 1st Shift,Physics,6,258,259,261,262
+S13|Physics|Q007,13,5th April 1st Shift,Physics,7,259,260,262,263
+S13|Physics|Q008,13,5th April 1st Shift,Physics,8,260,260,263,263
+S13|Physics|Q009,13,5th April 1st Shift,Physics,9,260,262,263,265
+S13|Physics|Q010,13,5th April 1st Shift,Physics,10,262,263,265,266
+S13|Physics|Q011,13,5th April 1st Shift,Physics,11,263,264,266,267
+S13|Physics|Q012,13,5th April 1st Shift,Physics,12,264,264,267,267
+S13|Physics|Q013,13,5th April 1st Shift,Physics,13,264,266,267,269
+S13|Physics|Q014,13,5th April 1st Shift,Physics,14,266,266,269,269
+S13|Physics|Q015,13,5th April 1st Shift,Physics,15,266,267,269,270
+S13|Physics|Q016,13,5th April 1st Shift,Physics,16,267,268,270,271
+S13|Physics|Q017,13,5th April 1st Shift,Physics,17,268,269,271,272
+S13|Physics|Q018,13,5th April 1st Shift,Physics,18,269,270,272,273
+S13|Physics|Q019,13,5th April 1st Shift,Physics,19,270,271,273,274
+S13|Physics|Q020,13,5th April 1st Shift,Physics,20,271,272,274,275
+S13|Physics|Q021,13,5th April 1st Shift,Physics,21,272,272,275,275
+S13|Physics|Q022,13,5th April 1st Shift,Physics,22,272,273,275,276
+S13|Physics|Q023,13,5th April 1st Shift,Physics,23,273,273,276,276
+S13|Physics|Q024,13,5th April 1st Shift,Physics,24,273,274,276,277
+S13|Physics|Q025,13,5th April 1st Shift,Physics,25,274,274,277,277
+S14|Chemistry|Q001,14,5th April 1st Shift,Chemistry,1,274,275,277,278
+S14|Chemistry|Q002,14,5th April 1st Shift,Chemistry,2,275,276,278,279
+S14|Chemistry|Q003,14,5th April 1st Shift,Chemistry,3,276,276,279,279
+S14|Chemistry|Q004,14,5th April 1st Shift,Chemistry,4,276,277,279,280
+S14|Chemistry|Q005,14,5th April 1st Shift,Chemistry,5,277,278,280,281
+S14|Chemistry|Q006,14,5th April 1st Shift,Chemistry,6,278,279,281,282
+S14|Chemistry|Q007,14,5th April 1st Shift,Chemistry,7,279,280,282,283
+S14|Chemistry|Q008,14,5th April 1st Shift,Chemistry,8,280,281,283,284
+S14|Chemistry|Q009,14,5th April 1st Shift,Chemistry,9,281,282,284,285
+S14|Chemistry|Q010,14,5th April 1st Shift,Chemistry,10,282,283,285,286
+S14|Chemistry|Q011,14,5th April 1st Shift,Chemistry,11,283,284,286,287
+S14|Chemistry|Q012,14,5th April 1st Shift,Chemistry,12,284,285,287,288
+S14|Chemistry|Q013,14,5th April 1st Shift,Chemistry,13,285,286,288,289
+S14|Chemistry|Q014,14,5th April 1st Shift,Chemistry,14,286,287,289,290
+S14|Chemistry|Q015,14,5th April 1st Shift,Chemistry,15,287,288,290,291
+S14|Chemistry|Q016,14,5th April 1st Shift,Chemistry,16,288,289,291,292
+S14|Chemistry|Q017,14,5th April 1st Shift,Chemistry,17,289,290,292,293
+S14|Chemistry|Q018,14,5th April 1st Shift,Chemistry,18,290,292,293,295
+S14|Chemistry|Q019,14,5th April 1st Shift,Chemistry,19,292,292,295,295
+S14|Chemistry|Q020,14,5th April 1st Shift,Chemistry,20,292,293,295,296
+S14|Chemistry|Q021,14,5th April 1st Shift,Chemistry,21,293,294,296,297
+S14|Chemistry|Q022,14,5th April 1st Shift,Chemistry,22,294,294,297,297
+S14|Chemistry|Q023,14,5th April 1st Shift,Chemistry,23,294,295,297,298
+S14|Chemistry|Q024,14,5th April 1st Shift,Chemistry,24,295,296,298,299
+S14|Chemistry|Q025,14,5th April 1st Shift,Chemistry,25,296,296,299,299
+S15|Mathematics|Q001,15,5th April 1st Shift,Mathematics,1,296,297,299,300
+S15|Mathematics|Q002,15,5th April 1st Shift,Mathematics,2,297,298,300,301
+S15|Mathematics|Q003,15,5th April 1st Shift,Mathematics,3,298,299,301,302
+S15|Mathematics|Q004,15,5th April 1st Shift,Mathematics,4,299,300,302,303
+S15|Mathematics|Q005,15,5th April 1st Shift,Mathematics,5,300,301,303,304
+S15|Mathematics|Q006,15,5th April 1st Shift,Mathematics,6,301,302,304,305
+S15|Mathematics|Q007,15,5th April 1st Shift,Mathematics,7,302,303,305,306
+S15|Mathematics|Q008,15,5th April 1st Shift,Mathematics,8,303,303,306,306
+S15|Mathematics|Q009,15,5th April 1st Shift,Mathematics,9,303,304,306,307
+S15|Mathematics|Q010,15,5th April 1st Shift,Mathematics,10,304,305,307,308
+S15|Mathematics|Q011,15,5th April 1st Shift,Mathematics,11,305,306,308,309
+S15|Mathematics|Q012,15,5th April 1st Shift,Mathematics,12,306,307,309,310
+S15|Mathematics|Q013,15,5th April 1st Shift,Mathematics,13,307,307,310,310
+S15|Mathematics|Q014,15,5th April 1st Shift,Mathematics,14,307,308,310,311
+S15|Mathematics|Q015,15,5th April 1st Shift,Mathematics,15,308,309,311,312
+S15|Mathematics|Q016,15,5th April 1st Shift,Mathematics,16,309,310,312,313
+S15|Mathematics|Q017,15,5th April 1st Shift,Mathematics,17,310,311,313,314
+S15|Mathematics|Q018,15,5th April 1st Shift,Mathematics,18,311,311,314,314
+S15|Mathematics|Q019,15,5th April 1st Shift,Mathematics,19,311,312,314,315
+S15|Mathematics|Q020,15,5th April 1st Shift,Mathematics,20,312,313,315,316
+S15|Mathematics|Q021,15,5th April 1st Shift,Mathematics,21,313,314,316,317
+S15|Mathematics|Q022,15,5th April 1st Shift,Mathematics,22,314,314,317,317
+S15|Mathematics|Q023,15,5th April 1st Shift,Mathematics,23,314,315,317,318
+S15|Mathematics|Q024,15,5th April 1st Shift,Mathematics,24,315,315,318,318
+S15|Mathematics|Q025,15,5th April 1st Shift,Mathematics,25,315,318,318,321
+S16|Physics|Q001,16,5th April 2nd Shift,Physics,1,318,319,321,322
+S16|Physics|Q002,16,5th April 2nd Shift,Physics,2,319,320,322,323
+S16|Physics|Q003,16,5th April 2nd Shift,Physics,3,320,321,323,324
+S16|Physics|Q004,16,5th April 2nd Shift,Physics,4,321,322,324,325
+S16|Physics|Q005,16,5th April 2nd Shift,Physics,5,322,323,325,326
+S16|Physics|Q006,16,5th April 2nd Shift,Physics,6,323,324,326,327
+S16|Physics|Q007,16,5th April 2nd Shift,Physics,7,324,325,327,328
+S16|Physics|Q008,16,5th April 2nd Shift,Physics,8,325,325,328,328
+S16|Physics|Q009,16,5th April 2nd Shift,Physics,9,325,327,328,330
+S16|Physics|Q010,16,5th April 2nd Shift,Physics,10,327,328,330,331
+S16|Physics|Q011,16,5th April 2nd Shift,Physics,11,328,328,331,331
+S16|Physics|Q012,16,5th April 2nd Shift,Physics,12,328,329,331,332
+S16|Physics|Q013,16,5th April 2nd Shift,Physics,13,329,330,332,333
+S16|Physics|Q014,16,5th April 2nd Shift,Physics,14,330,330,333,333
+S16|Physics|Q015,16,5th April 2nd Shift,Physics,15,330,331,333,334
+S16|Physics|Q016,16,5th April 2nd Shift,Physics,16,331,332,334,335
+S16|Physics|Q017,16,5th April 2nd Shift,Physics,17,332,333,335,336
+S16|Physics|Q018,16,5th April 2nd Shift,Physics,18,333,334,336,337
+S16|Physics|Q019,16,5th April 2nd Shift,Physics,19,334,334,337,337
+S16|Physics|Q020,16,5th April 2nd Shift,Physics,20,334,335,337,338
+S16|Physics|Q021,16,5th April 2nd Shift,Physics,21,335,335,338,338
+S16|Physics|Q022,16,5th April 2nd Shift,Physics,22,335,336,338,339
+S16|Physics|Q023,16,5th April 2nd Shift,Physics,23,336,336,339,339
+S16|Physics|Q024,16,5th April 2nd Shift,Physics,24,336,337,339,340
+S16|Physics|Q025,16,5th April 2nd Shift,Physics,25,337,337,340,340
+S17|Chemistry|Q001,17,5th April 2nd Shift,Chemistry,1,337,338,340,341
+S17|Chemistry|Q002,17,5th April 2nd Shift,Chemistry,2,338,339,341,342
+S17|Chemistry|Q003,17,5th April 2nd Shift,Chemistry,3,339,340,342,343
+S17|Chemistry|Q004,17,5th April 2nd Shift,Chemistry,4,340,341,343,344
+S17|Chemistry|Q005,17,5th April 2nd Shift,Chemistry,5,341,341,344,344
+S17|Chemistry|Q006,17,5th April 2nd Shift,Chemistry,6,341,342,344,345
+S17|Chemistry|Q007,17,5th April 2nd Shift,Chemistry,7,342,343,345,346
+S17|Chemistry|Q008,17,5th April 2nd Shift,Chemistry,8,343,344,346,347
+S17|Chemistry|Q009,17,5th April 2nd Shift,Chemistry,9,344,345,347,348
+S17|Chemistry|Q010,17,5th April 2nd Shift,Chemistry,10,345,346,348,349
+S17|Chemistry|Q011,17,5th April 2nd Shift,Chemistry,11,346,347,349,350
+S17|Chemistry|Q012,17,5th April 2nd Shift,Chemistry,12,347,347,350,350
+S17|Chemistry|Q013,17,5th April 2nd Shift,Chemistry,13,347,348,350,351
+S17|Chemistry|Q014,17,5th April 2nd Shift,Chemistry,14,348,349,351,352
+S17|Chemistry|Q015,17,5th April 2nd Shift,Chemistry,15,349,350,352,353
+S17|Chemistry|Q016,17,5th April 2nd Shift,Chemistry,16,350,351,353,354
+S17|Chemistry|Q017,17,5th April 2nd Shift,Chemistry,17,351,352,354,355
+S17|Chemistry|Q018,17,5th April 2nd Shift,Chemistry,18,352,353,355,356
+S17|Chemistry|Q019,17,5th April 2nd Shift,Chemistry,19,353,354,356,357
+S17|Chemistry|Q020,17,5th April 2nd Shift,Chemistry,20,354,354,357,357
+S17|Chemistry|Q021,17,5th April 2nd Shift,Chemistry,21,354,355,357,358
+S17|Chemistry|Q022,17,5th April 2nd Shift,Chemistry,22,355,355,358,358
+S17|Chemistry|Q023,17,5th April 2nd Shift,Chemistry,23,355,356,358,359
+S17|Chemistry|Q024,17,5th April 2nd Shift,Chemistry,24,356,357,359,360
+S17|Chemistry|Q025,17,5th April 2nd Shift,Chemistry,25,357,357,360,360
+S18|Mathematics|Q001,18,5th April 2nd Shift,Mathematics,1,357,358,360,361
+S18|Mathematics|Q002,18,5th April 2nd Shift,Mathematics,2,358,359,361,362
+S18|Mathematics|Q003,18,5th April 2nd Shift,Mathematics,3,359,360,362,363
+S18|Mathematics|Q004,18,5th April 2nd Shift,Mathematics,4,360,361,363,364
+S18|Mathematics|Q005,18,5th April 2nd Shift,Mathematics,5,361,361,364,364
+S18|Mathematics|Q006,18,5th April 2nd Shift,Mathematics,6,361,362,364,365
+S18|Mathematics|Q007,18,5th April 2nd Shift,Mathematics,7,362,363,365,366
+S18|Mathematics|Q008,18,5th April 2nd Shift,Mathematics,8,363,363,366,366
+S18|Mathematics|Q009,18,5th April 2nd Shift,Mathematics,9,363,364,366,367
+S18|Mathematics|Q010,18,5th April 2nd Shift,Mathematics,10,364,366,367,369
+S18|Mathematics|Q011,18,5th April 2nd Shift,Mathematics,11,366,367,369,370
+S18|Mathematics|Q012,18,5th April 2nd Shift,Mathematics,12,367,367,370,370
+S18|Mathematics|Q013,18,5th April 2nd Shift,Mathematics,13,367,368,370,371
+S18|Mathematics|Q014,18,5th April 2nd Shift,Mathematics,14,368,369,371,372
+S18|Mathematics|Q015,18,5th April 2nd Shift,Mathematics,15,369,370,372,373
+S18|Mathematics|Q016,18,5th April 2nd Shift,Mathematics,16,370,371,373,374
+S18|Mathematics|Q017,18,5th April 2nd Shift,Mathematics,17,371,372,374,375
+S18|Mathematics|Q018,18,5th April 2nd Shift,Mathematics,18,372,372,375,375
+S18|Mathematics|Q019,18,5th April 2nd Shift,Mathematics,19,372,373,375,376
+S18|Mathematics|Q020,18,5th April 2nd Shift,Mathematics,20,373,374,376,377
+S18|Mathematics|Q021,18,5th April 2nd Shift,Mathematics,21,374,375,377,378
+S18|Mathematics|Q022,18,5th April 2nd Shift,Mathematics,22,375,376,378,379
+S18|Mathematics|Q023,18,5th April 2nd Shift,Mathematics,23,376,377,379,380
+S18|Mathematics|Q024,18,5th April 2nd Shift,Mathematics,24,377,377,380,380
+S18|Mathematics|Q025,18,5th April 2nd Shift,Mathematics,25,377,380,380,383
+S19|Physics|Q001,19,6th April 1st Shift,Physics,1,380,380,383,383
+S19|Physics|Q002,19,6th April 1st Shift,Physics,2,380,381,383,384
+S19|Physics|Q003,19,6th April 1st Shift,Physics,3,381,382,384,385
+S19|Physics|Q004,19,6th April 1st Shift,Physics,4,382,383,385,386
+S19|Physics|Q005,19,6th April 1st Shift,Physics,5,383,384,386,387
+S19|Physics|Q006,19,6th April 1st Shift,Physics,6,384,385,387,388
+S19|Physics|Q007,19,6th April 1st Shift,Physics,7,385,386,388,389
+S19|Physics|Q008,19,6th April 1st Shift,Physics,8,386,387,389,390
+S19|Physics|Q009,19,6th April 1st Shift,Physics,9,387,388,390,391
+S19|Physics|Q010,19,6th April 1st Shift,Physics,10,388,388,391,391
+S19|Physics|Q011,19,6th April 1st Shift,Physics,11,388,389,391,392
+S19|Physics|Q012,19,6th April 1st Shift,Physics,12,389,390,392,393
+S19|Physics|Q013,19,6th April 1st Shift,Physics,13,390,391,393,394
+S19|Physics|Q014,19,6th April 1st Shift,Physics,14,391,392,394,395
+S19|Physics|Q015,19,6th April 1st Shift,Physics,15,392,393,395,396
+S19|Physics|Q016,19,6th April 1st Shift,Physics,16,393,394,396,397
+S19|Physics|Q017,19,6th April 1st Shift,Physics,17,394,395,397,398
+S19|Physics|Q018,19,6th April 1st Shift,Physics,18,395,395,398,398
+S19|Physics|Q019,19,6th April 1st Shift,Physics,19,395,396,398,399
+S19|Physics|Q020,19,6th April 1st Shift,Physics,20,396,397,399,400
+S19|Physics|Q021,19,6th April 1st Shift,Physics,21,397,398,400,401
+S19|Physics|Q022,19,6th April 1st Shift,Physics,22,398,398,401,401
+S19|Physics|Q023,19,6th April 1st Shift,Physics,23,398,399,401,402
+S19|Physics|Q024,19,6th April 1st Shift,Physics,24,399,399,402,402
+S19|Physics|Q025,19,6th April 1st Shift,Physics,25,399,400,402,403
+S20|Chemistry|Q001,20,6th April 1st Shift,Chemistry,1,400,401,403,404
+S20|Chemistry|Q002,20,6th April 1st Shift,Chemistry,2,401,402,404,405
+S20|Chemistry|Q003,20,6th April 1st Shift,Chemistry,3,402,403,405,406
+S20|Chemistry|Q004,20,6th April 1st Shift,Chemistry,4,403,404,406,407
+S20|Chemistry|Q005,20,6th April 1st Shift,Chemistry,5,404,404,407,407
+S20|Chemistry|Q006,20,6th April 1st Shift,Chemistry,6,404,405,407,408
+S20|Chemistry|Q007,20,6th April 1st Shift,Chemistry,7,405,406,408,409
+S20|Chemistry|Q008,20,6th April 1st Shift,Chemistry,8,406,407,409,410
+S20|Chemistry|Q009,20,6th April 1st Shift,Chemistry,9,407,408,410,411
+S20|Chemistry|Q010,20,6th April 1st Shift,Chemistry,10,408,409,411,412
+S20|Chemistry|Q011,20,6th April 1st Shift,Chemistry,11,409,410,412,413
+S20|Chemistry|Q012,20,6th April 1st Shift,Chemistry,12,410,411,413,414
+S20|Chemistry|Q013,20,6th April 1st Shift,Chemistry,13,411,411,414,414
+S20|Chemistry|Q014,20,6th April 1st Shift,Chemistry,14,411,412,414,415
+S20|Chemistry|Q015,20,6th April 1st Shift,Chemistry,15,412,413,415,416
+S20|Chemistry|Q016,20,6th April 1st Shift,Chemistry,16,413,414,416,417
+S20|Chemistry|Q017,20,6th April 1st Shift,Chemistry,17,414,415,417,418
+S20|Chemistry|Q018,20,6th April 1st Shift,Chemistry,18,415,416,418,419
+S20|Chemistry|Q019,20,6th April 1st Shift,Chemistry,19,416,417,419,420
+S20|Chemistry|Q020,20,6th April 1st Shift,Chemistry,20,417,418,420,421
+S20|Chemistry|Q021,20,6th April 1st Shift,Chemistry,21,418,418,421,421
+S20|Chemistry|Q022,20,6th April 1st Shift,Chemistry,22,418,419,421,422
+S20|Chemistry|Q023,20,6th April 1st Shift,Chemistry,23,419,419,422,422
+S20|Chemistry|Q024,20,6th April 1st Shift,Chemistry,24,419,420,422,423
+S20|Chemistry|Q025,20,6th April 1st Shift,Chemistry,25,420,420,423,423
+S21|Mathematics|Q001,21,6th April 1st Shift,Mathematics,1,420,421,423,424
+S21|Mathematics|Q002,21,6th April 1st Shift,Mathematics,2,421,422,424,425
+S21|Mathematics|Q003,21,6th April 1st Shift,Mathematics,3,422,423,425,426
+S21|Mathematics|Q004,21,6th April 1st Shift,Mathematics,4,423,424,426,427
+S21|Mathematics|Q005,21,6th April 1st Shift,Mathematics,5,424,424,427,427
+S21|Mathematics|Q006,21,6th April 1st Shift,Mathematics,6,424,425,427,428
+S21|Mathematics|Q007,21,6th April 1st Shift,Mathematics,7,425,426,428,429
+S21|Mathematics|Q008,21,6th April 1st Shift,Mathematics,8,426,426,429,429
+S21|Mathematics|Q009,21,6th April 1st Shift,Mathematics,9,426,427,429,430
+S21|Mathematics|Q010,21,6th April 1st Shift,Mathematics,10,427,428,430,431
+S21|Mathematics|Q011,21,6th April 1st Shift,Mathematics,11,428,429,431,432
+S21|Mathematics|Q012,21,6th April 1st Shift,Mathematics,12,429,430,432,433
+S21|Mathematics|Q013,21,6th April 1st Shift,Mathematics,13,430,430,433,433
+S21|Mathematics|Q014,21,6th April 1st Shift,Mathematics,14,430,431,433,434
+S21|Mathematics|Q015,21,6th April 1st Shift,Mathematics,15,431,433,434,436
+S21|Mathematics|Q016,21,6th April 1st Shift,Mathematics,16,433,434,436,437
+S21|Mathematics|Q017,21,6th April 1st Shift,Mathematics,17,434,434,437,437
+S21|Mathematics|Q018,21,6th April 1st Shift,Mathematics,18,434,435,437,438
+S21|Mathematics|Q019,21,6th April 1st Shift,Mathematics,19,435,436,438,439
+S21|Mathematics|Q020,21,6th April 1st Shift,Mathematics,20,436,437,439,440
+S21|Mathematics|Q021,21,6th April 1st Shift,Mathematics,21,437,437,440,440
+S21|Mathematics|Q022,21,6th April 1st Shift,Mathematics,22,437,438,440,441
+S21|Mathematics|Q023,21,6th April 1st Shift,Mathematics,23,438,439,441,442
+S21|Mathematics|Q024,21,6th April 1st Shift,Mathematics,24,439,439,442,442
+S21|Mathematics|Q025,21,6th April 1st Shift,Mathematics,25,439,442,442,445
+S22|Physics|Q001,22,6th April 2nd Shift,Physics,1,442,442,445,445
+S22|Physics|Q002,22,6th April 2nd Shift,Physics,2,442,443,445,446
+S22|Physics|Q003,22,6th April 2nd Shift,Physics,3,443,444,446,447
+S22|Physics|Q004,22,6th April 2nd Shift,Physics,4,444,445,447,448
+S22|Physics|Q005,22,6th April 2nd Shift,Physics,5,445,446,448,449
+S22|Physics|Q006,22,6th April 2nd Shift,Physics,6,446,447,449,450
+S22|Physics|Q007,22,6th April 2nd Shift,Physics,7,447,448,450,451
+S22|Physics|Q008,22,6th April 2nd Shift,Physics,8,448,449,451,452
+S22|Physics|Q009,22,6th April 2nd Shift,Physics,9,449,449,452,452
+S22|Physics|Q010,22,6th April 2nd Shift,Physics,10,449,450,452,453
+S22|Physics|Q011,22,6th April 2nd Shift,Physics,11,450,451,453,454
+S22|Physics|Q012,22,6th April 2nd Shift,Physics,12,451,452,454,455
+S22|Physics|Q013,22,6th April 2nd Shift,Physics,13,452,452,455,455
+S22|Physics|Q014,22,6th April 2nd Shift,Physics,14,452,453,455,456
+S22|Physics|Q015,22,6th April 2nd Shift,Physics,15,453,454,456,457
+S22|Physics|Q016,22,6th April 2nd Shift,Physics,16,454,455,457,458
+S22|Physics|Q017,22,6th April 2nd Shift,Physics,17,455,455,458,458
+S22|Physics|Q018,22,6th April 2nd Shift,Physics,18,455,456,458,459
+S22|Physics|Q019,22,6th April 2nd Shift,Physics,19,456,457,459,460
+S22|Physics|Q020,22,6th April 2nd Shift,Physics,20,457,458,460,461
+S22|Physics|Q021,22,6th April 2nd Shift,Physics,21,458,459,461,462
+S22|Physics|Q022,22,6th April 2nd Shift,Physics,22,459,459,462,462
+S22|Physics|Q023,22,6th April 2nd Shift,Physics,23,459,460,462,463
+S22|Physics|Q024,22,6th April 2nd Shift,Physics,24,460,461,463,464
+S22|Physics|Q025,22,6th April 2nd Shift,Physics,25,461,462,464,465
+S23|Chemistry|Q001,23,6th April 2nd Shift,Chemistry,1,462,462,465,465
+S23|Chemistry|Q002,23,6th April 2nd Shift,Chemistry,2,462,463,465,466
+S23|Chemistry|Q003,23,6th April 2nd Shift,Chemistry,3,463,464,466,467
+S23|Chemistry|Q004,23,6th April 2nd Shift,Chemistry,4,464,465,467,468
+S23|Chemistry|Q005,23,6th April 2nd Shift,Chemistry,5,465,466,468,469
+S23|Chemistry|Q006,23,6th April 2nd Shift,Chemistry,6,466,467,469,470
+S23|Chemistry|Q007,23,6th April 2nd Shift,Chemistry,7,467,468,470,471
+S23|Chemistry|Q008,23,6th April 2nd Shift,Chemistry,8,468,468,471,471
+S23|Chemistry|Q009,23,6th April 2nd Shift,Chemistry,9,468,469,471,472
+S23|Chemistry|Q010,23,6th April 2nd Shift,Chemistry,10,469,470,472,473
+S23|Chemistry|Q011,23,6th April 2nd Shift,Chemistry,11,470,470,473,473
+S23|Chemistry|Q012,23,6th April 2nd Shift,Chemistry,12,470,471,473,474
+S23|Chemistry|Q013,23,6th April 2nd Shift,Chemistry,13,471,472,474,475
+S23|Chemistry|Q014,23,6th April 2nd Shift,Chemistry,14,472,473,475,476
+S23|Chemistry|Q015,23,6th April 2nd Shift,Chemistry,15,473,474,476,477
+S23|Chemistry|Q016,23,6th April 2nd Shift,Chemistry,16,474,474,477,477
+S23|Chemistry|Q017,23,6th April 2nd Shift,Chemistry,17,474,475,477,478
+S23|Chemistry|Q018,23,6th April 2nd Shift,Chemistry,18,475,476,478,479
+S23|Chemistry|Q019,23,6th April 2nd Shift,Chemistry,19,476,477,479,480
+S23|Chemistry|Q020,23,6th April 2nd Shift,Chemistry,20,477,478,480,481
+S23|Chemistry|Q021,23,6th April 2nd Shift,Chemistry,21,478,478,481,481
+S23|Chemistry|Q022,23,6th April 2nd Shift,Chemistry,22,478,479,481,482
+S23|Chemistry|Q023,23,6th April 2nd Shift,Chemistry,23,479,479,482,482
+S23|Chemistry|Q024,23,6th April 2nd Shift,Chemistry,24,479,480,482,483
+S23|Chemistry|Q025,23,6th April 2nd Shift,Chemistry,25,480,480,483,483
+S24|Mathematics|Q001,24,6th April 2nd Shift,Mathematics,1,480,481,483,484
+S24|Mathematics|Q002,24,6th April 2nd Shift,Mathematics,2,481,482,484,485
+S24|Mathematics|Q003,24,6th April 2nd Shift,Mathematics,3,482,482,485,485
+S24|Mathematics|Q004,24,6th April 2nd Shift,Mathematics,4,482,483,485,486
+S24|Mathematics|Q005,24,6th April 2nd Shift,Mathematics,5,483,484,486,487
+S24|Mathematics|Q006,24,6th April 2nd Shift,Mathematics,6,484,485,487,488
+S24|Mathematics|Q007,24,6th April 2nd Shift,Mathematics,7,485,486,488,489
+S24|Mathematics|Q008,24,6th April 2nd Shift,Mathematics,8,486,486,489,489
+S24|Mathematics|Q009,24,6th April 2nd Shift,Mathematics,9,486,487,489,490
+S24|Mathematics|Q010,24,6th April 2nd Shift,Mathematics,10,487,488,490,491
+S24|Mathematics|Q011,24,6th April 2nd Shift,Mathematics,11,488,489,491,492
+S24|Mathematics|Q012,24,6th April 2nd Shift,Mathematics,12,489,490,492,493
+S24|Mathematics|Q013,24,6th April 2nd Shift,Mathematics,13,490,491,493,494
+S24|Mathematics|Q014,24,6th April 2nd Shift,Mathematics,14,491,492,494,495
+S24|Mathematics|Q015,24,6th April 2nd Shift,Mathematics,15,492,492,495,495
+S24|Mathematics|Q016,24,6th April 2nd Shift,Mathematics,16,492,493,495,496
+S24|Mathematics|Q017,24,6th April 2nd Shift,Mathematics,17,493,494,496,497
+S24|Mathematics|Q018,24,6th April 2nd Shift,Mathematics,18,494,495,497,498
+S24|Mathematics|Q019,24,6th April 2nd Shift,Mathematics,19,495,496,498,499
+S24|Mathematics|Q020,24,6th April 2nd Shift,Mathematics,20,496,497,499,500
+S24|Mathematics|Q021,24,6th April 2nd Shift,Mathematics,21,497,497,500,500
+S24|Mathematics|Q022,24,6th April 2nd Shift,Mathematics,22,497,498,500,501
+S24|Mathematics|Q023,24,6th April 2nd Shift,Mathematics,23,498,499,501,502
+S24|Mathematics|Q024,24,6th April 2nd Shift,Mathematics,24,499,500,502,503
+S24|Mathematics|Q025,24,6th April 2nd Shift,Mathematics,25,500,503,503,506
+S25|Physics|Q001,25,8th April 2nd Shift,Physics,1,503,503,506,506
+S25|Physics|Q002,25,8th April 2nd Shift,Physics,2,503,505,506,508
+S25|Physics|Q003,25,8th April 2nd Shift,Physics,3,505,505,508,508
+S25|Physics|Q004,25,8th April 2nd Shift,Physics,4,505,506,508,509
+S25|Physics|Q005,25,8th April 2nd Shift,Physics,5,506,507,509,510
+S25|Physics|Q006,25,8th April 2nd Shift,Physics,6,507,508,510,511
+S25|Physics|Q007,25,8th April 2nd Shift,Physics,7,508,509,511,512
+S25|Physics|Q008,25,8th April 2nd Shift,Physics,8,509,510,512,513
+S25|Physics|Q009,25,8th April 2nd Shift,Physics,9,510,511,513,514
+S25|Physics|Q010,25,8th April 2nd Shift,Physics,10,511,512,514,515
+S25|Physics|Q011,25,8th April 2nd Shift,Physics,11,512,513,515,516
+S25|Physics|Q012,25,8th April 2nd Shift,Physics,12,513,514,516,517
+S25|Physics|Q013,25,8th April 2nd Shift,Physics,13,514,515,517,518
+S25|Physics|Q014,25,8th April 2nd Shift,Physics,14,515,515,518,518
+S25|Physics|Q015,25,8th April 2nd Shift,Physics,15,515,516,518,519
+S25|Physics|Q016,25,8th April 2nd Shift,Physics,16,516,517,519,520
+S25|Physics|Q017,25,8th April 2nd Shift,Physics,17,517,518,520,521
+S25|Physics|Q018,25,8th April 2nd Shift,Physics,18,518,518,521,521
+S25|Physics|Q019,25,8th April 2nd Shift,Physics,19,518,519,521,522
+S25|Physics|Q020,25,8th April 2nd Shift,Physics,20,519,521,522,524
+S25|Physics|Q021,25,8th April 2nd Shift,Physics,21,521,521,524,524
+S25|Physics|Q022,25,8th April 2nd Shift,Physics,22,521,521,524,524
+S25|Physics|Q023,25,8th April 2nd Shift,Physics,23,521,522,524,525
+S25|Physics|Q024,25,8th April 2nd Shift,Physics,24,522,522,525,525
+S25|Physics|Q025,25,8th April 2nd Shift,Physics,25,522,523,525,526
+S26|Chemistry|Q001,26,8th April 2nd Shift,Chemistry,1,523,524,526,527
+S26|Chemistry|Q002,26,8th April 2nd Shift,Chemistry,2,524,525,527,528
+S26|Chemistry|Q003,26,8th April 2nd Shift,Chemistry,3,525,525,528,528
+S26|Chemistry|Q004,26,8th April 2nd Shift,Chemistry,4,525,526,528,529
+S26|Chemistry|Q005,26,8th April 2nd Shift,Chemistry,5,526,527,529,530
+S26|Chemistry|Q006,26,8th April 2nd Shift,Chemistry,6,527,528,530,531
+S26|Chemistry|Q007,26,8th April 2nd Shift,Chemistry,7,528,529,531,532
+S26|Chemistry|Q008,26,8th April 2nd Shift,Chemistry,8,529,530,532,533
+S26|Chemistry|Q009,26,8th April 2nd Shift,Chemistry,9,530,531,533,534
+S26|Chemistry|Q010,26,8th April 2nd Shift,Chemistry,10,531,531,534,534
+S26|Chemistry|Q011,26,8th April 2nd Shift,Chemistry,11,531,532,534,535
+S26|Chemistry|Q012,26,8th April 2nd Shift,Chemistry,12,532,533,535,536
+S26|Chemistry|Q013,26,8th April 2nd Shift,Chemistry,13,533,534,536,537
+S26|Chemistry|Q014,26,8th April 2nd Shift,Chemistry,14,534,534,537,537
+S26|Chemistry|Q015,26,8th April 2nd Shift,Chemistry,15,534,535,537,538
+S26|Chemistry|Q016,26,8th April 2nd Shift,Chemistry,16,535,536,538,539
+S26|Chemistry|Q017,26,8th April 2nd Shift,Chemistry,17,536,537,539,540
+S26|Chemistry|Q018,26,8th April 2nd Shift,Chemistry,18,537,538,540,541
+S26|Chemistry|Q019,26,8th April 2nd Shift,Chemistry,19,538,539,541,542
+S26|Chemistry|Q020,26,8th April 2nd Shift,Chemistry,20,539,539,542,542
+S26|Chemistry|Q021,26,8th April 2nd Shift,Chemistry,21,539,540,542,543
+S26|Chemistry|Q022,26,8th April 2nd Shift,Chemistry,22,540,541,543,544
+S26|Chemistry|Q023,26,8th April 2nd Shift,Chemistry,23,541,541,544,544
+S26|Chemistry|Q024,26,8th April 2nd Shift,Chemistry,24,541,542,544,545
+S26|Chemistry|Q025,26,8th April 2nd Shift,Chemistry,25,542,542,545,545
+S27|Mathematics|Q001,27,8th April 2nd Shift,Mathematics,1,542,543,545,546
+S27|Mathematics|Q002,27,8th April 2nd Shift,Mathematics,2,543,544,546,547
+S27|Mathematics|Q003,27,8th April 2nd Shift,Mathematics,3,544,545,547,548
+S27|Mathematics|Q004,27,8th April 2nd Shift,Mathematics,4,545,546,548,549
+S27|Mathematics|Q005,27,8th April 2nd Shift,Mathematics,5,546,547,549,550
+S27|Mathematics|Q006,27,8th April 2nd Shift,Mathematics,6,547,548,550,551
+S27|Mathematics|Q007,27,8th April 2nd Shift,Mathematics,7,548,548,551,551
+S27|Mathematics|Q008,27,8th April 2nd Shift,Mathematics,8,548,549,551,552
+S27|Mathematics|Q009,27,8th April 2nd Shift,Mathematics,9,549,550,552,553
+S27|Mathematics|Q010,27,8th April 2nd Shift,Mathematics,10,550,551,553,554
+S27|Mathematics|Q011,27,8th April 2nd Shift,Mathematics,11,551,552,554,555
+S27|Mathematics|Q012,27,8th April 2nd Shift,Mathematics,12,552,553,555,556
+S27|Mathematics|Q013,27,8th April 2nd Shift,Mathematics,13,553,554,556,557
+S27|Mathematics|Q014,27,8th April 2nd Shift,Mathematics,14,554,555,557,558
+S27|Mathematics|Q015,27,8th April 2nd Shift,Mathematics,15,555,556,558,559
+S27|Mathematics|Q016,27,8th April 2nd Shift,Mathematics,16,556,557,559,560
+S27|Mathematics|Q017,27,8th April 2nd Shift,Mathematics,17,557,558,560,561
+S27|Mathematics|Q018,27,8th April 2nd Shift,Mathematics,18,558,560,561,563
+S27|Mathematics|Q019,27,8th April 2nd Shift,Mathematics,19,560,560,563,563
+S27|Mathematics|Q020,27,8th April 2nd Shift,Mathematics,20,560,561,563,564
+S27|Mathematics|Q021,27,8th April 2nd Shift,Mathematics,21,561,561,564,564
+S27|Mathematics|Q022,27,8th April 2nd Shift,Mathematics,22,561,562,564,565
+S27|Mathematics|Q023,27,8th April 2nd Shift,Mathematics,23,562,563,565,566
+S27|Mathematics|Q024,27,8th April 2nd Shift,Mathematics,24,563,564,566,567
+S27|Mathematics|Q025,27,8th April 2nd Shift,Mathematics,25,564,565,567,568

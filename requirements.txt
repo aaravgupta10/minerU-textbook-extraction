@@ -1,0 +1,11 @@
+# Requires Python 3.10+ (scripts use PEP 604 `X | None` type hints).
+# Runs on the laptop (label recovery, pilot selection) and on the AWS box.
+pymupdf
+boto3
+openai   # Gemma is called via an OpenAI-compatible gateway ("Mantle"), not boto3
+
+# NOT here on purpose: MinerU itself. It's a heavy GPU package installed
+# separately on the AWS A10 instance per its own install docs
+# (`pip install -U "mineru[core]"` - confirm against the version you
+# actually install, see progress.md "AWS calibration" entries; version 4.0.7
+# turned out to be a very different CLI than expected, see progress.md).

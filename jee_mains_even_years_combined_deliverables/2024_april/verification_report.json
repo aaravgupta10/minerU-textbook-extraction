@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "result": "WARN",
+    "n_pass": 17,
+    "n_warn": 1,
+    "n_fail": 0
+  },
+  "checks": [
+    {
+      "status": "PASS",
+      "name": "all stage artifacts present",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "questions_index.csv column schema matches reference",
+      "detail": "q_id,section_index,paper,subject_label,q_no,content_page,page_end,original_page,orig_page_end"
+    },
+    {
+      "status": "PASS",
+      "name": "total pages = kept + ads",
+      "detail": "764 = 763 + 1"
+    },
+    {
+      "status": "PASS",
+      "name": "page_map.csv row count matches content.pdf page count",
+      "detail": "763 rows"
+    },
+    {
+      "status": "PASS",
+      "name": "page_map.csv content_pdf_page is a contiguous 1..N run",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "page_map.csv original_page is strictly increasing, no dup",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "every question's content_page/page_end is inside content.pdf",
+      "detail": "900 rows checked"
+    },
+    {
+      "status": "PASS",
+      "name": "page_end >= content_page for every question",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "original_page / orig_page_end match page_map.csv exactly",
+      "detail": "tag stage agrees with split stage on every row"
+    },
+    {
+      "status": "PASS",
+      "name": "no duplicate q_id (re-derived independently)",
+      "detail": "900 ids, all unique"
+    },
+    {
+      "status": "PASS",
+      "name": "every section is a clean 1->N run (re-derived independently)",
+      "detail": "30 sections"
+    },
+    {
+      "status": "PASS",
+      "name": "independent numbers match stage1_gate_report.json",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "shift/paper labels: every section labelled, count matches expected",
+      "detail": "10 distinct labels, 30 sections / 3 subjects = 10 expected"
+    },
+    {
+      "status": "PASS",
+      "name": "no paper label spans a non-contiguous run of sections",
+      "detail": ""
+    },
+    {
+      "status": "WARN",
+      "name": "orphan content pages match gate report (re-derived independently)",
+      "detail": "1 orphan page(s): [1]"
+    },
+    {
+      "status": "PASS",
+      "name": "pages/ image count matches content.pdf page count",
+      "detail": "763 images"
+    },
+    {
+      "status": "PASS",
+      "name": "removed/ image count matches ad page count",
+      "detail": "1 images"
+    },
+    {
+      "status": "PASS",
+      "name": "no render failures",
+      "detail": "render_failures.json absent"
+    }
+  ],
+  "spot_check": {
+    "ad_pages_to_eyeball": [
+      2
+    ],
+    "review_pages_to_eyeball": [
+      1
+    ],
+    "random_question_sample": [
+      {
+        "q_id": "S29|Chemistry|Q025",
+        "subject": "Chemistry",
+        "q_no": "25",
+        "paper": "9 Apr - Evening Shift",
+        "original_page": "730",
+        "orig_page_end": "731",
+        "image_hint": "pages/page_0730.png"
+      },
+      {
+        "q_id": "S14|Chemistry|Q005",
+        "subject": "Chemistry",
+        "q_no": "5",
+        "paper": "6 Apr - Morning Shift",
+        "original_page": "328",
+        "orig_page_end": "331",
+        "image_hint": "pages/page_0328.png"
+      },
+      {
+        "q_id": "S26|Chemistry|Q027",
+        "subject": "Chemistry",
+        "q_no": "27",
+        "paper": "9 Apr - Morning Shift",
+        "original_page": "645",
+        "orig_page_end": "645",
+        "image_hint": "pages/page_0645.png"
+      },
+      {
+        "q_id": "S15|Mathematics|Q011",
+        "subject": "Mathematics",
+        "q_no": "11",
+        "paper": "6 Apr - Morning Shift",
+        "original_page": "363",
+        "orig_page_end": "364",
+        "image_hint": "pages/page_0363.png"
+      },
+      {
+        "q_id": "S02|Chemistry|Q012",
+        "subject": "Chemistry",
+        "q_no": "12",
+        "paper": "4 Apr - Morning Shift",
+        "original_page": "36",
+        "orig_page_end": "36",
+        "image_hint": "pages/page_0036.png"
+      },
+      {
+        "q_id": "S09|Mathematics|Q026",
+        "subject": "Mathematics",
+        "q_no": "26",
+        "paper": "5 Apr - Morning Shift",
+        "original_page": "218",
+        "orig_page_end": "219",
+        "image_hint": "pages/page_0218.png"
+      }
+    ]
+  }
+}
